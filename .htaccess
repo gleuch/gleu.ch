@@ -1,0 +1,35 @@
+AddType application/octet-stream .pdf
+<Files *.pdf>
+  ForceType application/octet-stream
+  Header set Content-Disposition attachment
+</Files>
+
+Options +FollowSymlinks
+RewriteEngine On
+RewriteBase /
+
+
+# Error documents
+ErrorDocument 404 /errors/404
+ErrorDocument 500 /error/500
+
+
+# Special rules for URL migrations
+RewriteRule ^favicon.ico /assets/favicon.ico [R,L]
+RewriteRule ^favicon.png /assets/favicon.ico [R,L]
+RewriteRule ^play/ctrl-f-d /projects/ctrl-f-d [R,L]
+RewriteRule ^work/client-list$ /work/list [R,L]
+
+RewriteRule ^tfwmywtfm http://photos.gleuch.com/tfwmywtfm [R,L]
+
+
+# Fix Apache internal dummy connections from breaking [(site_url)] cache
+RewriteCond %{HTTP_USER_AGENT} ^.*internal\ dummy\ connection.*$ [NC]
+RewriteRule .* - [F,L]
+
+
+# Allow .php-less paths
+RewriteEngine On 
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME}\.php -f 
+RewriteRule ^(.*)$ $1.php
