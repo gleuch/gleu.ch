@@ -1,5 +1,8 @@
 <?php
 
+include_once('../_globals/functions.inc.php');
+
+
 $page_title = 'Server Error - Greg Leuch: Creative + User Interaction';
 $meta_robots = 'noindex,follow';
 
@@ -8,25 +11,24 @@ $meta_robots = 'noindex,follow';
 <!DOCTYPE html>
 <html>
 <?php include '../_globals/template_header.inc.php'; ?>
-<body class="">
+<body class="error_page">
  <div id="template_wrapper" class="c">
   <div class="rel c">
 
-   <aside id="sidebar">
-
-   </aside>
-
    <article id="content">
-
     <section class="intro">
-     <h1>Document Had a Boo-boo</h1>
+     <h1>Document Boo-boo</h1>
      <h4>An error has occurred.</h4>
     </section>
 
     <p class="large serif lt_grey">The document you were looking for had an internal server error.</p>
 
-    </div>
+    <p class="large serif lt_grey"><a href="/">Return to homepage &raquo;</a></p>
    </article>
+
+   <aside id="sidebar">
+
+   </aside>
 
   </div>
 

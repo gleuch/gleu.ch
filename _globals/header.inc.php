@@ -11,7 +11,8 @@ if (!isset($nav_section)) $nav_section = '';
      <li class="<?php if ($nav_section == 'projects') echo 'selected'; ?>"><a href="/projects" title="Projects" class="">Projects</a></li>
      <li class="<?php if ($nav_section == 'about') echo 'selected'; ?>"><a href="/about" title="About" class="">About</a></li>
      <li class="<?php if ($nav_section == 'contact') echo 'selected'; ?>"><a href="/contact" title="Contact" class="">Contact</a></li>
-     <li><a href="https://twitter.com/gleuch" class="twitter" target="_blank"><i class="icon twitter">Twitter: @gleuch</i></a></li>
+     <li class="twitter"><a href="https://twitter.com/gleuch" target="_blank"><i class="icon twitter">Twitter: @gleuch</i></a></li>
+     <li class="facebook"><a href="https://facebook.com/gleuch" target="_blank"><i class="icon facebook">Facebook: Greg Leuch</i></a></li>
     </ul>
    </nav>
   </header>

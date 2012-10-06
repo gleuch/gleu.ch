@@ -9,6 +9,9 @@ RewriteEngine On
 RewriteBase /
 
 
+# TODO :: DON'T LIST DIR FILES
+
+
 # Error documents
 ErrorDocument 404 /errors/404
 ErrorDocument 500 /error/500

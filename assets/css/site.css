@@ -12,8 +12,8 @@
 */
 
 
-@font-face {font-family: 'AdriannaDemiBold'; src: url('../fonts/Adrianna-DemiBold-webfont.eot'); src: url('../fonts/Adrianna-DemiBold-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/Adrianna-DemiBold-webfont.woff') format('woff'), url('../fonts/Adrianna-DemiBold-webfont.ttf') format('truetype'), url('../fonts/Adrianna-DemiBold-webfont.svg#AdriannaDemiBold') format('svg'); font-weight: normal; font-style: normal;}
-@font-face {font-family: 'AdriannaRegular'; src: url('../fonts/Adrianna-Regular-webfont.eot'); src: url('../fonts/Adrianna-Regular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/Adrianna-Regular-webfont.woff') format('woff'), url('../fonts/Adrianna-Regular-webfont.ttf') format('truetype'), url('../fonts/Adrianna-Regular-webfont.svg#AdriannaRegular') format('svg'); font-weight: normal; font-style: normal;}
+@font-face {font-family: 'AdriannaDemiBold'; src: url('../fonts/Adrianna-DemiBold-webfont.eot'); src: url('../fonts/Adrianna-DemiBold-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/Adrianna-DemiBold-webfont.woff') format('woff'), url('../fonts/Adrianna-DemiBold-webfont.ttf') format('truetype'), url('../fonts/Adrianna-DemiBold-webfont.svg#AdriannaDemiBold') format('svg'); font-weight: 600; font-style: normal; font-variant: normal;}
+@font-face {font-family: 'AdriannaRegular'; src: url('../fonts/Adrianna-Regular-webfont.eot'); src: url('../fonts/Adrianna-Regular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/Adrianna-Regular-webfont.woff') format('woff'), url('../fonts/Adrianna-Regular-webfont.ttf') format('truetype'), url('../fonts/Adrianna-Regular-webfont.svg#AdriannaRegular') format('svg'); font-weight: 500; font-style: normal; font-variant: normal;}
 
 
 /* --- the @gleuch default setup - updated 2012-10-02 ------------------------- */
@@ -35,25 +35,27 @@ ins {text-decoration: none;}
 del {text-decoration: line-through;}
 table {border-collapse: collapse; border-spacing: 0; font-size: 1.0em;}
 thead, tbody, tr, th, td {font-size: 1.0em; line-height: 1.0em;}
-body, h1, h2, h3, h4, h5, h6, input, select, textarea {font-family: Helvetica, Arial, sans-serif; line-height: 1.2em;}
+body, h1, h2, h3, h4, h5, h6, input, select, textarea, button {font-family: Helvetica, Arial, sans-serif; line-height: 1.2em;}
 h1, h2, h3, h4, h5, h6, input, select, textarea, p, blockquote, li, dt, dd {letter-spacing: 0;}
 p, blockquote, li, dt, dd {font-size: 1.3em; font-family: Helvetica, Arial, sans-serif; color: #222; line-height: 1.25em;}
 code {display: block; font-size: 1.3em; color: #404040; line-height: 1.25em;}
 blockquote p, blockquote blockquote, li li, p code {font-size: 1.0em;}
 dt {font-weight: bold;}
 
-a {color: rgba(25,162,162,1); text-decoration: none;}
-a:focus, a:hover {color: rgba(8,120,120,1);}
+a {color: rgba(12,132,132,1); text-decoration: none;} /* darkened blue for better visibility */
+a:focus, a:hover {color: rgba(8,120,120,1); -webkit-transition: color .2s ease-in; -moz-transition: color .2s ease-in;}
 
-h1, h2, h3, h4, h5, h6 {color: rgba(88,87,89,1); font-family: 'AdriannaDemiBold', Helvetica, Arial, sans-serif; letter-spacing: -.05em;}
+h1, h2, h3, h4, h5, h6 {color: rgba(88,87,89,1); font-family: 'AdriannaDemiBold', Helvetica, Arial, sans-serif; letter-spacing: -.02em;}
 h1 {font-size: 2.8em; font-weight: 600;}
 h2 {font-size: 2.4em; font-weight: 600;}
 h3 {font-size: 2.2em; font-weight: 600;}
 h4 {font-size: 2.0em; font-weight: 600;}
 h5 {font-size: 1.8em; font-weight: 600;}
 h6 {font-size: 1.6em; font-weight: 600;}
-p {color: rgba(102,101,103,1); letter-spacing: -.05em;}
+p {color: rgba(102,101,103,1); letter-spacing: -.01em;}
 
+.a {font-family: 'AdriannaRegular', Helvetica, Arial, sans-serif; letter-spacing: -.06em;}
+.a.b {font-family: 'AdriannaDemiBold', Helvetica, Arial, sans-serif; letter-spacing: -.06em;}
 
 
 /* 
@@ -100,9 +102,13 @@ p {color: rgba(102,101,103,1); letter-spacing: -.05em;}
 
 i.icon {display: inline-block; text-indent: -9999px; font-style: normal; background: url(../images/assets.png) 150px 150px no-repeat;}
 i.icon.logo {width: 102px; height: 38px; background-position: 0 0;}
-a:hover i.icon.logo {background-position: 0 -38px;}
+a:hover i.icon.logo, a:focus i.icon.logo {background-position: 0 -38px;}
 i.icon.twitter {width: 16px; height: 15px; background-position: -102px 0;}
-a:hover i.icon.twitter {background-position: -102px -15px;}
+a:hover i.icon.twitter, a:focus i.icon.twitter {background-position: -102px -15px;}
+i.icon.facebook {width: 15px; height: 15px; background-position: -102px -30px;}
+a:hover i.icon.facebook, a:focus i.icon.facebook {background-position: -102px -45px;}
+i.icon.pdf {width: 10px; height: 10px; background-position: -118px 0px;}
+a:hover i.icon.pdf, a:focus i.icon.pdf {background-position: -118px -10px;}
 
 p.large {font-size: 1.7em;}
 p.large.serif.lt_grey {color: rgba(102,101,103,.82);}
@@ -114,36 +120,101 @@ p.large.serif.lt_grey {color: rgba(102,101,103,.82);}
 
 #template_static_bar {position: fixed; left: 0; top: 0; bottom: 0; width: 5px; background-color: rgba(25,162,162,1);}
 
-#header {position: absolute; top: 22px; left: 30px;}
 #header h1 {}
 #header h1 a {}
-#header ul {margin: 0; padding: 9px 0 0 21px; list-style: none;}
+#header ul {list-style: none;}
 #header ul li {padding: 0 0 4px 0; margin: 0; color: rgba(166,165,167,1); text-transform: lowercase; font-size: 2.0em; line-height: 1.2em; font-family: 'AdriannaRegular', Helvetica, Arial, sans-serif;}
 #header ul li a {color: rgba(166,165,167,1); font-weight: 500;}
-#header ul li a:hover {color: rgba(25,162,162,1); -webkit-transition: color .2s ease-in;}
+#header ul li a:hover, #header ul li a:focus {color: rgba(25,162,162,1);}
 #header ul li.selected a {color: rgba(25,162,162,1);}
 
-#content {width: 700px; min-height: 250px; padding: 68px 0 51px 250px; margin: 0;}
-#content p {padding: 0 0 8px 0; line-height: 1.4em;}
+
+#content p {padding: 0 0 8px 0; line-height: 1.5em;}
+#content p.serif a {color: rgba(12,132,132,1); text-decoration: underline;}
+#content p.serif a:hover, #content p.serif a:focus {color: rgba(25,162,162,1);}
+
 #content .intro {padding: 0 0 16px 0; margin: 0 0 18px 0; border-bottom: 1px solid rgba(69,68,68,.12);}
 #content .intro h1 {padding: 0 0 2px 0; font-size: 3.2em;}
-#content .intro h4 {padding: 0 0 2px 0; color: rgba(102,101,103,.82); font-size: 2.4em; font-family: 'AdriannaRegular', Helvetica, Arial, sans-serif;}
+#content .intro h4 {padding: 0 0 2px 0; color: rgba(102,101,103,.82); font-size: 2.4em; font-family: 'AdriannaRegular', Helvetica, Arial, sans-serif; font-weight: 500;}
 #content .intro p {padding: 0 0 2px 0; font-size: 1.7em;}
 
-#sidebar {clear: none; float: left; width: 150px; padding: 232px 0 0 51px; margin: 0 0 51px 0;}
+
 #sidebar .box {padding: 24px 0 0 0;}
 #sidebar .box:first-child {padding: 0;}
 #sidebar .box h4 {padding: 0 0 4px 0; color: rgba(25,162,162,1); font-size: 1.7em; line-height: 1.2em; text-transform: lowercase;}
 #sidebar .box p {padding: 0 0 4px 0; color: rgba(166,165,167,1); font-size: 1.2em; line-height: 1.4em;}
 #sidebar .box a.grey, #sidebar .box span.grey {color: rgba(166,165,167,1);}
-#sidebar .box a.grey:hover {color: rgba(25,162,162,1);}
+#sidebar .box a.grey:hover, #sidebar .box a.grey:focus {color: rgba(25,162,162,1);}
 #sidebar .box ul {list-style: none; margin: 0; padding: 0;}
 #sidebar .box ul li {padding: 0 0 3px 0; margin: 0;}
 
-#footer {position: absolute; bottom: 24px; left: 51px;}
+
 #footer p {font-size: 1.0em; color: rgba(166,165,167,1); line-height: 1.3em;}
 
 
 
 /* --- PAGE SPECIFIC ---------------------------------------------------------- */
 body.contact #sidebar .box span.grey {display: inline-block; width: 37px;}
+body.contact #contact_errors {padding: 16px 16px; margin: 8px 0; border: 1px solid rgba(205,34,34,1); border-radius: 12px; background: rgba(205,34,34,1);}
+body.contact #contact_errors p {padding: 8px 0 0 0; margin: 0; font-size: 1.6em; line-height: 1.2em; font-weight: bold; color: rgba(249,248,248,1); text-shadow: 0 1px 2px rgba(88,87,89,.24);}
+body.contact #contact_errors p:first-child {padding: 0;}
+body.contact form {padding: 12px 0;}
+body.contact form fieldset {}
+body.contact form fieldset.buttons {margin: 12px 0 0 0; padding: 12px 0 12px 112px; border-top: 1px solid rgba(69,68,68,.12);}
+body.contact form fieldset.buttons button {padding: 10px 10px 9px 10px; border: 1px solid rgba(25,162,162,1); border-radius: 5px; background: rgba(25,162,162,1); color: rgba(249,248,248,1); font-size: 1.6em; font-weight: bold; line-height: 1.0em; -webkit-transition: background-color .1s ease-in; text-shadow: 0 1px 2px rgba(88,87,89,.24); cursor: pointer;}
+body.contact form fieldset.buttons button:hover, body.contact form fieldset.buttons button:focus {background-color: rgba(8,120,120,.92);}
+body.contact form fieldset.buttons button:focus {box-shadow: 0 2px 3px rgba(88,87,89,.12);}
+body.contact form fieldset .row {padding: 5px 0;}
+body.contact form fieldset .row:after {content: "."; clear: both; float: none; display: block; height: 0; visibility: hidden;}
+body.contact form fieldset .row_label {clear: none; float: left; width: 100px; text-align: right;}
+body.contact form fieldset .row_label label {display: inline-block; padding: 8px 0 0 0; font-size: 1.4em; color: rgba(102,101,103,1); font-weight: 600;}
+body.contact form fieldset .row_items {padding: 0 0 0 112px;}
+body.contact form fieldset .row_items span.req {padding: 0 0 0 6px; vertical-align: top; color: rgba(205,34,34,.82); font-weight: 600; font-size: 1.6em;}
+body.contact form fieldset .row_items input[type=text], body.contact form fieldset .row_items textarea {width: 320px; padding: 5px 6px; margin: 0; border: 1px solid rgba(166,165,167,1); background: rgba(249,248,248,1); color: rgba(166,165,167,1); font-size: 1.6em; line-height: 1.0em; -webkit-transition: color .1s ease-in, border-color .1s ease-in, box-shadow .1s ease-in;}
+body.contact form fieldset .row_items input[type=text]:focus, body.contact form fieldset .row_items textarea:focus {border-color: rgba(88,87,89,1); color: rgba(88,87,89,1); box-shadow: 0 2px 3px rgba(88,87,89,.12);}
+body.contact form fieldset .row_items textarea {height: 100px;}
+
+
+
+/* Retina style displays */
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+  /* TODO : HIGHER QUAL ICONS */
+}
+
+@media only all and (min-width: 480px) {
+  #header {position: absolute; top: 22px; left: 30px;}
+  #header ul {margin: 0; padding: 9px 0 0 21px;}
+  /*#header ul li.twitter, #header ul li.facebook {clear: none; float: left; padding: 0 0 0 8px;}
+  #header ul li.twitter {padding: 0;}*/
+  #header ul li.facebook {display: none;}
+  #content {width: 700px; min-height: 250px; padding: 68px 0 51px 250px; margin: 0;}
+  #sidebar {position: absolute; top: 232px; left: 51px; width: 150px; padding: 0; margin: 0 0 51px 0;}
+  #footer {position: absolute; bottom: 24px; left: 51px;}
+
+  body.home #content, body.about #content, body.error_page #content {width: 500px;}
+}
+
+/* Mobile layout */
+@media handheld, only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+  body {font-size: 50%;}
+  #header {position: absolute; left: 19px; top: 13px; right: 9px;}
+  #header nav ul {padding: 2px 0 0 0;}
+  #header nav ul li {clear: none; float: left; padding: 0 0 0 12px; font-size: 2.0em;}
+  #header nav ul li:first-child {padding: 0;}
+  #header nav ul li.twitter {position: absolute; top: 0; right: 0;}
+  #header nav ul li.facebook {display: none; position: absolute; top: 0; right: 24px;}
+  #content {min-height: 250px; margin: 0 9px 16px 19px; padding: 96px 0 0 0;}
+  #sidebar {margin: 16px 9px 16px 19px; padding: 16px 0 0 0; border-top: 1px solid rgba(69,68,68,.12); font-size: 125%;}
+  #sidebar .box {padding: 8px 0 0 0;}
+  #sidebar .box:first-child {padding: 0;}
+  #footer {margin: 0 9px 12px 19px; padding: 12px 0 0 0; border-top: 1px solid rgba(69,68,68,.12); font-size: 125%;}
+
+
+  body.contact form fieldset .row {font-size: 125%;}
+  body.contact form fieldset .row_label {width: 70px; text-align: right;}
+  body.contact form fieldset .row_label label {display: inline-block; padding: 8px 0 0 0; font-size: 1.4em; color: rgba(102,101,103,1); font-weight: 600;}
+  body.contact form fieldset .row_items {padding: 0 0 0 82px;}
+  body.contact form fieldset.buttons {padding-left: 82px;}
+  body.contact form fieldset .row_items input[type=text], body.contact form fieldset .row_items textarea {width: 180px;}
+
+}
