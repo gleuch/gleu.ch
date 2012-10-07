@@ -21,9 +21,9 @@ $meta_robots = 'noindex,follow';
      <h4>An error has occurred.</h4>
     </section>
 
-    <p class="large serif lt_grey">This document could not be found. Please try again.</p>
+    <p class="large serif">This document could not be found. Please try again.</p>
 
-    <p class="large serif lt_grey"><a href="/">Return to homepage &raquo;</a></p>
+    <p class="large serif"><a href="/">Return to homepage &raquo;</a></p>
    </article>
 
    <aside id="sidebar">

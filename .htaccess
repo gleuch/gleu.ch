@@ -4,7 +4,7 @@ AddType application/octet-stream .pdf
   Header set Content-Disposition attachment
 </Files>
 
-Options +FollowSymlinks
+Options +FollowSymlinks -Indexes
 RewriteEngine On
 RewriteBase /
 
@@ -14,6 +14,7 @@ RewriteBase /
 
 # Error documents
 ErrorDocument 404 /errors/404
+ErrorDocument 403 /errors/404
 ErrorDocument 500 /error/500
 
 

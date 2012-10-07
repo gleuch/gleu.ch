@@ -21,8 +21,8 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
      <p class="link a b"><a href="/work/all">View a list of all work &raquo;</a></p>
     </section>
 
-    <div class="group year">
-     <h3>2012</h3>
+    <div class="group callout_group c">
+     <h3 class="callout">2012</h3>
      
      <section class="feature_item">
       <div class="feature_image">

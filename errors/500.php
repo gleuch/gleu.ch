@@ -21,9 +21,14 @@ $meta_robots = 'noindex,follow';
      <h4>An error has occurred.</h4>
     </section>
 
-    <p class="large serif lt_grey">The document you were looking for had an internal server error.</p>
+    <p class="large serif">The document you were looking for had an internal server error.</p>
 
-    <p class="large serif lt_grey"><a href="/">Return to homepage &raquo;</a></p>
+    <p class="large serif"><a href="/">Return to homepage &raquo;</a></p>
+
+    <p>&nbsp;</p>
+
+    <p class="large serif tc"><img src="http://25.media.tumblr.com/tumblr_lwk4he52Xy1qzolrpo1_400.gif" alt="" title="Talented Rollerskating in Tia'namen Square, Beijing, China." style="border: 3px solid rgba(102,104,105,.48);" /></p>
+
    </article>
 
    <aside id="sidebar">
