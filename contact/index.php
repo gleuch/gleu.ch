@@ -50,7 +50,7 @@ if (isset($_POST['auth'])) {
     $message .= "IP Address: ". $_SERVER['REMOTE_ADDR'] ."\n";
 
     if (empty($errors)) {
-      if (mail('contact@gleuch.com', 'gleuch.com Contact Message', $message, "From: contact_form@gleuch.com\r\nReply-to: "+ $_POST['email'] +"\r\n")) {
+      if (mail('contact@gleuch.com', 'gleuch.com Contact Message', $message, "From: contact_form@gleuch.com\r\n")) {
       } else {
       }
     }
