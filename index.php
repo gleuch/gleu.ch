@@ -34,16 +34,16 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
          <dt><a href="">Modern Primate</a></dt>
          <dd class="about">some about text here</dd>
          <dd>My Damn Channel</dd>
-         <dd>develop</dd>
+         <dd>work: develop</dd>
         </dt>
        </li>
 
        <li>
         <dl>
-         <dd class="image"><a href=""><img src="" title="" alt="" /></a></dd>
-         <dt><a href="">Modern Primate</a></dt>
-         <dd>My Damn Channel</dd>
-         <dd>develop</dd>
+         <dd class="image"><a href="/projects/shaved-bieber"><img src="" title="Shaved Bieber" alt="" /></a></dd>
+         <dt><a href="/projects/shaved-bieber">Shaved Bieber</a></dt>
+         <dd class="about">An innovative tool to clean up the lower regions of web pages from unwanted Justin Bieber mentions.</dd>
+         <dd>project: browser extensions</dd>
         </dt>
        </li>
       </ul>

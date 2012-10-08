@@ -143,7 +143,7 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
      </dl>
 
      <dl>
-      <dt><a href="http://fffff.at/shaved-bieber/" target="_blank">Shaved Bieber <i class="icon link">Link</i></a></dt>
+      <dt><a href="http://fffff.at/shaved-bieber/" target="_blank">Shaved Bieber <i class="icon link">Link</i></a> <a href="/projects/shaved-bieber"><i class="icon case_study">Case Study</i></a></dt>
       <dd><em>browser extensions</em></dd>
      </dl>
 
@@ -250,12 +250,12 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
 
      <dl>
       <dt>WILL PAINT 4 FOOD</dt>
-      <dd><em>sculpture</em></dd>
+      <dd><em>installation</em></dd>
      </dl>
 
      <dl>
       <dt>Not Today's Butter</dt>
-      <dd><em>sculpture</em></dd>
+      <dd><em>poster media</em></dd>
      </dl>
     </div>
 
