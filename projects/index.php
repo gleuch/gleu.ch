@@ -1,7 +1,9 @@
 <?php
 
-include_once('./_globals/functions.inc.php');
+include_once('../_globals/functions.inc.php');
 
+
+$nav_section = 'projects';
 
 $page_title = 'Greg Leuch: Creative + User Interaction';
 
@@ -9,20 +11,20 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
 ?>
 <!DOCTYPE html>
 <html>
-<?php include './_globals/template_header.inc.php'; ?>
-<body class="home">
+<?php include '../_globals/template_header.inc.php'; ?>
+<body class="projects projects_list featured_list">
  <div id="template_wrapper" class="c">
   <div class="rel c">
 
    <article id="content">
     <section class="intro">
-     <h1>Portfolio of Greg Leuch</h1>
-     <p class="large serif">Nothing better explains the skills and expertise of a true professional then by the quality of work they produce and a willingness to show it.</p>
-     <p class="link a b"><a href="/work/all">View a list of all work &raquo;</a></p>
+     <h1>Projects by Greg Leuch</h1>
+     <p class="large serif">Lorem ipsum...</p>
+     <p class="link a b"><a href="/projects/all">View a list of all projects &raquo;</a></p>
     </section>
 
     <section class="featured_list">
-     <h3>Featured Work &amp; Projects</h3>
+     <h3>Featured Projects</h3>
 
      <div class="first c">
       <!-- <h3 class="callout">2012</h3> -->
@@ -49,6 +51,10 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
       </ul>
      </div>
     </section>
+
+    <aside class="footer">
+     <p class="tc"><a href="/projects/all" class="b">View list of all projects &raquo;</a></p>
+    </aside>
    </article>
 
    <aside id="sidebar">
@@ -65,13 +71,13 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
 
   </div>
 
-<?php include './_globals/header.inc.php'; ?>
+<?php include '../_globals/header.inc.php'; ?>
 
  </div>
 
  <div id="template_static_bar"></div>
 
-<?php include './_globals/footer.inc.php'; ?>
+<?php include '../_globals/footer.inc.php'; ?>
 
 
 </body>

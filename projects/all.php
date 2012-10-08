@@ -12,7 +12,7 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
 <!DOCTYPE html>
 <html>
 <?php include '../_globals/template_header.inc.php'; ?>
-<body class="work client_list">
+<body class="projects projects_list">
  <div id="template_wrapper" class="c">
   <div class="rel c">
 
@@ -259,9 +259,6 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
      </dl>
     </div>
 
-    <aside class="notice">
-     <p>Some employed and contract work have been omitted from this list due to disclosure agreements, lack of substantial work, employment situations, or other various reasons. Work listed with a company underneath the title indicates work done as an employee or under contract with the company listed. All other work is considered freelanced.</p>
-    </aside>
    </article>
 
    <aside id="sidebar">
