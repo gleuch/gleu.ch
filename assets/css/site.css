@@ -245,11 +245,19 @@ body.contact form fieldset .row_items textarea {height: 100px;}
 
 
 /* Retina style displays */
-@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+@media 
+  only screen and (min--moz-device-pixel-ratio: 2), 
+  only screen and (-o-min-device-pixel-ratio: 2/1), 
+  only screen and (-webkit-min-device-pixel-ratio: 2), 
+  only screen and (min-device-pixel-ratio: 2) 
+{
   /* TODO : HIGHER QUAL ICONS */
 }
 
-@media only all and (min-width: 480px) {
+@media 
+  only all and (min-width: 480px), 
+  only all and (min-width: 840px) and (-webkit-min-device-pixel-ratio: 2) 
+{
   #header {position: absolute; top: 22px; left: 30px;}
   #header ul {margin: 0; padding: 9px 0 0 21px;}
   /*#header ul li.twitter, #header ul li.facebook {clear: none; float: left; padding: 0 0 0 8px;}
@@ -286,8 +294,13 @@ body.contact form fieldset .row_items textarea {height: 100px;}
   #content.work_item .item_list dl > *:nth-child(3n+1) {clear: both;}
 }
 
-/* Mobile layout */
-@media handheld, only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+/* Mobile layout, standard */
+@media handheld, 
+  only screen and (max-width: 480px), 
+  only all and (max-width: 840px) and (-webkit-min-device-pixel-ratio: 2), 
+  only screen and (max-device-width: 480px), 
+  only screen and (min-device-width: 640px) and (max-device-width: 1136px) and (-webkit-min-device-pixel-ratio: 2) 
+{
   body {font-size: 50%;}
   #header {position: absolute; left: 19px; top: 13px; right: 9px;}
   #header nav ul {padding: 2px 0 0 0;}
