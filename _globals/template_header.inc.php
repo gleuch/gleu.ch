@@ -42,6 +42,7 @@ if (!isset($meta_tags)) $meta_tags = array();
  <script type="text/javascript" src="/assets/js/<?php echo $js['js'] ?>"></script>
 <?php endforeach; ?>
 
+ <meta name="viewport" content="width=device-width; initial-scale=1.0" />
 <?php foreach($stylesheets as $css): ?>
  <link rel="stylesheet" href="/assets/css/<?php echo $css['css'] ?>" media="<?php echo (isset($css['media']) ? $css['media'] : 'all') ?>" />
 <?php endforeach; ?>

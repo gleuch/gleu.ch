@@ -86,13 +86,9 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
 
    <aside id="sidebar">
     <section class="box">
-     <h4>Who</h4>
-     <p>Creative freelancer. Making Metafetch. Former Senior Designer at Buzzfeed. Previously at Know Your Meme/Rocketboom and JESS3. Current FAT Lab virtual fellow. New York City, New York. Design, web, technology, and art.</p>
-    </section>
-
-    <section class="box">
-     <h4>What</h4>
-     <p>User Experience Designer with a background in interface design, interaction design, visual design, e-commerce, and web development.</p>
+     <h4>Create &amp; Release</h4>
+     <p>Greg works more specifically with design and web technology, with a focus with browser extensions. His multi-faceted skills allows him to experiment with ideas of content, community, commerce, and user interaction.</p>
+     <p>His projects are primarily released through the <a href="http://fffff.at" target="_blank">Free Art &amp; Technology Lab (FAT Lab)</a>, where he is a Virtual Fellow.</p>
     </section>
    </aside>
 

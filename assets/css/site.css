@@ -243,21 +243,8 @@ body.contact form fieldset .row_items input[type=text]:focus, body.contact form 
 body.contact form fieldset .row_items textarea {height: 100px;}
 
 
-
-/* Retina style displays */
-@media 
-  only screen and (min--moz-device-pixel-ratio: 2), 
-  only screen and (-o-min-device-pixel-ratio: 2/1), 
-  only screen and (-webkit-min-device-pixel-ratio: 2), 
-  only screen and (min-device-pixel-ratio: 2) 
-{
-  /* TODO : HIGHER QUAL ICONS */
-}
-
-@media 
-  only all and (min-width: 480px), 
-  only all and (min-width: 840px) and (-webkit-min-device-pixel-ratio: 2) 
-{
+/* Default screen display */
+@media only screen {
   #header {position: absolute; top: 22px; left: 30px;}
   #header ul {margin: 0; padding: 9px 0 0 21px;}
   /*#header ul li.twitter, #header ul li.facebook {clear: none; float: left; padding: 0 0 0 8px;}
@@ -294,6 +281,16 @@ body.contact form fieldset .row_items textarea {height: 100px;}
   #content.work_item .item_list dl > *:nth-child(3n+1) {clear: both;}
 }
 
+/* Retina style displays */
+@media 
+  only screen and (min--moz-device-pixel-ratio: 2), 
+  only screen and (-o-min-device-pixel-ratio: 2/1), 
+  only screen and (-webkit-min-device-pixel-ratio: 2), 
+  only screen and (min-device-pixel-ratio: 2) 
+{
+  /* TODO : HIGHER QUAL ICONS */
+}
+
 /* Mobile layout, standard */
 @media handheld, 
   only screen and (max-width: 480px), 
@@ -308,25 +305,36 @@ body.contact form fieldset .row_items textarea {height: 100px;}
   #header nav ul li:first-child {padding: 0;}
   #header nav ul li.twitter {position: absolute; top: 0; right: 0;}
   #header nav ul li.facebook {display: none; position: absolute; top: 0; right: 24px;}
-  #content {min-height: 250px; margin: 0 9px 16px 19px; padding: 96px 0 0 0;}
-  #sidebar {margin: 16px 9px 16px 19px; padding: 16px 0 0 0; border-top: 1px solid rgba(69,68,68,.12); font-size: 125%;}
+  #content, #content.work_item {width: auto; min-height: 250px; margin: 0 9px 16px 19px; padding: 96px 0 0 0;}
+  #sidebar {position: relative; top: 0; left: 0; width: auto; margin: 16px 9px 16px 19px; padding: 16px 0 0 0; border-top: 1px solid rgba(69,68,68,.12); font-size: 125%;}
   #sidebar .box {padding: 8px 0 0 0;}
   #sidebar .box:first-child {padding: 0;}
-  #footer {margin: 0 9px 12px 19px; padding: 12px 0 0 0; border-top: 1px solid rgba(69,68,68,.12); font-size: 125%;}
+  #footer {position: relative; bottom: 0; left: 0; width: auto; margin: 0 9px 12px 19px; padding: 12px 0 0 0; border-top: 1px solid rgba(69,68,68,.12); font-size: 125%;}
 
-  #content .group.callout_group dl {clear: none; float: left; width: 120px; padding: 0 0 8px 12px;}
+
+  body.home #content, body.about #content, body.error_page #content {width: auto;}
+  body.work.featured_list.clients_list #content, body.projects.featured_list.projects_list #content {width: auto;}
+
+  body.work_item #sidebar {top: auto; width: auto;}
+
+  #content .group.callout_group h3.callout {margin: 0;}
+  #content .group.callout_group dl {clear: none; float: left; width: 42%; padding: 0 0 8px 12px;}
+  #content .group.callout_group dl:nth-child(3n+1) {padding-left: 12px;}
+  #content .group.callout_group dl:nth-child(3n+2) {clear: none;}
   #content .group.callout_group dl:nth-child(2n) {clear: both; padding-left: 0;}
 
-  #content.work_item .carousel_buttons {padding: 4px 0; text-align: center;}
-  #content.work_item .carousel_buttons a {padding: 4px; margin: 0 4px;}
+  #content.work_item .carousel_buttons {padding: 8px 0 4px 0; text-align: center;}
+  #content.work_item .carousel_buttons a.next, #content.work_item .carousel_buttons a.prev {position: relative; top: auto; right: auto; padding: 4px; margin: 0 4px;}
 
+  #content.work_item .intro {position: relative; bottom: auto; left: auto; z-index: auto; width: auto; padding: 0 0 15px 0; background: none; border-top: none;}
   #content.work_item .intro h4 {font-size: 1.6em; line-height: 1.0em; padding: 0 0 8px 0;}
   #content.work_item .intro h1 {font-size: 2.8em; padding: 0;}
   #content.work_item .intro p {padding: 3px 0 0 0; font-size: 1.6em; line-height: 1.33em;}
 
   #content.work_item .item_list, #content.work_item .grouped_list {padding: 0 0 12px 0;}
-
-  #content.work_item .item_list dl > * {clear: none; float: left; width: 120px; padding: 0 0 8px 12px; font-size: 1.2em; font-family: Helvetica, Arial, sans-serif;}
+  #content.work_item .item_list dl > * {clear: none; float: left; width: 42%; padding: 0 0 8px 12px; font-size: 1.2em; font-family: Helvetica, Arial, sans-serif;}
+  #content.work_item .item_list dl > *:nth-child(3n) {padding-left: 12px;}
+  #content.work_item .item_list dl > *:nth-child(3n+1) {clear: none;}
   #content.work_item .item_list dl > *:nth-child(2n+1) {clear: both; padding-left: 0;}
 
   body.contact form fieldset .row {font-size: 125%;}
@@ -335,4 +343,11 @@ body.contact form fieldset .row_items textarea {height: 100px;}
   body.contact form fieldset .row_items {padding: 0 0 0 82px;}
   body.contact form fieldset.buttons {padding-left: 82px;}
   body.contact form fieldset .row_items input[type=text], body.contact form fieldset .row_items textarea {width: 180px;}
+}
+
+@media
+  only all and (max-width: 840px) and (-webkit-min-device-pixel-ratio: 2), 
+  only screen and (min-device-width: 640px) and (max-device-width: 1136px) and (-webkit-min-device-pixel-ratio: 2) 
+{
+  #template_wrapper {max-width: 640px;}
 }
