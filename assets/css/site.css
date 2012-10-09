@@ -294,7 +294,7 @@ body.contact form fieldset .row_items textarea {height: 100px;}
   only screen and (-webkit-min-device-pixel-ratio: 2), 
   only screen and (min-device-pixel-ratio: 2) 
 {
-  i.icon {background-image: url(../images/assets@2x.png);}
+  i.icon {background-image: url(../images/assets@2x.png); -webkit-background-size: auto 300px; -moz-background-size: auto 300px; background-size: auto 300px;}
 }
 
 /* Mobile layout, standard */
