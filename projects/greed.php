@@ -43,7 +43,7 @@ $page_title = 'G.R.E.E.D. - Greg Leuch: Creative + User Interaction';
     <section class="statement paragraph c">
      <h3>Statement</h3>
      <p class="medium serif">Greed powers our economy through restrictive licensing deals and claims of copyright. What enables this demand is the ability to control access or demand incentives as compensation for their work. The Internet, built without these restrictions, is being threatened to include protections for licensed and copyrighted content.</p>
-     <p class="medium serif">G.R.E.E.D. (Glom &amp; Restrict Entities on Existing Domains) demonstrates how a web user’s browsing experience and anonymity can be threatened through restrictions, take-downs, censorship, and monetary blackmail if such license and copyright restrictions are imposed on the Internet.</p>
+     <p class="medium serif">G.R.E.E.D. (Glom &amp; Restrict Entities on Existing Domains) demonstrates how a web user's browsing experience and anonymity can be threatened through restrictions, take-downs, censorship, and monetary blackmail if such license and copyright restrictions are imposed on the Internet.</p>
     </section>
 
     <section class="exhibitions grouped_list c">

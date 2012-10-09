@@ -43,7 +43,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
         <dl>
          <dd class="image"><a href="/projects/twitter-fileshare"><img src="" title="Twitter Fileshare" alt="" /></a></dd>
          <dt><a href="/projects/twitter-fileshare">Twitter Fileshare</a></dt>
-         <dd class="about">If Twitter is today’s Usenet and Usenet was used for file sharing years ago, why shouldn’t Twitter be used today for file sharing?</dd>
+         <dd class="about">If Twitter is today's Usenet and Usenet was used for file sharing years ago, why shouldn't Twitter be used today for file sharing?</dd>
          <dd>website</dd>
         </dt>
        </li>
@@ -59,9 +59,36 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
 
        <li>
         <dl>
+         <dd class="image"><a href="/projects/fuckCAPTCHA"><img src="" title="fuckCAPTCHA" alt="" /></a></dd>
+         <dt><a href="/projects/fuckCAPTCHA">fuckCAPTCHA</a></dt>
+         <dd class="about">fuckCAPTCHA, an open-source alternative to the spam prevention and evil humanization of human brain cycles for corporate pet projects.</dd>
+         <dd>code</dd>
+        </dt>
+       </li>
+
+       <li>
+        <dl>
+         <dd class="image"><a href="/projects/dr-google"><img src="" title="Dr. Google" alt="" /></a></dd>
+         <dt><a href="/projects/dr-google">Dr. Google</a></dt>
+         <dd class="about">Feeling sick? Not sure what you've come down with? Let Google diagnose you!</dd>
+         <dd>website</dd>
+        </dt>
+       </li>
+
+       <li>
+        <dl>
+         <dd class="image"><a href="/projects/ctrl-f-d"><img src="" title="Ctrl+F'd" alt="" /></a></dd>
+         <dt><a href="/projects/ctrl-f-d">Ctrl+F'd</a></dt>
+         <dd class="about">Many people believe you cannot keyword search online documents. In other words, they are Ctrl+F'd. A playful experiment in "censoring" a web page by hiding text and images behind blocks.</dd>
+         <dd>bookmarklet</dd>
+        </dt>
+       </li>
+
+       <li>
+        <dl>
          <dd class="image"><a href="/projects/fuckflickr"><img src="" title="FuckFlickr" alt="" /></a></dd>
          <dt><a href="/projects/fuckflickr">FuckFlickr</a></dt>
-         <dd class="about">FuckFlickr is open-source image gallery software that won’t narc you out. It created it as an alternative to hosting photos on a certain narc-owned photo sharing site.</dd>
+         <dd class="about">FuckFlickr is open-source image gallery software that won't narc you out. It created it as an alternative to hosting photos on a certain narc-owned photo sharing site.</dd>
          <dd>code</dd>
         </dt>
        </li>

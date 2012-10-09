@@ -42,7 +42,7 @@ $page_title = 'FuckFlickr - Greg Leuch: Creative + User Interaction';
 
     <section class="statement paragraph c">
      <h3>Statement</h3>
-     <p class="medium serif">FuckFlickr is open-source image gallery software that won’t narc you out. It created it as an alternative to hosting photos on a certain narc-owned photo sharing site.</p>
+     <p class="medium serif">FuckFlickr is open-source image gallery software that won't narc you out. It created it as an alternative to hosting photos on a certain narc-owned photo sharing site.</p>
      <p class="medium serif">No database required; just upload it and put images in the data directory. FuckFlickr will automatically create thumbnails, including animated GIFs and supports themes. Titles and descriptions are easily changed with a single text file in each folder. FuckFlickr also offers RSS feeds, toggleable lightbox, sorting, pagination, caching, and more.</p>
     </section>
 
@@ -52,7 +52,7 @@ $page_title = 'FuckFlickr - Greg Leuch: Creative + User Interaction';
     </section>
 
     <section class="exhibitions grouped_list c">
-     <h3>Exhibtions</h3>
+     <h3>Exhibitions</h3>
      <dl>
       <dt><em>Versions</em>, Netherlands Media Arts Institute</dt>
       <dd>Amsterdam, Netherlands<br>Nov 2009</dd>

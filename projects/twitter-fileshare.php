@@ -26,7 +26,7 @@ $page_title = 'Twitter Fileshare - Greg Leuch: Creative + User Interaction';
      <section class="intro">
       <h4>Browser Extensions</h4>
       <h1>Twitter Fileshare</h1>
-      <p class="large serif">If Twitter is today’s Usenet and Usenet was used for file sharing years ago, why shouldn’t Twitter be used today for file sharing?</p>
+      <p class="large serif">If Twitter is today's Usenet and Usenet was used for file sharing years ago, why shouldn't Twitter be used today for file sharing?</p>
      </section>
 
      <section class="featured_images rel">
@@ -42,8 +42,8 @@ $page_title = 'Twitter Fileshare - Greg Leuch: Creative + User Interaction';
 
     <section class="statement paragraph c">
      <h3>Statement</h3>
-     <p class="medium serif">Why is filesharing on Twitter important? Governments and private organizations continue to lock down legitimate file sharing through raids, law suits, and “consumer protection” laws & treaties. And while larger file sharing arenas are targeted, many forget file sharing has existed across many different mediums for decades. Early filesharing beginning with Usenet groups, where the binary data was converted to text characters and reprocessed for download. Facsimile machines follow a similar method of dissemination of binary data. And even ham radio used teletype to transmit photos across long distances by converting photos to ASCII before transmission.</p>
-     <p class="medium serif">If Twitter is today’s Usenet and Usenet was used for file sharing years ago, why shouldn’t Twitter be utilized today for file sharing?</p>
+     <p class="medium serif">Why is filesharing on Twitter important? Governments and private organizations continue to lock down legitimate file sharing through raids, law suits, and "consumer protection" laws & treaties. And while larger file sharing arenas are targeted, many forget file sharing has existed across many different mediums for decades. Early filesharing beginning with Usenet groups, where the binary data was converted to text characters and reprocessed for download. Facsimile machines follow a similar method of dissemination of binary data. And even ham radio used teletype to transmit photos across long distances by converting photos to ASCII before transmission.</p>
+     <p class="medium serif">If Twitter is today's Usenet and Usenet was used for file sharing years ago, why shouldn't Twitter be utilized today for file sharing?</p>
     </section>
 
    </article>
