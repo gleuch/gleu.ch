@@ -294,7 +294,7 @@ body.contact form fieldset .row_items textarea {height: 100px;}
   only screen and (-webkit-min-device-pixel-ratio: 2), 
   only screen and (min-device-pixel-ratio: 2) 
 {
-  /* TODO : HIGHER QUAL ICONS */
+  i.icon {background-image: url(../images/assets@2x.png);}
 }
 
 /* Mobile layout, standard */
@@ -307,17 +307,17 @@ body.contact form fieldset .row_items textarea {height: 100px;}
   #template_static_bar {position: fixed; left: 0; top: 0; bottom: auto; right: 0; width: auto; height: 5px; background-color: rgba(25,162,162,1);}
 
   body {font-size: 50%;}
-  #header {position: absolute; left: 19px; top: 21px; right: 9px;}
+  #header {position: absolute; left: 9px; top: 21px; right: 9px;}
   #header nav ul {padding: 2px 0 0 0;}
   #header nav ul li {clear: none; float: left; padding: 0 0 0 12px; font-size: 2.0em;}
   #header nav ul li:first-child {padding: 0;}
   #header nav ul li.twitter {position: absolute; top: 0; right: 0;}
   #header nav ul li.facebook {display: none; position: absolute; top: 0; right: 24px;}
-  #content, #content.work_item {width: auto; min-height: 250px; margin: 0 9px 16px 19px; padding: 101px 0 0 0;}
-  #sidebar {position: relative; top: 0; left: 0; width: auto; margin: 16px 9px 16px 19px; padding: 16px 0 0 0; border-top: 1px solid rgba(69,68,68,.12); font-size: 125%;}
+  #content, #content.work_item {width: auto; min-height: 250px; margin: 0 9px 16px 9px; padding: 101px 0 0 0;}
+  #sidebar {position: relative; top: 0; left: 0; width: auto; margin: 16px 9px 16px 9px; padding: 16px 0 0 0; border-top: 1px solid rgba(69,68,68,.12); font-size: 125%;}
   #sidebar .box {padding: 8px 0 0 0;}
   #sidebar .box:first-child {padding: 0;}
-  #footer {position: relative; bottom: 0; left: 0; width: auto; margin: 0 9px 12px 19px; padding: 12px 0 0 0; border-top: 1px solid rgba(69,68,68,.12); font-size: 125%;}
+  #footer {position: relative; bottom: 0; left: 0; width: auto; margin: 0 9px 12px 9px; padding: 12px 0 0 0; border-top: 1px solid rgba(69,68,68,.12); font-size: 125%;}
 
 
   body.home #content, body.about #content, body.error_page #content {width: auto;}
