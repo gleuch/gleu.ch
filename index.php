@@ -25,17 +25,23 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
      <h3>Featured Work &amp; Projects</h3>
 
      <div class="first c">
-      <!-- <h3 class="callout">2012</h3> -->
-     
       <ul>
        <li>
         <dl>
-         <dd class="image"><a href=""><img src="" title="" alt="" /></a></dd>
-         <dt><a href="">Modern Primate</a></dt>
-         <dd class="about">some about text here</dd>
-         <dd>My Damn Channel</dd>
-         <dd>work: develop</dd>
-        </dt>
+         <dd class="image"><a href="/work/heineken-fever-keeper"><img src="" title="Heineken Fever Keeper" alt="" /></a></dd>
+         <dt><a href="/work/heineken-fever-keeper">Heineken Fever Keeper</a></dt>
+         <dd class="about">...</dd>
+         <dd>work: browser extensions</dd>
+        </dl>
+       </li>
+
+       <li>
+        <dl>
+         <dd class="image"><a href="/projects/greed"><img src="" title="G.R.E.E.D." alt="" /></a></dd>
+         <dt><a href="/projects/greed">G.R.E.E.D.</a></dt>
+         <dd class="about">An innovative tool to clean up the lower regions of web pages from unwanted Justin Bieber mentions.</dd>
+         <dd>project: browser extensions</dd>
+        </dl>
        </li>
 
        <li>
@@ -44,7 +50,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
          <dt><a href="/projects/shaved-bieber">Shaved Bieber</a></dt>
          <dd class="about">An innovative tool to clean up the lower regions of web pages from unwanted Justin Bieber mentions.</dd>
          <dd>project: browser extensions</dd>
-        </dt>
+        </dl>
        </li>
       </ul>
      </div>

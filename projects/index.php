@@ -36,7 +36,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
          <dt><a href="/projects/greed">G.R.E.E.D.</a></dt>
          <dd class="about">Greed powers our economy through restrictive licensing deals and claims of copyright.</dd>
          <dd>browser extensions</dd>
-        </dt>
+        </dl>
        </li>
 
        <li>
@@ -45,7 +45,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
          <dt><a href="/projects/twitter-fileshare">Twitter Fileshare</a></dt>
          <dd class="about">If Twitter is today's Usenet and Usenet was used for file sharing years ago, why shouldn't Twitter be used today for file sharing?</dd>
          <dd>website</dd>
-        </dt>
+        </dl>
        </li>
 
        <li>
@@ -54,7 +54,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
          <dt><a href="/projects/shaved-bieber">Shaved Bieber</a></dt>
          <dd class="about">An innovative tool to clean up the lower regions of web pages from unwanted Justin Bieber mentions.</dd>
          <dd>browser extensions</dd>
-        </dt>
+        </dl>
        </li>
 
        <li>
@@ -63,7 +63,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
          <dt><a href="/projects/fuckCAPTCHA">fuckCAPTCHA</a></dt>
          <dd class="about">fuckCAPTCHA, an open-source alternative to the spam prevention and evil humanization of human brain cycles for corporate pet projects.</dd>
          <dd>code</dd>
-        </dt>
+        </dl>
        </li>
 
        <li>
@@ -72,7 +72,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
          <dt><a href="/projects/dr-google">Dr. Google</a></dt>
          <dd class="about">Feeling sick? Not sure what you've come down with? Let Google diagnose you!</dd>
          <dd>website</dd>
-        </dt>
+        </dl>
        </li>
 
        <li>
@@ -81,7 +81,34 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
          <dt><a href="/projects/ctrl-f-d">Ctrl+F'd</a></dt>
          <dd class="about">Many people believe you cannot keyword search online documents. In other words, they are Ctrl+F'd. A playful experiment in "censoring" a web page by hiding text and images behind blocks.</dd>
          <dd>bookmarklet</dd>
-        </dt>
+        </dl>
+       </li>
+
+       <li>
+        <dl>
+         <dd class="image"><a href="/projects/lowercase-kanye"><img src="" title="lowercase kanye" alt="" /></a></dd>
+         <dt><a href="/projects/lowercase-kanye">lowercase kanye</a></dt>
+         <dd class="about">Repairing the damage from Kanye West's CAPS LOCK key, one Yeezy blog post at a time.</dd>
+         <dd>bookmarklet</dd>
+        </dl>
+       </li>
+
+       <li>
+        <dl>
+         <dd class="image"><a href="/projects/KANYEFY"><img src="" title="KANYEFY" alt="" /></a></dd>
+         <dt><a href="/projects/KANYEFY">KANYEFY</a></dt>
+         <dd class="about">CAP LOCKS THE WEB AS KANYE WEST SEES IT. MAKE YOUR WEB PAGE YEEZY-APPROVED. A F.A.T. LAB PROJECT.</dd>
+         <dd>bookmarklet</dd>
+        </dl>
+       </li>
+
+       <li>
+        <dl>
+         <dd class="image"><a href="/projects/projections-of-hurtsboro-identity"><img src="" title="Projections of Hurtsboro Identity" alt="" /></a></dd>
+         <dt><a href="/projects/projections-of-hurtsboro-identity">Projections of Hurtsboro Identity</a></dt>
+         <dd class="about">An interactive community event in Russell County, Alabama.</dd>
+         <dd>interactive</dd>
+        </dl>
        </li>
 
        <li>
@@ -90,16 +117,25 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
          <dt><a href="/projects/fuckflickr">FuckFlickr</a></dt>
          <dd class="about">FuckFlickr is open-source image gallery software that won't narc you out. It created it as an alternative to hosting photos on a certain narc-owned photo sharing site.</dd>
          <dd>code</dd>
-        </dt>
+        </dl>
        </li>
 
        <li>
         <dl>
          <dd class="image"><a href="/projects/will-paint-4-food"><img src="" title="WILL PAINT 4 FOOD" alt="" /></a></dd>
          <dt><a href="/projects/will-paint-4-food">WILL PAINT 4 FOOD</a></dt>
-         <dd class="about">WILL PAINT 4 FOOD was a prototype for a new campagin of artist statements recreated in the form of outdoor advertising.</dd>
+         <dd class="about">WILL PAINT 4 FOOD was a prototype for a new campaign of artist statements recreated in the form of outdoor advertising.</dd>
          <dd>installation</dd>
-        </dt>
+        </dl>
+       </li>
+
+       <li>
+        <dl>
+         <dd class="image"><a href="/projects/not-todays-butter"><img src="" title="Not Today's Butter" alt="" /></a></dd>
+         <dt><a href="/projects/not-todays-butter">Not Today's Butter</a></dt>
+         <dd class="about">Concepts of essence and reproduction in a guerilla art campaign.</dd>
+         <dd>guerilla art</dd>
+        </dl>
        </li>
 
       </ul>

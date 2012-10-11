@@ -233,17 +233,6 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
      </dl>
 
      <dl>
-      <dt><a href="http://fffff.at/fuckflickr-info/" target="_blank">FuckFlickr <i class="icon link">Link</i></a></dt>
-      <dd>FAT Lab collaboration</dd>
-      <dd><em>code</em></dd>
-     </dl>
-
-    </div>
-
-    <div class="group callout_group c">
-     <h3 class="callout">2007</h3>
-
-     <dl>
       <dt>Abductive Reasoning and the Creative Mind</dt>
       <dd><em>sculpture</em></dd>
      </dl>
@@ -251,6 +240,12 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
      <dl>
       <dt>WILL PAINT 4 FOOD</dt>
       <dd><em>installation</em></dd>
+     </dl>
+
+     <dl>
+      <dt><a href="http://fffff.at/fuckflickr-info/" target="_blank">FuckFlickr <i class="icon link">Link</i></a></dt>
+      <dd>FAT Lab collaboration</dd>
+      <dd><em>code</em></dd>
      </dl>
 
      <dl>
