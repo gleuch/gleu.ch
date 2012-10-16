@@ -24,7 +24,13 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
 
     <div class="group callout_group first c">
      <h3 class="callout">2012</h3>
- 
+
+     <dl>
+      <dt><a href="http://displaymode.xolator.com" target="_blank">Display Mode <i class="icon link">Link</i></a></dt>
+      <dd>XOlator</dd>
+      <dd><em>web app</em></dd>
+     </dl>
+
      <dl>
       <dt><a href="http://fffff.at/olwimpics/" target="_blank">Olwimpics, the Olympics Blocker <i class="icon link">Link</i></a></dt>
       <dd><em>browser extensions</em></dd>
@@ -93,7 +99,7 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
      </dl>
 
      <dl>
-      <dt><a href="http://myfriend.is/" target="_blank">MyFriend.is <i class="icon link">Link</i></a></dt>
+      <dt>MyFriend.is</dt>
       <dd><em>website</em></dd>
      </dl>
 
