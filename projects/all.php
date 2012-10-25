@@ -27,7 +27,7 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
 
      <dl>
       <dt><a href="http://displaymode.xolator.com" target="_blank">Display Mode <i class="icon link">Link</i></a></dt>
-      <dd>XOlator</dd>
+      <dd>XOlator&trade;</dd>
       <dd><em>web app</em></dd>
      </dl>
 

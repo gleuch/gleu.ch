@@ -25,9 +25,6 @@ foreach ($_POST as $k=>$v) {
 }
 
 
-
-
-
 $errors = false;
 if (isset($_POST['auth'])) {
   if ((($_POST['auth']/date('wW'))+(30*60*10)) > date("U")) {
@@ -51,7 +48,11 @@ if (isset($_POST['auth'])) {
 
     if (empty($errors)) {
       if (mail('Greg Leuch <contact@gleuch.com>', 'gleuch.com Contact Message', $message, "From: Greg Leuch <contact_form@gleuch.com>\r\n")) {
+        header('Location: /contact?thanks');
+        exit;
       } else {
+        header('Location: /contact?error');
+        exit;
       }
     }
   } else {
@@ -87,7 +88,7 @@ $page_title = 'Contact Greg Leuch: Creative + User Interaction';
      <h4>It is easier than you might think.</h4>
     </section>
 
-    <?php if (isset($_POST['auth']) && empty($errors)): ?>
+    <?php if (isset($_GET['thanks']) || (isset($_POST['auth']) && empty($errors))): ?>
      <p class="large serif">Thanks for sending a message. Count to one thousand (slowly) and then check your email inbox for my response.</p>
 
     <?php else: ?>
@@ -96,7 +97,7 @@ $page_title = 'Contact Greg Leuch: Creative + User Interaction';
 
       <?php if ($errors): echo "<div id=\"contact_errors\">". $errors ."</div>"; endif; ?>
 
-      <form action="/contact/index.php" method="post">
+      <form action="/contact/" method="post">
        <input type="hidden" name="auth" value="<?php echo date("U") * date("wW"); ?>" />
        <fieldset>
         <div class="row">

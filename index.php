@@ -15,10 +15,12 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
   <div class="rel c">
 
    <article id="content">
+    <h5 class="tc" style="background:rgba(225,60,60,1); color:rgba(245,245,245,1); padding: 8px 0 10px 0; margin: -40px 0 30px 0;">A work in progress! Stay tuned!</h5>
+     
     <section class="intro">
      <h1>Portfolio of Greg Leuch</h1>
-     <p class="large serif">Nothing better explains the skills and expertise of a true professional then by the quality of work they produce and a willingness to show it.</p>
-     <p class="link a b"><a href="/work/all">View a list of all work &raquo;</a></p>
+     <p class="large serif"> Design, web, technology, and art.</p>
+     <p class="link a b">View a list of all <a href="/work/all">client work</a> or <a href="/projects/all">projects</a>.</p>
     </section>
 
     <section class="featured_list">
@@ -60,7 +62,10 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
    <aside id="sidebar">
     <section class="box">
      <h4>Who</h4>
-     <p>Creative freelancer. Making Metafetch. Former Senior Designer at Buzzfeed. Previously at Know Your Meme/Rocketboom and JESS3. Current FAT Lab virtual fellow. New York City, New York. Design, web, technology, and art.</p>
+<?php /* eventually add pop-block */ ?>
+     <p>Creative freelancer. One part of <a href="http://xolator.com" target="_blank">XOlator&trade;</a>. Making <a href="http://metafetch.com" target="_blank">Metafetch</a> and other products.</p>
+     <p>Current <a href="http://fffff.at" target="_blank">FAT Lab</a> virtual fellow.</p>
+     <p>Former Senior Designer at BuzzFeed. Previously at Know Your Meme, Rocketboom, and JESS3.</p>
     </section>
 
     <section class="box">

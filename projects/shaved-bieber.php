@@ -116,6 +116,7 @@ $page_title = 'Shaved Bieber - Greg Leuch: Creative + User Interaction';
       <dt><a target="_blank" href="http://www.rollingstone.com.br/blog/2010/05/102/">Rolling Stone Brazil (Spanish)</a></dt>
       <dt><a target="_blank" href="http://ottawa.virginradio.ca">106.9 Virgin Radio Ottawa (Radio Interview)</a></dt>
       <dt><a target="_blank" href="http://www.artfagcity.com/2012/04/27/c-r-e-a-m-review/2/">Art Fag City</a></dt>
+      <dt><a target="_blank" href="http://m.timesofindia.com/life-style/people/How-to-block-annoying-celebs-online/articleshow/16821128.cms">Times of India</a></dt>
      </dl>
     </section>
    </article>

@@ -35,12 +35,12 @@ $page_title = 'About Greg Leuch: Creative + User Interaction';
       <dd>Artist Talk on Art Micro Patronage. uStream, Apr 2012. <a href="http://www.ustream.tv/recorded/22100570" target="_blank">[Watch]</a></dd>
       <dd>"The 'AH HA!' Moment - Ideas, Research, and Creative Output", Wuhan University, China. Nov 2011. <a href="http://blog.gleuch.com/post/13779188069/the-ah-ha-moment-is-very-exciting-and-is" target="_blank">[Slides]</a></dd>
       <dd>"The behavior gap between companies and people", RESPECT THE INTERNET. Dec 2010.</dd>
-      <dd>"Shaved Bieber", Ignite NYC. Jun 2010.</dd>
-      <dt>Awards, Highlights, & Distinctions</dt>
-      <dd>"11 Net Artists You Should Know," Flavorpill, 2012.</dd>
+      <dd>"Shaved Bieber", Ignite NYC. Jun 2010. <a href="httphttp://www.youtube.com/watch?v=VhvtAvFBwSk" target="_blank">[Watch]</a></dd>
+      <dt>Awards, Highlights, &amp; Distinctions</dt>
+      <dd>"11 Net Artists You Should Know," Flavorpill, 2012. <a href="http://www.flavorwire.com/324680/10-net-artists-you-should-know#4" target="_blank">[Read]</a></dd>
       <dd>Called an "all-round viral heavyweight". <a href="http://adissertationblog.tumblr.com/post/16782867534/working-the-buzzfeed-contact-sheet">[Source]</a></dd>
       <dd>"Shaved Bieber," 2010 Urlies Peoples' Choice Award. Urlesque, 2010.</dd>
-      <dd>Called a "Web Boffin" by The Guardian. 2010.</dd>
+      <dd>Called a "Web Boffin" by The Guardian. 2010. <a href="http://www.guardian.co.uk/music/2010/may/27/justin-bieber-erased-internet" target="_blank">[Source]</a></dd>
       <dd>"Superfluous Mention in Everything I Write", Helen A.S Popkin Journalism Award. 2010.</dd>
      </dl>
     </section>
