@@ -25,7 +25,7 @@ html * {text-rendering: optimizeLegibility;}
 
 
 body {line-height: 1.0em; font-size: 62.5%; margin: 0; padding: 0; background: rgba(249,248,248,1);}
-body ::selection {background: rgba(25,162,162,.24); color: rgba(88,87,89,1); text-shadow: 0 1px 1px rgba(249,248,248,.72);}
+body ::selection {background: rgba(25,162,162,.24); color: rgba(88,87,89,1); /*text-shadow: 0 1px 1px rgba(249,248,248,.72);*/}
 dl dt {font-weight: bold;}
 ol, ul {list-style: none;}
 blockquote, q {quotes: none;}
@@ -54,8 +54,8 @@ h5 {font-size: 1.8em; font-weight: 600;}
 h6, dt {font-size: 1.6em; font-weight: 600;}
 p, dd {color: rgba(102,101,103,1); letter-spacing: -.01em;}
 
-.a {font-family: 'AdriannaRegular', Helvetica, Arial, sans-serif; letter-spacing: -.06em;}
-.a.b {font-family: 'AdriannaDemiBold', Helvetica, Arial, sans-serif; letter-spacing: -.06em;}
+.a {font-family: 'AdriannaRegular', Helvetica, Arial, sans-serif; letter-spacing: -.04em;}
+.a.b {font-family: 'AdriannaDemiBold', Helvetica, Arial, sans-serif; letter-spacing: -.04em;}
 
 
 /* 
@@ -219,7 +219,10 @@ p.large.serif.lt_grey {color: rgba(102,101,103,.82);}
 
 /* --- PAGE SPECIFIC ---------------------------------------------------------- */
 body.work.client_list .notice {margin: 12px 0 0 0; padding: 16px 0; border-top: 1px solid rgba(69,68,68,.12);}
-body.projects.projects_list .footer {margin: 12px 0 0 0; padding: 16px 0; border-top: 1px solid rgba(69,68,68,.12);}
+body.projects.projects_list .footer, body.work.clients_list .footer {margin: 12px 0 0 0; padding: 16px 0; border-top: 1px solid rgba(69,68,68,.12);}
+
+body.work_item .work_item aside.disclaimer, body.work.clients_list aside.disclaimer {margin: 12px 0 0 0; padding: 16px 0 0 0; border-top: 1px solid rgba(69,68,68,.12);}
+body.work_item .work_item aside.disclaimer p, body.work.clients_list aside.disclaimer p {text-align: center; font-style: italic; color: rgba(166,165,167,1); font-size: 1.1em;}
 
 body.about #content .list {margin: 12px 0 0 0; padding: 16px 0; border-top: 1px solid rgba(69,68,68,.12);}
 

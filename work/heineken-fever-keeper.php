@@ -3,12 +3,7 @@
 include_once('../_globals/functions.inc.php');
 
 
-// Shaved Bieber
-// 2010
-// browser extensions
-
-
-$nav_section = 'projects';
+$nav_section = 'work';
 
 $page_title = 'Heineken Fever Keeper - Greg Leuch: Creative + User Interaction';
 
@@ -118,6 +113,9 @@ $page_title = 'Heineken Fever Keeper - Greg Leuch: Creative + User Interaction';
       <dt><a target="_blank" href="http://www.artfagcity.com/2012/04/27/c-r-e-a-m-review/2/">Art Fag City</a></dt>
      </dl>
     </section>
+
+    <?php include '../_globals/work.footer.inc.php'; ?>
+
    </article>
 
    <aside id="sidebar">

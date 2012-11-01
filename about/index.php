@@ -31,6 +31,11 @@ $page_title = 'About Greg Leuch: Creative + User Interaction';
 
     <section class="list">
      <dl>
+      <dt>Major Exhibitions</dt>
+      <dd>"FAT GOLD: Five Years of Free Art &amp; Technology". Eyebeam, NYC, <s>Nov 2012</s> Mar 2013.</dd>
+      <dd>"C.R.E.A.M.," Art Micro-Patronage. Internet, Apr 2012</dd>
+      <dd>"Distributed Collectives," Little Berlin. Philadelphia, Aug 2011</dd>
+      <dd>"Futurity Now!," transmediale.10. Berlin, Germany, Feb 2010.</dd>
       <dt>Presentations, Discussions, &amp; Panels</dt>
       <dd>Artist Talk on Art Micro Patronage. uStream, Apr 2012. <a href="http://www.ustream.tv/recorded/22100570" target="_blank">[Watch]</a></dd>
       <dd>"The 'AH HA!' Moment - Ideas, Research, and Creative Output", Wuhan University, China. Nov 2011. <a href="http://blog.gleuch.com/post/13779188069/the-ah-ha-moment-is-very-exciting-and-is" target="_blank">[Slides]</a></dd>
