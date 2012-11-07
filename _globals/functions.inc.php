@@ -1,7 +1,5 @@
 <?php
 
-
-
-
+$_flashes = array();
 
 ?>

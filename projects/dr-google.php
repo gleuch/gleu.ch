@@ -2,6 +2,8 @@
 
 include_once('../_globals/functions.inc.php');
 
+array_push($_flashes, array('type' => '', 'msg' => 'Images will be posted shortly.'));
+
 
 // WILL PAINT 4 FOOD
 // 2007
@@ -50,6 +52,8 @@ $page_title = 'Dr. Google - Greg Leuch: Creative + User Interaction';
      <p class="medium serif">Dr. Google spoofs the Google search interface by providing a one-click diagnostic result ("I'm Feeling Icky") to whatever search a person may have. These results are entirely fictitious and do not represent a true diagnosis, however, all viewers have the option for second opinions for their ailments.</p>
      <p class="medium serif"><em>(Not intended for actual medical consultation.)</em></p>
     </section>
+
+    <hr />
 
     <section class="exhibitions grouped_list c">
      <h3>Exhibitions</h3>

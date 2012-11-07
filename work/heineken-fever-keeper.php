@@ -2,6 +2,8 @@
 
 include_once('../_globals/functions.inc.php');
 
+array_push($_flashes, array('type' => '', 'msg' => 'Images will be posted shortly.'));
+
 
 $nav_section = 'work';
 
@@ -38,7 +40,7 @@ $page_title = 'Heineken Fever Keeper - Greg Leuch: Creative + User Interaction';
      </section>
     </div>
 
-    <section class="statement paragraph c">
+    <!-- <section class="statement paragraph c">
      <h3>Statement</h3>
      <p class="medium serif">Shaved Bieber is a JavaScript project converted into a browser bookmarklet and Firefox Add-on. This project, capitalizing on the success of <a href="/projects/ctrl-f-d">Ctrl+F'd</a>, and aims to provide tools to consumers to control, adapt, and modify the contents of the internet from their browser, allowing individuals them to hide content they choose not to see.</p>
      <p class="medium serif">Personal censorship is an emerging idea in response to government and business censorship; an approach to providing a free, open, and neutral web that can still be censored by the individual.</p>
@@ -50,6 +52,8 @@ $page_title = 'Heineken Fever Keeper - Greg Leuch: Creative + User Interaction';
      <p class="medium serif">This piece began as a simple idea and has spurned a public outcry of polar views on technology, pop culture, and online messaging mediums. In two weeks time, the popularity of this piece has garnered over 100,000 video views, 85,000 blog views, hundreds of comments, multiple press mentions, and tens of thousands of tweets.</p>
      <p class="medium serif">After the piece began to grown in popularity, the hate mail and fan mail began to pour in through comments, tweets, and emails. Documentation of fan mail became important dialogical reminder of the effects of censorship, and the <a href="http://shavedbieber.tumblr.com">Tumblr blog</a> was created for this documentation effort, from the accolades to the death threats.</p>
     </section>
+
+    <hr />
 
     <section class="exhibitions grouped_list c">
      <h3>Exhibitions</h3>
@@ -65,6 +69,8 @@ $page_title = 'Heineken Fever Keeper - Greg Leuch: Creative + User Interaction';
      </dl>
     </section>
 
+    <hr />
+
     <section class="awards grouped_list c">
      <h3>Awards</h3>
 
@@ -73,6 +79,8 @@ $page_title = 'Heineken Fever Keeper - Greg Leuch: Creative + User Interaction';
       <dd>Peoples' Choice<br />URLesque</dd>
      </dl>
     </section>
+
+    <hr />
 
     <section class="press item_list c">
      <h3>Press</h3>
@@ -115,7 +123,7 @@ $page_title = 'Heineken Fever Keeper - Greg Leuch: Creative + User Interaction';
       <dt><a target="_blank" href="http://ottawa.virginradio.ca">106.9 Virgin Radio Ottawa (Radio Interview)</a></dt>
       <dt><a target="_blank" href="http://www.artfagcity.com/2012/04/27/c-r-e-a-m-review/2/">Art Fag City</a></dt>
      </dl>
-    </section>
+    </section> -->
 
     <?php include '../_globals/work.footer.inc.php'; ?>
 

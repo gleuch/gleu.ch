@@ -2,6 +2,8 @@
 
 include_once('../_globals/functions.inc.php');
 
+array_push($_flashes, array('type' => '', 'msg' => 'Images will be posted shortly.'));
+
 
 // WILL PAINT 4 FOOD
 // 2007
@@ -53,6 +55,8 @@ $page_title = 'FuckFlickr - Greg Leuch: Creative + User Interaction';
      <h3>Explanation</h3>
      <p class="medium serif"><a href="http://www.cpj.org/awards05/shi_tao.html" target="_blank">Shi Tao</a> is serving a 10-year sentence in prison for writing articles calling for political reform in China, and <a href="http://news.bbc.co.uk/1/hi/world/asia-pacific/4221538.stm" target="_blank">Yahoo helped put him there</a>. It is our duty to provide open-source programs that don't narc you out.</p>
     </section>
+
+    <hr />
 
     <section class="exhibitions grouped_list c">
      <h3>Exhibitions</h3>

@@ -2,6 +2,8 @@
 
 include_once('../_globals/functions.inc.php');
 
+array_push($_flashes, array('type' => '', 'msg' => 'Images will be posted shortly.'));
+
 
 $nav_section = 'work';
 
@@ -59,6 +61,8 @@ $page_title = 'Auburn University Graphic Design Department - Greg Leuch: Creativ
      <h3>Result</h3>
      <p class="medium serif">Working on this project gave me the opportunity to develop a highly efficient, dynamic web site while expanding my knowledge and experience in web development. Although my career in new media design/development began before I entered college, this was the first large-scale web application I have the honor of saying I created from scratch. Knowing that I can work at this level has empowered me to look into a career in creating new web interfaces and applications for larger companies.</p>
     </section>
+
+    <hr />
 
     <section class="exhibitions grouped_list c">
      <h3>Awards</h3>

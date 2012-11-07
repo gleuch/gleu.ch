@@ -2,6 +2,8 @@
 
 include_once('../_globals/functions.inc.php');
 
+array_push($_flashes, array('type' => '', 'msg' => 'Images will be posted shortly.'));
+
 
 // Shaved Bieber
 // 2010
@@ -49,6 +51,8 @@ $page_title = 'Ctrl+F\'d - Greg Leuch: Creative + User Interaction';
      <p class="medium serif tc" style="padding: 15px 0;"><a class="button" href="javascript:function%20ctrl_f_d(u)%7Bvar%20s=document.createElement('script');s.setAttribute('language','JavaScript');s.setAttribute('src',u);document.body.appendChild(s);%7Dctrl_f_d('http://assets.gleuch.com/projects/ctrl-f-d/ctrl-f-d.min.js?v=2');">Ctrl+F'd Bookmarket</a></p>
     </section>
 
+    <hr />
+
     <section class="exhibitions grouped_list c">
      <h3>Exhibitions</h3>
 
@@ -61,6 +65,8 @@ $page_title = 'Ctrl+F\'d - Greg Leuch: Creative + User Interaction';
       <dd>Haus der Kulturen der Welt<br />Feb 2010</dd>
      </dl>
     </section>
+
+    <hr />
 
     <section class="press item_list c">
      <h3>Press</h3>

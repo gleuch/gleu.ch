@@ -2,6 +2,8 @@
 
 include_once('../_globals/functions.inc.php');
 
+array_push($_flashes, array('type' => '', 'msg' => 'Images will be posted shortly.'));
+
 
 $nav_section = 'work';
 
@@ -48,6 +50,8 @@ $page_title = 'Politics4All - Greg Leuch: Creative + User Interaction';
      <h3>Solution</h3>
      <p class="medium serif">Project work included identity design, user interface design, user experience design, and front-end development. Project built using XHTML/CSS, JavaScript, and Ruby on Rails. Additional development included design and development of Wordpress Blog and Facebook application.</p>
     </section>
+
+    <hr />
 
     <section class="exhibitions grouped_list c">
      <h3>Awards</h3>

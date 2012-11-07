@@ -2,6 +2,8 @@
 
 include_once('../_globals/functions.inc.php');
 
+array_push($_flashes, array('type' => '', 'msg' => 'Images will be posted shortly.'));
+
 
 $nav_section = 'work';
 
@@ -52,6 +54,8 @@ $page_title = 'Know Your Meme - Greg Leuch: Creative + User Interaction';
      <p class="medium serif">This project has also required the creation of the Know Your Meme Shop, including the creation of products, site development, inventory management, and order fulfillment through third-party solutions (Shopify &amp; Shipwire). Work also required helping develop the required ad delivery network for the management and serving of site ads within the site, a task that requires management and concern with monetization and community outreach to find acceptable solutions for everyone. Tumblr blog design, Twitter page design, iPhone application design, book layout design, and meme API development have also been required for this project.</p>
     </section>
 
+    <hr />
+
     <section class="exhibitions grouped_list c">
      <h3>Awards</h3>
 
@@ -60,6 +64,8 @@ $page_title = 'Know Your Meme - Greg Leuch: Creative + User Interaction';
       <dd>TIME, 2009</dd>
      </dl>
     </section>
+
+    <hr />
 
     <section class="press item_list c">
      <h3>Press</h3>

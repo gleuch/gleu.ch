@@ -2,6 +2,8 @@
 
 include_once('../_globals/functions.inc.php');
 
+array_push($_flashes, array('type' => '', 'msg' => 'Photos will be posted shortly.'));
+
 
 // WILL PAINT 4 FOOD
 // 2007
@@ -58,6 +60,8 @@ $page_title = 'Not Today\'s Butter - Greg Leuch: Creative + User Interaction';
      <p class="medium serif">The establishment of reason behind the object and corresponding text should be  understandable (or at least acceptable). However, the message are yet to be explained. Surprisingly, there is a direct association between visual depiction and the message to be explained.</p>
      <p class="medium serif">To note another level of aesthetic reasoning, we must address the medium to which this piece is presented. Using repositionable adhesive material, such as magnets and vinyl sticker paper, to affix to particular objects conveys a specific, literal message. It is a cry for a home–"help, I'm homeless!" Since it can never be permanently affixed (without alteration) to any surface, it can never have a residence to live. This association is a direct citation on Heidegger's homelessness idea, where we are to believe nothing exists as given, such that in relation to an object, the object in question is not as is given to us.</p>
     </section>
+
+    <hr />
 
     <section class="exhibitions grouped_list c">
      <h3>Exhibitions</h3>

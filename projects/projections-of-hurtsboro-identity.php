@@ -2,6 +2,8 @@
 
 include_once('../_globals/functions.inc.php');
 
+array_push($_flashes, array('type' => '', 'msg' => 'Video and photos will be posted shortly.'));
+
 
 // WILL PAINT 4 FOOD
 // 2007
@@ -57,6 +59,8 @@ $page_title = 'Projections of Hurtsboro Identity - Greg Leuch: Creative + User I
      <p class="medium serif">Amanda and I also took the project to the 4-H Club in Phenix City, Alabama and demonstrated the project at the Coleman Arts Center in York, Alabama.</p>
     </section>
 
+    <hr />
+
     <section class="exhibitions grouped_list c">
      <h3>Exhibitions</h3>
 
@@ -70,6 +74,7 @@ $page_title = 'Projections of Hurtsboro Identity - Greg Leuch: Creative + User I
      </dl>
     </section>
 
+    <hr />
 
     <section class="press item_list c">
      <h3>Press</h3>

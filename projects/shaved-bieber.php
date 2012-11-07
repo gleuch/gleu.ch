@@ -2,6 +2,8 @@
 
 include_once('../_globals/functions.inc.php');
 
+array_push($_flashes, array('type' => '', 'msg' => 'Video and images will be posted shortly.'));
+
 
 // Shaved Bieber
 // 2010
@@ -56,6 +58,8 @@ $page_title = 'Shaved Bieber - Greg Leuch: Creative + User Interaction';
      <p class="medium serif">After the piece began to grown in popularity, the hate mail and fan mail began to pour in through comments, tweets, and emails. Documentation of fan mail became important dialogical reminder of the effects of censorship, and the <a href="http://shavedbieber.tumblr.com">Tumblr blog</a> was created for this documentation effort, from the accolades to the death threats.</p>
     </section>
 
+    <hr />
+
     <section class="exhibitions grouped_list c">
      <h3>Exhibitions</h3>
 
@@ -70,6 +74,8 @@ $page_title = 'Shaved Bieber - Greg Leuch: Creative + User Interaction';
      </dl>
     </section>
 
+    <hr />
+
     <section class="awards grouped_list c">
      <h3>Awards</h3>
 
@@ -78,6 +84,8 @@ $page_title = 'Shaved Bieber - Greg Leuch: Creative + User Interaction';
       <dd>Peoples' Choice<br />URLesque</dd>
      </dl>
     </section>
+
+    <hr />
 
     <section class="press item_list c">
      <h3>Press</h3>

@@ -2,6 +2,8 @@
 
 include_once('../_globals/functions.inc.php');
 
+array_push($_flashes, array('type' => '', 'msg' => 'Images will be posted shortly.'));
+
 
 // Shaved Bieber
 // 2010
@@ -48,6 +50,8 @@ $page_title = 'KANYEFY - Greg Leuch: Creative + User Interaction';
      <p class="medium serif tc" style="padding: 15px 0;"><a class="button" href="javascript:function%20kwt(u)%7Bvar%20s=document.createElement('script');s.setAttribute('language','JavaScript');s.setAttribute('src',u);document.body.appendChild(s);%7Dkwt('http://www.gleuch.com/code/KANYE-WEB-TOOLS/KANYEFY/KANYEFY.js');">&raquo; KANYEFY &laquo;</a></p>
      <p class="medium serif">DRAG THE BUTTON ABOVE TO UR BOOKMARK BAR (OR RIGHT-CLICK AND 'BOOKMARK/FAVORITE')........ THEN CLICK IT TO MAKE YOUR WEB PAGE YEEZY-APPROVED.</p>
     </section>
+
+    <hr />
 
     <section class="press item_list c">
      <h3>Press</h3>

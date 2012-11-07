@@ -2,6 +2,8 @@
 
 include_once('../_globals/functions.inc.php');
 
+array_push($_flashes, array('type' => '', 'msg' => 'Images will be posted shortly.'));
+
 
 // WILL PAINT 4 FOOD
 // 2007
@@ -57,6 +59,8 @@ $page_title = 'fuckCAPTCHA - Greg Leuch: Creative + User Interaction';
      <p class="medium serif"><strong>Includes hearing impared audio captchas!</strong></p>
 
     </section>
+
+    <hr />
 
     <section class="exhibitions grouped_list c">
      <h3>Exhibitions</h3>

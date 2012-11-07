@@ -2,6 +2,8 @@
 
 include_once('../_globals/functions.inc.php');
 
+array_push($_flashes, array('type' => '', 'msg' => 'Images will be posted shortly.'));
+
 
 // Shaved Bieber
 // 2010
@@ -46,6 +48,8 @@ $page_title = 'lowercase kanye - Greg Leuch: Creative + User Interaction';
     <section class="statement paragraph c">
      <p class="medium serif">We all know and love Mr. Kanye West and his <a href="http://kanyewest.com/blog" rel="nofollow">blog</a>. And while his CAPS LOCK rants are his best online trademark, it is difficult to read his rants. We here at F.A.T. Lab have take the time to clean up Kanye's blog and repair the damage done by his CAPS LOCK key.</p>
     </section>
+
+    <hr />
 
     <section class="press item_list c">
      <h3>Press</h3>
