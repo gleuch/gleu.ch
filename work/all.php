@@ -35,6 +35,14 @@ $page_title = 'Client List - Greg Leuch: Creative + User Interaction';
      <?php endif; ?>
 
      <dl>
+      <dt><a href="http://yourexcusesucks.com" target="_blank">Your Excuse Sucks <i class="icon link">Link</i></a></dt>
+      <dd>Cultivated Wit / Ford Foundation</dd>
+      <dd>design, develop</dd>
+      <dd><em>Rails app, browser extensions</em></dd>
+     </dl>
+
+
+     <dl>
       <dt><a href="http://metafetch.com" target="_blank">Metafetch <i class="icon link">Link</i></a></dt>
       <dd>co-founder</dd>
       <dd>design, develop</dd>

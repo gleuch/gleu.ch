@@ -21,7 +21,7 @@ html, body, header, hgroup, nav, article, section, details, aside, footer, figur
 header, hgroup, nav, article, section, details, aside, footer {display: block;}
 param {display: none;}
 html, body {height: 100%;}
-html * {text-rendering: optimizeLegibility;}
+html * {text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased;}
 
 
 body {line-height: 1.0em; font-size: 62.5%; margin: 0; padding: 0; background: rgba(249,248,248,1);}
