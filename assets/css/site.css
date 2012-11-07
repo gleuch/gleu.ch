@@ -135,6 +135,9 @@ p.large.serif.lt_grey {color: rgba(102,101,103,.82);}
 #header ul li a:hover, #header ul li a:focus {color: rgba(25,162,162,1);}
 #header ul li.selected a {color: rgba(25,162,162,1);}
 
+#content .flash {padding: 8px 0 10px 0; text-align: center; background:rgba(88,87,89,.12); color:rgba(102,101,103,1);}
+#content .flash.flash_error {background:rgba(225,60,60,1); color:rgba(245,245,245,1);}
+
 
 #content p {padding: 0 0 8px 0; line-height: 1.5em;}
 #content p.serif a {color: rgba(12,132,132,1); text-decoration: underline;}
@@ -266,6 +269,9 @@ body.contact form fieldset .row_items textarea {height: 100px;}
 
   body.work_item #sidebar {top: 505px; width: 100px;}
 
+
+  #content .flash {margin: -40px 0 30px 0;}
+
   #content .group.callout_group {}
   #content .group.callout_group h3.callout {margin: 0 0 0 -32px;}
 
@@ -327,6 +333,8 @@ body.contact form fieldset .row_items textarea {height: 100px;}
   body.work.featured_list.clients_list #content, body.projects.featured_list.projects_list #content {width: auto;}
 
   body.work_item #sidebar {top: auto; width: auto;}
+
+  #content .flash {margin: 0 0 10px 0;}
 
   #content .group.callout_group h3.callout {margin: 0;}
   #content .group.callout_group dl {clear: none; float: left; width: 42%; padding: 0 0 8px 12px;}

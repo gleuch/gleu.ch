@@ -1,1 +1,1 @@
-<h5 class="tc" style="background:rgba(225,60,60,1); color:rgba(245,245,245,1); padding: 8px 0 10px 0; margin: -40px 0 30px 0;">A work in progress! Stay tuned!</h5>
+<h5 class="flash flash_error">A work in progress! Stay tuned!</h5>
