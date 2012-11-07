@@ -83,6 +83,8 @@ $page_title = 'Contact Greg Leuch: Creative + User Interaction';
 
    <article id="content">
 
+    <?php include_once('../_globals/flash.inc.php') ?>
+
     <section class="intro">
      <h1>Contact Greg</h1>
      <h4>It is easier than you might think.</h4>

@@ -22,6 +22,9 @@ $page_title = 'Not Today\'s Butter - Greg Leuch: Creative + User Interaction';
   <div class="rel c">
 
    <article id="content" class="work_item">
+
+    <?php include_once('../_globals/flash.inc.php') ?>
+
     <div class="item_intro rel">
      <section class="intro">
       <h4>Guerilla Art</h4>

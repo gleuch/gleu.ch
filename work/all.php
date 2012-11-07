@@ -17,6 +17,9 @@ $page_title = 'Client List - Greg Leuch: Creative + User Interaction';
   <div class="rel c">
 
    <article id="content">
+
+    <?php include_once('../_globals/flash.inc.php') ?>
+
     <section class="intro">
      <h1>All Client Work</h1>
      <p class="large serif">Nothing better explains the skills and expertise of a true professional then by the quality of work they produce and a willingness to show it.</p>

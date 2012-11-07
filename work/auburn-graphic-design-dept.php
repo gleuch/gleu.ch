@@ -17,6 +17,9 @@ $page_title = 'Auburn University Graphic Design Department - Greg Leuch: Creativ
   <div class="rel c">
 
    <article id="content" class="work_item">
+
+    <?php include_once('../_globals/flash.inc.php') ?>
+
     <div class="item_intro rel">
      <section class="intro">
       <h4>Design, Web Application</h4>

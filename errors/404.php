@@ -16,6 +16,9 @@ $meta_robots = 'noindex,follow';
   <div class="rel c">
 
    <article id="content">
+
+    <?php include_once('../_globals/flash.inc.php') ?>
+
     <section class="intro">
      <h1>Document Not Found</h1>
      <h4>An error has occurred.</h4>

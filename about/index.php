@@ -18,6 +18,8 @@ $page_title = 'About Greg Leuch: Creative + User Interaction';
 
    <article id="content">
 
+    <?php include_once('../_globals/flash.inc.php') ?>
+
     <section class="intro">
      <h1>A Little Bit About Greg Leuch</h1>
      <h4>Who, what, where, and why&hellip;</h4>
@@ -26,7 +28,7 @@ $page_title = 'About Greg Leuch: Creative + User Interaction';
     <section class="bio">
      <p class="large serif">Greg Leuch is a Creative + User Interaction designer, specializing in user interface design, usability, front-end development, and feature research. He has worked on a variety of projects in the past, large and small, with emphasis on web startups and e-commerce. Greg currently a creative freelancer. He was formerly a Senior Designer at <a href="http://www.buzzfeed.com" target="_blank">BuzzFeed</a>, and the former Director of Research &amp; Development at <a href="http://www.rocketboom.com" target="_blank">Rocketboom</a>, working on such projects like <a href="http://www.knowyourmeme.com" target="_blank">Know Your Meme</a> and <a href="http://mag.ma" target="_blank">Magma</a>. He is also a freelance creative with <a href="http://jess3.com" target="_blank">JESS3</a>. Greg is also virtual fellow of <a href="http://fffff.at" target="_blank">Free Art and Technology Lab (F.A.T. Lab)</a> and member of <a href="http://artzilla.org" target="_blank">Artzilla.org</a>.</p>
      <p class="large serif">Currently, Greg is creating <a href="http://metafetch.com" target="_blank" rel="follow">Metafetch</a>, a content organization platform targeted towards group collaboration and research.</p>
-     <p class="large serif">He is fluent in XHTML/CSS, PHP, MySQL, and JavaScript, and Ruby (&amp; Rails), with experience with browser extension development. He is located in Brooklyn, NY.</p>
+     <p class="large serif">He is fluent in XHTML/CSS, Ruby (Rails), JavaScript, and PHP, with extensive experience with browser extension development. He is located in Brooklyn, NY.</p>
     </section>
 
     <section class="list">

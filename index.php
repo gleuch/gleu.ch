@@ -15,8 +15,10 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
   <div class="rel c">
 
    <article id="content">
-    <h5 class="tc" style="background:rgba(225,60,60,1); color:rgba(245,245,245,1); padding: 8px 0 10px 0; margin: -40px 0 30px 0;">A work in progress! Stay tuned!</h5>
-     
+
+    <?php include_once('./_globals/flash.inc.php') ?>
+
+
     <section class="intro">
      <h1>Portfolio of Greg Leuch</h1>
      <p class="large serif"> Design, web, technology, and art.</p>

@@ -17,6 +17,9 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
   <div class="rel c">
 
    <article id="content">
+
+    <?php include_once('../_globals/flash.inc.php') ?>
+
     <section class="intro">
      <h1>Projects by Greg Leuch</h1>
      <p class="large serif">Lorem ipsum...</p>

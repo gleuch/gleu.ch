@@ -17,6 +17,9 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
   <div class="rel c">
 
    <article id="content">
+
+    <?php include_once('../_globals/flash.inc.php') ?>
+
     <section class="intro">
      <h1>All Project Work</h1>
      <p class="large serif">No matter the size, tinkering on new projects keeps one active and sharp, and all deserve a little recognition.</p>
