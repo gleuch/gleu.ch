@@ -78,7 +78,7 @@ $page_title = 'G.R.E.E.D. - Greg Leuch: Creative + User Interaction';
     <section class="box">
      <h4>Download</h4>
      <ul>
-      <li><a href="http://www.restrict.cc/greed/download" target="_blank">restrict.cc/greed</a></li>
+      <li><a href="http://restrict.cc/greed/download" target="_blank">restrict.cc/greed</a></li>
      </ul>
     </section>
 

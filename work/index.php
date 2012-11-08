@@ -2,7 +2,7 @@
 
 include_once('../_globals/functions.inc.php');
 
-array_push($_flashes, array('type' => 'error', 'msg' => 'A work in progress! Stay tuned!'));
+array_push($_flashes, array('type' => '', 'msg' => 'A work in progress. Stay tuned!'));
 
 
 $nav_section = 'work';
@@ -23,8 +23,8 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
     <?php include_once('../_globals/flash.inc.php') ?>
 
     <section class="intro">
-     <h1>Work by Greg Leuch</h1>
-     <p class="large serif">Lorem ipsum...</p>
+     <h1>Client Work</h1>
+     <p class="large serif">A varied list of creative, design, &amp; development work.</p>
      <p class="link a b"><a href="/work/all">View a list of all client work &raquo;</a></p>
     </section>
 
@@ -131,7 +131,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
    <aside id="sidebar">
     <section class="box">
      <h4>Who</h4>
-     <p>Creative freelancer. Making Metafetch. Former Senior Designer at Buzzfeed. Previously at Know Your Meme/Rocketboom and JESS3. Current FAT Lab virtual fellow. New York City, New York. Design, web, technology, and art.</p>
+     <p>Creative freelancer. Making Metafetch. Former Senior Designer at Buzzfeed. Previously at Know Your Meme/Rocketboom and JESS3. Current F.A.T. Lab virtual fellow. New York City, New York. Design, web, technology, and art.</p>
     </section>
 
     <section class="box">

@@ -2,7 +2,7 @@
 
 include_once('../_globals/functions.inc.php');
 
-array_push($_flashes, array('type' => 'error', 'msg' => 'A work in progress! Stay tuned!'));
+array_push($_flashes, array('type' => '', 'msg' => 'A work in progress. Stay tuned!'));
 
 
 $nav_section = 'projects';
@@ -23,8 +23,8 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
     <?php include_once('../_globals/flash.inc.php') ?>
 
     <section class="intro">
-     <h1>Projects by Greg Leuch</h1>
-     <p class="large serif">Lorem ipsum...</p>
+     <h1>Projects</h1>
+     <p class="large serif">Creative &amp; artistic projects combining technology and design.</p>
      <p class="link a b"><a href="/projects/all">View a list of all projects &raquo;</a></p>
     </section>
 
@@ -156,7 +156,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
     <section class="box">
      <h4>Create &amp; Release</h4>
      <p>Greg works more specifically with design and web technology, with a focus with browser extensions. His multi-faceted skills allows him to experiment with ideas of content, community, commerce, and user interaction.</p>
-     <p>His projects are primarily released through the <a href="http://fffff.at" target="_blank">Free Art &amp; Technology Lab (FAT Lab)</a>, where he is a Virtual Fellow.</p>
+     <p>His projects are primarily released through the <a href="http://fffff.at" target="_blank">Free Art &amp; Technology Lab (F.A.T. Lab)</a>, where he is a Virtual Fellow.</p>
     </section>
    </aside>
 

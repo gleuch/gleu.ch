@@ -2,7 +2,7 @@
 
 include_once('../_globals/functions.inc.php');
 
-array_push($_flashes, array('type' => 'error', 'msg' => 'A work in progress! Stay tuned!'));
+array_push($_flashes, array('type' => '', 'msg' => 'A work in progress. Stay tuned!'));
 
 
 $nav_section = 'projects';
@@ -83,7 +83,7 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
 
      <dl>
       <dt><a href="http://fffff.at/occupy-internet-extensions/" target="_blank">Occupy The Internet <i class="icon link"></i></a></dt>
-      <dd>FAT Lab collaboration</dd>
+      <dd>F.A.T. Lab collaboration</dd>
       <dd><em>website, browser extensions, JavaScript widget</em></dd>
      </dl>
 
@@ -180,7 +180,7 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
 
      <dl>
       <dt><a href="http://fffff.at/google-streetcar-berlin/" target="_blank">Google Streetview Car <i class="icon link">Link</i></a></dt>
-      <dd>FAT Lab collaboration</dd>
+      <dd>F.A.T. Lab collaboration</dd>
       <dd><em>website, code</em></dd>
      </dl>
 
@@ -255,7 +255,7 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
 
      <dl>
       <dt><a href="http://fffff.at/fuckflickr-info/" target="_blank">FuckFlickr <i class="icon link">Link</i></a></dt>
-      <dd>FAT Lab collaboration</dd>
+      <dd>F.A.T. Lab collaboration</dd>
       <dd><em>code</em></dd>
      </dl>
 
@@ -268,11 +268,7 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
    </article>
 
    <aside id="sidebar">
-    <section class="box">
-     <h4>Create &amp; Release</h4>
-     <p>Greg works more specifically with design and web technology, with a focus with browser extensions. His multi-faceted skills allows him to experiment with ideas of content, community, commerce, and user interaction.</p>
-     <p>His projects are primarily released through the <a href="http://fffff.at" target="_blank">Free Art &amp; Technology Lab (FAT Lab)</a>, where he is a Virtual Fellow.</p>
-    </section>
+
    </aside>
 
   </div>

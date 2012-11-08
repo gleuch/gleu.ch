@@ -2,7 +2,7 @@
 
 include_once('./_globals/functions.inc.php');
 
-array_push($_flashes, array('type' => 'error', 'msg' => 'A work in progress! Stay tuned!'));
+array_push($_flashes, array('type' => '', 'msg' => 'A work in progress. Stay tuned!'));
 
 
 $page_title = 'Greg Leuch: Creative + User Interaction';
@@ -67,14 +67,12 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
     <section class="box">
      <h4>Who</h4>
 <?php /* eventually add pop-block */ ?>
-     <p>Creative freelancer. One part of <a href="http://xolator.com" target="_blank">XOlator&trade;</a>. Making <a href="http://metafetch.com" target="_blank">Metafetch</a> and other products.</p>
-     <p>Current <a href="http://fffff.at" target="_blank">FAT Lab</a> virtual fellow.</p>
-     <p>Former Senior Designer at BuzzFeed. Previously at Know Your Meme, Rocketboom, and JESS3.</p>
+     <p>Maker of <!-- <a href="https://pop-block.com">Pop Block</a>, --> <a href="http://metafetch.com" target="_blank">Metafetch</a> and other products. <a href="http://fffff.at" target="_blank">F.A.T. Lab</a> virtual fellow. Previously at BuzzFeed, Know Your Meme, Rocketboom, and JESS3.</p>
     </section>
 
     <section class="box">
      <h4>What</h4>
-     <p>User Experience Designer with a background in interface design, interaction design, visual design, e-commerce, and web development.</p>
+     <p>Creative freelancer with a background in user experience design, interface design, interaction design, visual design, e-commerce, and web development.</p>
     </section>
    </aside>
 

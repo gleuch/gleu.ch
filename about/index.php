@@ -25,16 +25,21 @@ $page_title = 'About Greg Leuch: Creative + User Interaction';
      <h4>Who, what, where, and why&hellip;</h4>
     </section>
 
+    <section class="cover_image">
+     <img src="" title="Greg Leuch" alt="" />
+    </section>
+
     <section class="bio">
-     <p class="large serif">Greg Leuch is a Creative + User Interaction designer, specializing in user interface design, usability, front-end development, and feature research. He has worked on a variety of projects in the past, large and small, with emphasis on web startups and e-commerce. Greg currently a creative freelancer. He was formerly a Senior Designer at <a href="http://www.buzzfeed.com" target="_blank">BuzzFeed</a>, and the former Director of Research &amp; Development at <a href="http://www.rocketboom.com" target="_blank">Rocketboom</a>, working on such projects like <a href="http://www.knowyourmeme.com" target="_blank">Know Your Meme</a> and <a href="http://mag.ma" target="_blank">Magma</a>. He is also a freelance creative with <a href="http://jess3.com" target="_blank">JESS3</a>. Greg is also virtual fellow of <a href="http://fffff.at" target="_blank">Free Art and Technology Lab (F.A.T. Lab)</a> and member of <a href="http://artzilla.org" target="_blank">Artzilla.org</a>.</p>
-     <p class="large serif">Currently, Greg is creating <a href="http://metafetch.com" target="_blank" rel="follow">Metafetch</a>, a content organization platform targeted towards group collaboration and research.</p>
-     <p class="large serif">He is fluent in XHTML/CSS, Ruby (Rails), JavaScript, and PHP, with extensive experience with browser extension development. He is located in Brooklyn, NY.</p>
+     <p class="large serif">Greg Leuch is a creative &amp; user interaction designer, specializing in user interface design, usability, front-end development, and feature research. He has worked on a variety of projects in the past, large and small, with emphasis on web startups and e-commerce. Greg currently a creative freelancer. He was formerly a Senior Designer at <a href="http://www.buzzfeed.com" target="_blank">BuzzFeed</a>, and the former Director of Research &amp; Development at <a href="http://www.rocketboom.com" target="_blank">Rocketboom</a>, working on such projects like <a href="http://www.knowyourmeme.com" target="_blank">Know Your Meme</a> and <a href="http://mag.ma" target="_blank">Magma</a>. He was also a freelance creative with <a href="http://jess3.com" target="_blank">JESS3</a>. Greg is currently a virtual research fellow of <a href="http://fffff.at" target="_blank">Free Art and Technology Lab (F.A.T. Lab)</a> and member of <a href="http://artzilla.org" target="_blank">Artzilla.org</a>.</p>
+     <p class="large serif">Presently, Greg is creating <a href="http://metafetch.com" target="_blank" rel="follow">Metafetch</a>, a content organization platform targeted towards group collaboration and research.</p>
+     <p class="large serif">He is fluent in XHTML/CSS, Ruby (Rails), JavaScript, and PHP, with extensive experience with browser extension development.</p>
+     <p class="large serif">He currently resides in Brooklyn, NY.</p>
     </section>
 
     <section class="list">
      <dl>
       <dt>Major Exhibitions</dt>
-      <dd>"FAT GOLD: Five Years of Free Art &amp; Technology". Eyebeam, NYC, <s>Nov 2012</s> Mar 2013.</dd>
+      <dd>"F.A.T. GOLD: Five Years of Free Art &amp; Technology". Eyebeam, NYC, <s>Nov 2012</s> Mar 2013.</dd>
       <dd>"C.R.E.A.M.," Art Micro-Patronage. Internet, Apr 2012</dd>
       <dd>"Distributed Collectives," Little Berlin. Philadelphia, Aug 2011</dd>
       <dd>"Futurity Now!," transmediale.10. Berlin, Germany, Feb 2010.</dd>

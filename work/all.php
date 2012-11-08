@@ -2,7 +2,7 @@
 
 include_once('../_globals/functions.inc.php');
 
-array_push($_flashes, array('type' => 'error', 'msg' => 'A work in progress! Stay tuned!'));
+array_push($_flashes, array('type' => '', 'msg' => 'A work in progress. Stay tuned!'));
 
 
 $nav_section = 'work';

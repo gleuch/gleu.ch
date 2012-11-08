@@ -131,7 +131,7 @@ $page_title = 'Contact Greg Leuch: Creative + User Interaction';
    <aside id="sidebar">
     <section class="box">
      <h4>Work Availablity</h4>
-     <p>I am only accepting part-time, interesting, creative freelance work.</p>
+     <p>Available for part-time, uniquely creative freelance work.</p>
     </section>
 
     <section class="box">
