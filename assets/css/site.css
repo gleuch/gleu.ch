@@ -364,7 +364,7 @@ body.contact form fieldset .row_items textarea {height: 100px;}
   #content.work_item .intro h1 {font-size: 2.8em; padding: 0;}
   #content.work_item .intro p {padding: 3px 0 0 0; font-size: 1.6em; line-height: 1.33em;}
 
-  #content figure img {width: 100% !important; height: auto !important; min-height: auto !important; max-height: 100% !important;}
+  #content figure img {width: 100% !important; height: auto !important; min-height: 0 !important; max-height: auto !important;}
 
   #content.work_item .item_list, #content.work_item .grouped_list {padding: 0 0 12px 0;}
   #content.work_item .item_list dl > * {clear: none; float: left; width: 42%; padding: 0 0 8px 12px; font-size: 1.2em; font-family: Helvetica, Arial, sans-serif;}
