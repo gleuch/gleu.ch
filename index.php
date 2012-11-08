@@ -34,7 +34,9 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
       <ul>
        <li>
         <dl>
-         <dd class="image"><a href="/work/heineken-fever-keeper"><img src="" title="Heineken Fever Keeper" alt="" /></a></dd>
+         <dd class="image">
+          <figure><a href="/work/heineken-fever-keeper"><img src="" title="Heineken Fever Keeper" alt="" /></a></figure>
+         </dd>
          <dt><a href="/work/heineken-fever-keeper">Heineken Fever Keeper</a></dt>
          <dd class="about">...</dd>
          <dd>work: browser extensions</dd>
@@ -43,7 +45,9 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
 
        <li>
         <dl>
-         <dd class="image"><a href="/projects/greed"><img src="" title="G.R.E.E.D." alt="" /></a></dd>
+         <dd class="image">
+          <figure><a href="/projects/greed"><img src="" title="G.R.E.E.D." alt="" /></a></figure>
+         </dd>
          <dt><a href="/projects/greed">G.R.E.E.D.</a></dt>
          <dd class="about">An innovative tool to clean up the lower regions of web pages from unwanted Justin Bieber mentions.</dd>
          <dd>project: browser extensions</dd>
@@ -52,7 +56,9 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
 
        <li>
         <dl>
-         <dd class="image"><a href="/projects/shaved-bieber"><img src="" title="Shaved Bieber" alt="" /></a></dd>
+         <dd class="image">
+          <figure><a href="/projects/shaved-bieber"><img src="" title="Shaved Bieber" alt="" /></a></figure>
+         </dd>
          <dt><a href="/projects/shaved-bieber">Shaved Bieber</a></dt>
          <dd class="about">An innovative tool to clean up the lower regions of web pages from unwanted Justin Bieber mentions.</dd>
          <dd>project: browser extensions</dd>

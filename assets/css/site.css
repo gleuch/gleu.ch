@@ -122,6 +122,10 @@ p.large {font-size: 1.7em;}
 p.medium {font-size: 1.5em;}
 p.large.serif.lt_grey {color: rgba(102,101,103,.82);}
 
+.mfull {display: block !important;}
+.mfull.inline {display: inline !important;}
+.mmobile, .mmobile.inline {display: none !important;}
+
 
 /* --- STRUCTURE STYLES ------------------------------------------------------- */
 
@@ -231,7 +235,9 @@ body.projects.projects_list .footer, body.work.clients_list .footer {margin: 12p
 body.work_item .work_item aside.disclaimer, body.work.clients_list aside.disclaimer {margin: 12px 0 0 0; padding: 16px 0 0 0; border-top: 1px solid rgba(69,68,68,.12);}
 body.work_item .work_item aside.disclaimer p, body.work.clients_list aside.disclaimer p {text-align: center; font-style: italic; color: rgba(166,165,167,1); font-size: 1.1em;}
 
-body.about #content .cover_image {background: rgba(166,165,167,.48); margin: 0 0 13px 0; min-height: 200px;}
+body.about #content .cover_image {margin: 0 0 13px 0;}
+body.about #content .cover_image img {display: block; background: rgba(166,165,167,.48); min-height: 200px;}
+body.about #content .cover_image figcaption {font-style: italic; color: rgba(102,101,103,1); font-size: 1.0em; padding: 5px 0 0 0;}
 body.about #content .list {margin: 12px 0 0 0; padding: 16px 0; border-top: 1px solid rgba(69,68,68,.12);}
 
 body.contact #sidebar .box span.grey {display: inline-block; width: 37px;}
@@ -321,6 +327,9 @@ body.contact form fieldset .row_items textarea {height: 100px;}
   #template_static_bar {position: fixed; left: 0; top: 0; bottom: auto; right: 0; width: auto; height: 5px; background-color: rgba(25,162,162,1);}
 
   body {font-size: 50%;}
+  .mmobile {display: block !important;}
+  .mmobile.inline {display: inline !important;}
+  .mfull, .mfull.inline {display: none !important;}
   #header {position: absolute; left: 9px; top: 21px; right: 9px;}
   #header nav ul {padding: 2px 0 0 0;}
   #header nav ul li {clear: none; float: left; padding: 0 0 0 12px; font-size: 2.0em;}
@@ -354,6 +363,8 @@ body.contact form fieldset .row_items textarea {height: 100px;}
   #content.work_item .intro h4 {font-size: 1.6em; line-height: 1.0em; padding: 0 0 8px 0;}
   #content.work_item .intro h1 {font-size: 2.8em; padding: 0;}
   #content.work_item .intro p {padding: 3px 0 0 0; font-size: 1.6em; line-height: 1.33em;}
+
+  #content figure img {width: 100% !important; height: auto !important; min-height: auto !important; max-height: 100% !important;}
 
   #content.work_item .item_list, #content.work_item .grouped_list {padding: 0 0 12px 0;}
   #content.work_item .item_list dl > * {clear: none; float: left; width: 42%; padding: 0 0 8px 12px; font-size: 1.2em; font-family: Helvetica, Arial, sans-serif;}
