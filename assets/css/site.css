@@ -272,7 +272,7 @@ body.contact form fieldset .row_items textarea {height: 100px;}
   #header ul li.facebook {display: none;}
   #content {width: 700px; min-height: 250px; padding: 68px 0 51px 250px; margin: 0;}
   #content.work_item {width: 750px; min-height: 250px; padding: 68px 0 76px 200px; margin: 0;}
-  #sidebar {position: absolute; top: 232px; left: 51px; width: 150px; padding: 0; margin: 0 0 51px 0;}
+  #sidebar {position: absolute; top: 250px; left: 51px; width: 150px; padding: 0; margin: 0 0 51px 0;}
   #footer {position: absolute; bottom: 24px; left: 51px;}
 
   body.home #content, body.about #content, body.error_page #content {width: 500px;}
