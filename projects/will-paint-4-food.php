@@ -56,6 +56,8 @@ $page_title = 'WILL PAINT 4 FOOD - Greg Leuch: Creative + User Interaction';
      <p class="medium serif">Unfortunately this piece was destroyed in a severe, mid-May thunderstorm.</p>
     </section>
 
+    <?php include '../_globals/projects.footer.inc.php'; ?>
+
    </article>
 
    <!-- <aside id="sidebar">

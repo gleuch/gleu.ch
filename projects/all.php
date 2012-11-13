@@ -2,8 +2,6 @@
 
 include_once('../_globals/functions.inc.php');
 
-array_push($_flashes, array('type' => '', 'msg' => 'A work in progress. Stay tuned!'));
-
 
 $nav_section = 'projects';
 

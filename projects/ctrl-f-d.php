@@ -80,6 +80,9 @@ $page_title = 'Ctrl+F\'d - Greg Leuch: Creative + User Interaction';
       <dt><a target="_blank" href="http://justinlanglois.com/courses/0127245/2009/10/12/ctrl-f'd/">Emily Hamid, University of Windsor, School of Visual Arts, Digital Media and Images</a></dt>
      </dl>
     </section>
+
+    <?php include '../_globals/projects.footer.inc.php'; ?>
+
    </article>
 
    <aside id="sidebar">

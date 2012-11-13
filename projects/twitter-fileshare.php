@@ -51,6 +51,8 @@ $page_title = 'Twitter Fileshare - Greg Leuch: Creative + User Interaction';
      <p class="medium serif">If Twitter is today's Usenet and Usenet was used for file sharing years ago, why shouldn't Twitter be utilized today for file sharing?</p>
     </section>
 
+    <?php include '../_globals/projects.footer.inc.php'; ?>
+
    </article>
 
    <aside id="sidebar">

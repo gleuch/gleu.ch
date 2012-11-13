@@ -25,11 +25,11 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
     <section class="intro">
      <h1>Projects</h1>
      <p class="large serif">Creative &amp; artistic projects combining technology and design.</p>
-     <p class="link a b"><a href="/projects/all">View a list of all projects &raquo;</a></p>
+     <!-- <p class="link a b"><a href="/projects/all">View a list of all projects &raquo;</a></p> -->
     </section>
 
     <section class="featured_list">
-     <h3>Featured Projects</h3>
+     <!-- <h3>Featured Projects</h3> -->
 
      <div class="first c">
       <!-- <h3 class="callout">2012</h3> -->
@@ -171,9 +171,12 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
      </div>
     </section>
 
-    <aside class="footer">
-     <p class="tc"><a href="/projects/all" class="b">View list of all projects &raquo;</a></p>
+    <aside class="footer tc">
+     <p class="large link a b"><a href="/projects/all" class="b">View list of all projects &raquo;</a></p>
     </aside>
+
+    <?php include '../_globals/projects.footer.inc.php'; ?>
+
    </article>
 
    <aside id="sidebar">

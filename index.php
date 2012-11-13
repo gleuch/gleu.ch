@@ -24,7 +24,6 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
     <section class="intro">
      <h1>Portfolio of Greg Leuch</h1>
      <p class="large serif"> Design, web, technology, and art.</p>
-     <p class="link a b">View a list of all <a href="/work/all">client work</a> or <a href="/projects/all">projects</a>.</p>
     </section>
 
     <section class="featured_list">
@@ -67,9 +66,16 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
       </ul>
      </div>
     </section>
+
+    <hr />
+
+    <footer class="tc">
+     <p class="large link a b">View a list of all <a href="/work/all">client work</a> or <a href="/projects/all">projects</a>.</p>
+    </footer>
    </article>
 
    <aside id="sidebar">
+
     <?php include_once('./_globals/newsletter.inc.php'); ?>
 
     <section class="box">

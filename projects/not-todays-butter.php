@@ -72,6 +72,8 @@ $page_title = 'Not Today\'s Butter - Greg Leuch: Creative + User Interaction';
      </dl>
     </section>
 
+    <?php include '../_globals/projects.footer.inc.php'; ?>
+
    </article>
 
    <aside id="sidebar">

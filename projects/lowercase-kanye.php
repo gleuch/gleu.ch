@@ -61,6 +61,9 @@ $page_title = 'lowercase kanye - Greg Leuch: Creative + User Interaction';
        <dt><a target="_blank" href="http://ruleofnext.com/2009/05/lowercase-kanye/">Next</a></dt>
      </dl>
     </section>
+
+    <?php include '../_globals/projects.footer.inc.php'; ?>
+
    </article>
 
    <aside id="sidebar">

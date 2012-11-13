@@ -62,6 +62,9 @@ $page_title = 'About Greg Leuch: Creative + User Interaction';
    </article>
 
    <aside id="sidebar">
+
+    <?php include_once('../_globals/newsletter.inc.php'); ?>
+
     <section class="box">
      <h4>Résumé</h4>
      <p><a href="/assets/files/Greg-Leuch-resume.pdf" class="grey dc"><i class="icon pdf">PDF</i> download (131 kB)</a></p>

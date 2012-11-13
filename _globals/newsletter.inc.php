@@ -31,7 +31,7 @@ else:
    <input type="hidden" name="auth" value="<?php echo date("U") * date("wW"); ?>" />
    <input type="hidden" name="referrer" value="<?php echo (isset($_POST['referrer']) ? $_POST['referrer'] : $_SERVER['REQUEST_URI']); ?>" />
    <input type="text" name="email" value="" placeholder="Your email address..." />
-   <button>Sign Up!</button>
+   <button><i class="icon newsletter button">Sign Up!</i></button>
   </form>
  </section>
 <?php endif; ?>

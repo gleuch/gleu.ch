@@ -69,6 +69,9 @@ $page_title = 'fuckCAPTCHA - Greg Leuch: Creative + User Interaction';
       <dd>Haus der Kulturen der Welt<br>Feb 2010</dd>
      </dl>
     </section>
+
+    <?php include '../_globals/projects.footer.inc.php'; ?>
+
    </article>
 
    <aside id="sidebar">

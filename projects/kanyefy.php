@@ -69,6 +69,9 @@ $page_title = 'KANYEFY - Greg Leuch: Creative + User Interaction';
        <dt><a target="_blank" href="http://topiclinks.boston.com/article/09fUdXm3aJ4Yf?q=Kanye+West">Boston.com</a></dt>
      </dl>
     </section>
+
+    <?php include '../_globals/projects.footer.inc.php'; ?>
+
    </article>
 
    <aside id="sidebar">

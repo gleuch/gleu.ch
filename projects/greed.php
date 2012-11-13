@@ -72,6 +72,9 @@ $page_title = 'G.R.E.E.D. - Greg Leuch: Creative + User Interaction';
       <dt><a target="_blank" href="http://www.artfagcity.com/2012/04/27/c-r-e-a-m-review/">Art Fag City</a></dt>
      </dl>
     </section>
+
+    <?php include '../_globals/projects.footer.inc.php'; ?>
+
    </article>
 
    <aside id="sidebar">

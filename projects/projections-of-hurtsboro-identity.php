@@ -83,6 +83,8 @@ $page_title = 'Projections of Hurtsboro Identity - Greg Leuch: Creative + User I
      </dl>
     </section>
 
+    <?php include '../_globals/projects.footer.inc.php'; ?>
+
    </article>
 
    <aside id="sidebar">

@@ -4,9 +4,17 @@ AddType application/octet-stream .pdf
   Header set Content-Disposition attachment
 </Files>
 
+<Files *.inc.php>
+  Order Deny,Allow
+  Deny from all
+</Files>
+
 Options +FollowSymlinks -Indexes
 RewriteEngine On
 RewriteBase /
+
+
+
 
 
 # TODO :: DON'T LIST DIR FILES

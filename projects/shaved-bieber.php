@@ -130,6 +130,9 @@ $page_title = 'Shaved Bieber - Greg Leuch: Creative + User Interaction';
       <dt><a target="_blank" href="http://m.timesofindia.com/life-style/people/How-to-block-annoying-celebs-online/articleshow/16821128.cms">Times of India</a></dt>
      </dl>
     </section>
+
+    <?php include '../_globals/projects.footer.inc.php'; ?>
+
    </article>
 
    <aside id="sidebar">
