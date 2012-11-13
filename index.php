@@ -70,6 +70,8 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
    </article>
 
    <aside id="sidebar">
+    <?php include_once('./_globals/newsletter.inc.php'); ?>
+
     <section class="box">
      <h4>Who</h4>
 <?php /* eventually add pop-block */ ?>

@@ -3,10 +3,7 @@
 include_once('../_globals/functions.inc.php');
 
 
-/* Block certain IPs */
-$banned = array('/^91\.201/');
-
-foreach($banned as $v) {
+foreach($banned_ips as $v) {
   if (preg_match($v, $_SERVER['REMOTE_ADDR'])) {
     echo 'SPAM filter triggered.';
     exit;
