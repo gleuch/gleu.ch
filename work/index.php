@@ -41,7 +41,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
           <figure><a href="/work/heineken-fever-keeper"><img src="" title="Heineken Fever Keeper" alt="" /></a></figure>
          </dd>
          <dt><a href="/work/heineken-fever-keeper">Heineken Fever Keeper</a></dt>
-         <dd class="about">...</dd>
+         <dd class="about">Block the spoilers from tape-delayed UEFA soccer matches.</dd>
          <dd>browser extensions</dd>
         </dl>
        </li>
@@ -52,7 +52,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
           <figure><a href="/work/zagat-food-trucks"><img src="" title="Zagat Food Trucks" alt="" /></a></figure>
          </dd>
          <dt><a href="/work/zagat-food-trucks">Zagat Food Trucks</a></dt>
-         <dd class="about">...</dd>
+         <dd class="about">Interactive maps for Zagat-rated food trucks.</dd>
          <dd>web application</dd>
         </dl>
        </li>
@@ -63,7 +63,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
           <figure><a href="/work/know-your-meme"><img src="" title="Know Your Meme" alt="" /></a></figure>
          </dd>
          <dt><a href="/work/know-your-meme">Know Your Meme</a></dt>
-         <dd class="about">...</dd>
+         <dd class="about">Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.</dd>
          <dd>web application</dd>
         </dl>
        </li>
@@ -74,7 +74,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
           <figure><a href="/work/magma"><img src="" title="Magma" alt="" /></a></figure>
          </dd>
          <dt><a href="/work/magma">Magma</a></dt>
-         <dd class="about">...</dd>
+         <dd class="about">An entry point for online videos.</dd>
          <dd>web application</dd>
         </dl>
        </li>
@@ -85,7 +85,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
           <figure><a href="/work/thesa.me"><img src="" title="thesa.me" alt="" /></a></figure>
          </dd>
          <dt><a href="/work/thesa.me">thesa.me</a></dt>
-         <dd class="about">...</dd>
+         <dd class="about">An online web application manager and distributive content publisher.</dd>
          <dd>design, identity</dd>
         </dl>
        </li>
@@ -96,7 +96,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
           <figure><a href="/work/politics4all"><img src="" title="Politics4All" alt="" /></a></figure>
          </dd>
          <dt><a href="/work/politics4all">Politics4All</a></dt>
-         <dd class="about">...</dd>
+         <dd class="about">A social network for politics.</dd>
          <dd>design, identity, web application</dd>
         </dl>
        </li>
@@ -107,7 +107,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
           <figure><a href="/work/auburn-graphic-design-dept"><img src="" title="Auburn University Graphic Design Department" alt="" /></a></figure>
          </dd>
          <dt><a href="/work/auburn-graphic-design-dept">Auburn University Graphic Design Department</a></dt>
-         <dd class="about">...</dd>
+         <dd class="about"></dd>
          <dd>design, web application</dd>
         </dl>
        </li>
@@ -118,7 +118,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
           <figure><a href="/work/red-mountain-market"><img src="" title="Red Mountain Market" alt="" /></a></figure>
          </dd>
          <dt><a href="/work/red-mountain-market">Red Mountain Market</a></dt>
-         <dd class="about">...</dd>
+         <dd class="about">Online grocery delivery service.</dd>
          <dd>e-commerce website</dd>
         </dl>
        </li>
@@ -129,7 +129,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
           <figure><a href="/work/auburn-art-college-football-art"><img src="" title="Auburn Art &amp; College Football Art" alt="" /></a></figure>
          </dd>
          <dt><a href="/work/auburn-art-college-football-art">Auburn Art &amp; College Football Art</a></dt>
-         <dd class="about">...</dd>
+         <dd class="about">All-in-one shops for your college football art needs.</dd>
          <dd>e-commerce website</dd>
         </dl>
        </li>

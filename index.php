@@ -31,13 +31,14 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
 
      <div class="first c">
       <ul>
+
        <li>
         <dl>
          <dd class="image">
           <figure><a href="/work/heineken-fever-keeper"><img src="" title="Heineken Fever Keeper" alt="" /></a></figure>
          </dd>
          <dt><a href="/work/heineken-fever-keeper">Heineken Fever Keeper</a></dt>
-         <dd class="about">...</dd>
+         <dd class="about">Block the spoilers from tape-delayed UEFA soccer matches.</dd>
          <dd>work: browser extensions</dd>
         </dl>
        </li>
@@ -48,7 +49,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
           <figure><a href="/projects/greed"><img src="" title="G.R.E.E.D." alt="" /></a></figure>
          </dd>
          <dt><a href="/projects/greed">G.R.E.E.D.</a></dt>
-         <dd class="about">An innovative tool to clean up the lower regions of web pages from unwanted Justin Bieber mentions.</dd>
+         <dd class="about">Greed powers our economy through restrictive licensing deals and claims of copyright.</dd>
          <dd>project: browser extensions</dd>
         </dl>
        </li>
@@ -63,6 +64,18 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
          <dd>project: browser extensions</dd>
         </dl>
        </li>
+
+       <li>
+        <dl>
+         <dd class="image">
+          <figure><a href="/work/know-your-meme"><img src="" title="Know Your Meme" alt="" /></a></figure>
+         </dd>
+         <dt><a href="/work/know-your-meme">Know Your Meme</a></dt>
+         <dd class="about">Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.</dd>
+         <dd>web application</dd>
+        </dl>
+       </li>
+
       </ul>
      </div>
     </section>
