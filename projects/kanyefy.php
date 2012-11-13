@@ -47,7 +47,7 @@ $page_title = 'KANYEFY - Greg Leuch: Creative + User Interaction';
 
     <section class="statement paragraph c">
      <p class="large serif"><strong>WE ALL KNOW THAT YEEZY <a href="http://www.kanyeuniversecity.com/blog/index.php?em3106=196808_-1__0_~0_-1_6_2008_0_0&amp;co=1" target="_blank">RANTS</a> ARE THE GREATEST, RIGHT????? NOW MAKE EVERY WEB PAGE A KAYNE RANT!!!!!!!!!!!!!</strong></p>
-     <p class="medium serif tc" style="padding: 15px 0;"><a class="button" href="javascript:function%20kwt(u)%7Bvar%20s=document.createElement('script');s.setAttribute('language','JavaScript');s.setAttribute('src',u);document.body.appendChild(s);%7Dkwt('http://www.gleuch.com/code/KANYE-WEB-TOOLS/KANYEFY/KANYEFY.js');">&raquo; KANYEFY &laquo;</a></p>
+     <p class="medium serif tc" style="padding: 15px 0;"><a class="button" href="javascript:function%20kwt(u)%7Bvar%20s=document.createElement('script');s.setAttribute('language','JavaScript');s.setAttribute('src',u);document.body.appendChild(s);%7Dkwt('http://assets.gleuch.com/code/KANYE-WEB-TOOLS/KANYEFY/KANYEFY.js');">&raquo; KANYEFY &laquo;</a></p>
      <p class="medium serif">DRAG THE BUTTON ABOVE TO UR BOOKMARK BAR (OR RIGHT-CLICK AND 'BOOKMARK/FAVORITE')........ THEN CLICK IT TO MAKE YOUR WEB PAGE YEEZY-APPROVED.</p>
     </section>
 

@@ -17,18 +17,17 @@ if (!isset($meta_tags)) $meta_tags = array();
   <!--
     All work is copyrighted 2012 by Greg Leuch and/or its respective owners.
     All other non-copyrighted or non-licensed work is licensed under a Creative Commons Attribution-Share Alike 3.0 United States License <http://creativecommons.org/licenses/by-sa/3.0/us>.
-    Permissions beyond the scope of this license may be available at: http://gleuch.com/contact.
+    Permissions beyond the scope of this license may be available at: http://gleu.ch/contact.
    -->
 
  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
 
  <title><?php echo $page_title; ?></title>
-<?php if (false): ?><link rel="alternate" type="application/rss+xml" title="online portfolio of Greg Leuch Feed" href="http://gleuch.com/feeds/rss" /><?php endif; ?>
 
  <link rel="canonical" href="<?php echo $canonical_url; ?>" />
  <meta name="description" content="<?php echo $meta_description; ?>"/>
  <meta name="keywords" content="<?php echo $meta_keywords; ?>"/>
- <meta name="author" content="Greg Leuch at http://gleuch.com/"/>
+ <meta name="author" content="Greg Leuch at http://gleu.ch/"/>
  <meta name="robots" content="<?php echo $meta_robots; ?>" />
  <meta name="googlebot" content="<?php echo $meta_robots; ?>"/>
  <meta name="revisit-after" content="3 days" />
@@ -46,5 +45,7 @@ if (!isset($meta_tags)) $meta_tags = array();
 <?php foreach($stylesheets as $css): ?>
  <link rel="stylesheet" href="/assets/css/<?php echo $css['css'] ?>" media="<?php echo (isset($css['media']) ? $css['media'] : 'all') ?>" />
 <?php endforeach; ?>
+
+ <script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-2855868-25']);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script>
 
 </head>

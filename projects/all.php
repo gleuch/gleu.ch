@@ -70,7 +70,7 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
      </dl>
 
      <dl>
-      <dt><a href="http://blog.gleuch.com/post/13779188069/the-ah-ha-moment-is-very-exciting-and-is" target="_blank">The "AH-HA!" Moment - Ideas, Research, and Creative Output <i class="icon link">Link</i></a></dt>
+      <dt><a href="http://blog.gleu.ch/post/35650337943/gleuch-the-ah-ha-moment-is-very-exciting" target="_blank">The "AH-HA!" Moment - Ideas, Research, and Creative Output <i class="icon link">Link</i></a></dt>
       <dd><em>presentation</em></dd>
      </dl>
 
@@ -86,7 +86,7 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
      </dl>
 
      <dl>
-      <dt><a href="http://blog.gleuch.com/post/9459336463/edit-removed-by-c-d-request" target="_blank">I Hurricane NY <i class="icon link">Link</i></a></dt>
+      <dt><a href="http://blog.gleu.ch/post/35650447820/gleuch-edit-removed-by-c-d-request" target="_blank">I Hurricane NY <i class="icon link">Link</i></a></dt>
       <dd>[removed by C&amp;D request]</dd>
       <dd><em>image</em></dd>
      </dl>

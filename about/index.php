@@ -48,7 +48,7 @@ $page_title = 'About Greg Leuch: Creative + User Interaction';
       <dd>"Community Collaborations Invitational Exhibition", York, Alabama. Jul 2008</dd>
       <dt>Presentations, Discussions, &amp; Panels</dt>
       <dd>Artist Talk on Art Micro Patronage. uStream, Apr 2012. <a href="http://www.ustream.tv/recorded/22100570" target="_blank">[Watch]</a></dd>
-      <dd>"The 'AH HA!' Moment - Ideas, Research, and Creative Output", Wuhan University, China. Nov 2011. <a href="http://blog.gleuch.com/post/13779188069/the-ah-ha-moment-is-very-exciting-and-is" target="_blank">[Slides]</a></dd>
+      <dd>"The 'AH HA!' Moment - Ideas, Research, and Creative Output", Wuhan University, China. Nov 2011. <a href="http://blog.gleu.ch/post/35650337943/gleuch-the-ah-ha-moment-is-very-exciting" target="_blank">[Slides]</a></dd>
       <dd>"The Behavior Gap Between Companies and People", RESPECT THE INTERNET. Dec 2010.</dd>
       <dd>"Shaved Bieber", Ignite NYC. Jun 2010. <a href="httphttp://www.youtube.com/watch?v=VhvtAvFBwSk" target="_blank">[Watch]</a></dd>
       <dt>Awards, Highlights, &amp; Distinctions</dt>

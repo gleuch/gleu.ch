@@ -19,5 +19,5 @@ if (!isset($nav_section)) $nav_section = '';
   </header>
 
   <footer id="footer" class="c">
-   <p>&copy; <?php echo date('Y'); ?> Greg Leuch, unless noted differently.</p>
+   <p>&copy; 2003&ndash;<?php echo date('Y'); ?> Greg Leuch, unless noted differently.</p>
   </footer>

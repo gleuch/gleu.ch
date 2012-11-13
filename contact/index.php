@@ -44,7 +44,7 @@ if (isset($_POST['auth'])) {
     $message .= "IP Address: ". $_SERVER['REMOTE_ADDR'] ."\n";
 
     if (empty($errors)) {
-      if (mail('Greg Leuch <contact@gleuch.com>', 'gleuch.com Contact Message', $message, "From: Greg Leuch <contact_form@gleuch.com>\r\n")) {
+      if (mail('Greg Leuch <contact@gleu.ch>', 'gleu.ch Contact Message', $message, "From: Greg Leuch <contact_form@gleu.ch>\r\n")) {
         header('Location: /contact?thanks');
         exit;
       } else {
