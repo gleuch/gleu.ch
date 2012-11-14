@@ -80,8 +80,8 @@ $page_title = 'Not Today\'s Butter - Greg Leuch: Creative + User Interaction';
     <section class="box">
      <h4>Downloadable Materials</h4>
      <ul>
-      <li><a href="http://gleuch.com/assets/files/projects/ntb/butter_individual.eps">Individual Stick [eps]</a></li>
-      <li><a href="http://gleuch.com/assets/files/projects/ntb/butter_package.pdf">Package of 4 [pdf]</a></li>
+      <li><a href="http://gleu.ch/assets/files/projects/ntb/butter_individual.eps">Individual Stick [eps]</a></li>
+      <li><a href="http://gleu.ch/assets/files/projects/ntb/butter_package.pdf">Package of 4 [pdf]</a></li>
     </section>
    </aside>
   </div>

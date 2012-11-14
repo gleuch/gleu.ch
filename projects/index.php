@@ -38,7 +38,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
        <li>
         <dl>
          <dd class="image">
-          <figure><a href="/projects/greed"><img src="" title="G.R.E.E.D." alt="" /></a></figure>
+          <figure><a href="/projects/greed"><img src="/assets/projects/greed/feature.png" title="G.R.E.E.D." alt="" /></a></figure>
          </dd>
          <dt><a href="/projects/greed">G.R.E.E.D.</a></dt>
          <dd class="about">Greed powers our economy through restrictive licensing deals and claims of copyright.</dd>

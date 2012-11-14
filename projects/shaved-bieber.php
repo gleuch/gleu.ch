@@ -36,7 +36,7 @@ $page_title = 'Shaved Bieber - Greg Leuch: Creative + User Interaction';
 
      <section class="featured_images rel">
       <div class="carousel">
-       <!-- TODO FIGURE OUT LATER -->
+       <iframe src="http://player.vimeo.com/video/11800814?badge=0&amp;color=ff00ff" width="750" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
       </div>
       <div class="carousel_buttons">
        <a href="javascript:;" class="prev"><i class="icon prev">Previous</i></a>

@@ -166,7 +166,8 @@ p.large.serif.lt_grey {color: rgba(102,101,103,.82);}
 #content .featured_list dl dt a {color: rgba(88,87,89,1);}
 #content .featured_list dl dt a:hover {color: rgba(25,162,162,1);}
 #content .featured_list dl dd {font-size: 1.1em; padding: 0 0 2px 0; color: rgba(102,101,103,.82);}
-#content .featured_list dl dd.image {background: rgba(166,165,167,.48); margin: 0 0 8px 0; min-height: 100px;}
+#content .featured_list dl dd.image {clear: both; background: rgba(166,165,167,.48); margin: 0 0 8px 0; padding: 0; min-height: 100px; line-height: 1.0em; }
+#content .featured_list dl dd.image a, #content .featured_list dl dd.image img {display: block;}
 #content .featured_list dl dd.about {padding: 0 0 5px 0; font-size: 1.4em; color: rgba(102,101,103,1);}
 
 #content .group.callout_group {margin: 12px 0 0 0; padding: 16px 0 0 0; border-top: 1px solid rgba(69,68,68,.12);}
