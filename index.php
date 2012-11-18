@@ -101,6 +101,17 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
      <h4>What</h4>
      <p>Creative freelancer with a background in user experience design, interface design, interaction design, visual design, e-commerce, and web development.</p>
     </section>
+
+    <section class="box">
+     <h4>Online Activity</h4>
+     <ul>
+      <li><a class="grey dc" href="https://twitter.com/gleuch" title="Twitter" target="_blank">Twitter</a></li>
+      <li><a class="grey dc" href="https://github.com/gleuch" title="GitHub" target="_blank">GitHub</a></li>
+      <li><a class="grey dc" href="http://instagram.com/gleuch" title="Instagram" target="_blank">Instagram</a></li>
+      <li><a class="grey dc" href="http://www.linkedin.com/in/gleuch" title="LinkedIn" target="_blank">LinkedIn</a></li>
+      <li><a class="grey dc" href="https://www.facebook.com/gleuch" title="Facebook" target="_blank">Facebook</a></li>
+     </ul>
+    </section>
    </aside>
 
   </div>

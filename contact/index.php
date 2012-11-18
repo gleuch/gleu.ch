@@ -141,6 +141,17 @@ $page_title = 'Contact Greg Leuch: Creative + User Interaction';
       <li><span class="grey dc">Email</span> <script type="text/javascript">_en="&#109;&#101;"; _ed="&#103;&#108;&#101;&#117;&#099;&#104;&#046;&#099;&#111;&#109;"; document.write('<a class="dc" href="&#109;&#097;&#105;&#108;&#116;&#111;:'+_en+'@'+_ed+'">'+_en+'@'+_ed+'</a>');</script><noscript>&#109;&#101; (at) &#103;&#108;&#101;&#117;&#099;&#104;&#046;&#099;&#111;&#109;</noscript></li>
      </ul>
     </section>
+
+    <section class="box">
+     <h4>Online Activity</h4>
+     <ul>
+      <li><a class="grey dc" href="https://twitter.com/gleuch" title="Twitter" target="_blank">Twitter</a></li>
+      <li><a class="grey dc" href="https://github.com/gleuch" title="GitHub" target="_blank">GitHub</a></li>
+      <li><a class="grey dc" href="http://instagram.com/gleuch" title="Instagram" target="_blank">Instagram</a></li>
+      <li><a class="grey dc" href="http://www.linkedin.com/in/gleuch" title="LinkedIn" target="_blank">LinkedIn</a></li>
+      <li><a class="grey dc" href="https://www.facebook.com/gleuch" title="Facebook" target="_blank">Facebook</a></li>
+     </ul>
+    </section>
    </aside>
 
   </div>
