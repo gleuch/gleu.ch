@@ -2,7 +2,10 @@
 
 include_once('../_globals/functions.inc.php');
 
-array_push($_flashes, array('type' => '', 'msg' => 'Images will be posted shortly.'));
+// Magma
+// Rocketboom
+// web application, design
+// 2009
 
 
 $nav_section = 'work';
@@ -31,7 +34,9 @@ $page_title = 'Magma - Greg Leuch: Creative + User Interaction';
 
      <section class="featured_images rel">
       <div class="carousel">
-       <!-- TODO FIGURE OUT LATER -->
+       <img src="/assets/work/magma/item1.png" alt="" title="" border="0" />
+       <img src="/assets/work/magma/item2.png" alt="" title="" border="0" class="hide" />
+       <img src="/assets/work/magma/item3.png" alt="" title="" border="0" class="hide" />
       </div>
       <div class="carousel_buttons">
        <a href="javascript:;" class="prev"><i class="icon prev">Previous</i></a>

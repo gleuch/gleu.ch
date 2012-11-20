@@ -2,7 +2,10 @@
 
 include_once('../_globals/functions.inc.php');
 
-array_push($_flashes, array('type' => '', 'msg' => 'Images will be posted shortly.'));
+// Zagat Food Trucks
+// JESS3 / Zagat
+// web application
+// 2011
 
 
 $nav_section = 'work';
@@ -31,7 +34,7 @@ $page_title = 'Zagat Food Trucks - Greg Leuch: Creative + User Interaction';
 
      <section class="featured_images rel">
       <div class="carousel">
-       <!-- TODO FIGURE OUT LATER -->
+       <img src="/assets/work/zagat-food-trucks/item1.png" alt="" title="" border="0" />
       </div>
       <div class="carousel_buttons">
        <a href="javascript:;" class="prev"><i class="icon prev">Previous</i></a>
@@ -76,6 +79,7 @@ $page_title = 'Zagat Food Trucks - Greg Leuch: Creative + User Interaction';
      <p>JESS3</p>
      <h4>Launched</h4>
      <p>Nov 2011</p>
+     <p><a target="_blank" href="http://foodtrucks.zagat.com">foodtrucks.zagat.com</a></p>
     </section>
    </aside>
   </div>

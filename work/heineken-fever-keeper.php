@@ -35,7 +35,7 @@ $page_title = 'Heineken Fever Keeper - Greg Leuch: Creative + User Interaction';
      <section class="featured_images rel">
       <div class="carousel">
        <img src="/assets/work/heineken-feverkeeper/item1.png" alt="" title="" border="0" />
-       <img src="/assets/work/heineken-feverkeeper/item2.png" alt="" title="" border="0" />
+       <img src="/assets/work/heineken-feverkeeper/item2.png" alt="" title="" border="0" class="hide" />
       </div>
       <div class="carousel_buttons">
        <a href="javascript:;" class="prev"><i class="icon prev">Previous</i></a>

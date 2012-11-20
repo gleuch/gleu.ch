@@ -72,7 +72,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
          </dd>
          <dt><a href="/work/know-your-meme">Know Your Meme</a></dt>
          <dd class="about">Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.</dd>
-         <dd>web application</dd>
+         <dd>web application, design, branding</dd>
         </dl>
        </li>
 

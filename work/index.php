@@ -49,7 +49,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
        <li>
         <dl>
          <dd class="image">
-          <figure><a href="/work/zagat-food-trucks"><img src="" title="Zagat Food Trucks" alt="" /></a></figure>
+          <figure><a href="/work/zagat-food-trucks"><img src="/assets/work/zagat-food-trucks/feature.png" title="Zagat Food Trucks" alt="" /></a></figure>
          </dd>
          <dt><a href="/work/zagat-food-trucks">Zagat Food Trucks</a></dt>
          <dd class="about">Interactive maps for Zagat-rated food trucks.</dd>
@@ -64,14 +64,14 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
          </dd>
          <dt><a href="/work/know-your-meme">Know Your Meme</a></dt>
          <dd class="about">Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.</dd>
-         <dd>web application</dd>
+         <dd>web application, design, branding</dd>
         </dl>
        </li>
 
        <li>
         <dl>
          <dd class="image">
-          <figure><a href="/work/magma"><img src="" title="Magma" alt="" /></a></figure>
+          <figure><a href="/work/magma"><img src="/assets/work/magma/feature.png" title="Magma" alt="" /></a></figure>
          </dd>
          <dt><a href="/work/magma">Magma</a></dt>
          <dd class="about">An entry point for online videos.</dd>
@@ -82,7 +82,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
        <li>
         <dl>
          <dd class="image">
-          <figure><a href="/work/thesa.me"><img src="" title="thesa.me" alt="" /></a></figure>
+          <figure><a href="/work/thesa.me"><img src="/assets/work/thesa.me/feature.png" title="thesa.me" alt="" /></a></figure>
          </dd>
          <dt><a href="/work/thesa.me">thesa.me</a></dt>
          <dd class="about">An online web application manager and distributive content publisher.</dd>

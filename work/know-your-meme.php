@@ -2,7 +2,10 @@
 
 include_once('../_globals/functions.inc.php');
 
-array_push($_flashes, array('type' => '', 'msg' => 'Images will be posted shortly.'));
+// Know Your Meme
+// Rocketboom
+// web application, design, branding
+// 2009 / 2010
 
 
 $nav_section = 'work';
@@ -24,14 +27,16 @@ $page_title = 'Know Your Meme - Greg Leuch: Creative + User Interaction';
 
     <div class="item_intro rel">
      <section class="intro">
-      <h4>Web Application</h4>
+      <h4>Web Application, Design, Branding</h4>
       <h1>Know Your Meme</h1>
       <p class="large serif">Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.</p>
      </section>
 
      <section class="featured_images rel">
       <div class="carousel">
-       <!-- TODO FIGURE OUT LATER -->
+       <img src="/assets/work/know-your-meme/item1.png" alt="" title="" border="0" />
+       <img src="/assets/work/know-your-meme/item2.png" alt="" title="" border="0" class="hide" />
+       <img src="/assets/work/know-your-meme/item3.png" alt="" title="" border="0" class="hide" />
       </div>
       <div class="carousel_buttons">
        <a href="javascript:;" class="prev"><i class="icon prev">Previous</i></a>
