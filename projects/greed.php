@@ -2,9 +2,6 @@
 
 include_once('../_globals/functions.inc.php');
 
-array_push($_flashes, array('type' => '', 'msg' => 'Images will be posted shortly.'));
-
-
 // G.R.E.E.D.
 // 2012
 // browser extensions
@@ -36,7 +33,9 @@ $page_title = 'G.R.E.E.D. - Greg Leuch: Creative + User Interaction';
 
      <section class="featured_images rel">
       <div class="carousel">
-       <!-- TODO FIGURE OUT LATER -->
+       <img src="/assets/projects/greed/item1.png" alt="" title="" border="0" />
+       <img src="/assets/projects/greed/item2.png" alt="" title="" border="0" class="hide" />
+       <img src="/assets/projects/greed/item3.png" alt="" title="" border="0" class="hide" />
       </div>
       <div class="carousel_buttons">
        <a href="javascript:;" class="prev"><i class="icon prev">Previous</i></a>
@@ -59,6 +58,17 @@ $page_title = 'G.R.E.E.D. - Greg Leuch: Creative + User Interaction';
      <dl>
       <dt><em>C.R.E.A.M.</em></dt>
       <dd>Art Micro Patronage<br />Internet<br />Apr 2012</dd>
+     </dl>
+    </section>
+
+    <hr />
+
+    <section class="presentations grouped_list c">
+     <h3>Presentations</h3>
+
+     <dl>
+      <dt>Art Micro Patronage</dt>
+      <dd>Virtual Presentation<br />Apr 2012<br /><a href="http://www.ustream.tv/recorded/22100570" target="_blank">[Watch]</a></dd>
      </dl>
     </section>
 

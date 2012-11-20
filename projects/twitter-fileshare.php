@@ -2,12 +2,9 @@
 
 include_once('../_globals/functions.inc.php');
 
-array_push($_flashes, array('type' => '', 'msg' => 'Images will be posted shortly.'));
-
-
-// G.R.E.E.D
-// 2012
-// browser extensions
+// Twitter Fileshare
+// 2010
+// web application
 
 
 $nav_section = 'projects';
@@ -29,14 +26,14 @@ $page_title = 'Twitter Fileshare - Greg Leuch: Creative + User Interaction';
 
     <div class="item_intro rel">
      <section class="intro">
-      <h4>Browser Extensions</h4>
+      <h4>Web Application</h4>
       <h1>Twitter Fileshare</h1>
       <p class="large serif">If Twitter is today's Usenet and Usenet was used for file sharing years ago, why shouldn't Twitter be used today for file sharing?</p>
      </section>
 
      <section class="featured_images rel">
       <div class="carousel">
-       <!-- TODO FIGURE OUT LATER -->
+       <img src="/assets/projects/twitter-fileshare/item1.png" alt="" title="" border="0" />
       </div>
       <div class="carousel_buttons">
        <a href="javascript:;" class="prev"><i class="icon prev">Previous</i></a>

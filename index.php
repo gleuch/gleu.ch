@@ -57,7 +57,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
        <li>
         <dl>
          <dd class="image">
-          <figure><a href="/projects/shaved-bieber"><img src="" title="Shaved Bieber" alt="" /></a></figure>
+          <figure><a href="/projects/shaved-bieber"><img src="/assets/projects/shaved-bieber/feature.png" title="Shaved Bieber" alt="" /></a></figure>
          </dd>
          <dt><a href="/projects/shaved-bieber">Shaved Bieber</a></dt>
          <dd class="about">An innovative tool to clean up the lower regions of web pages from unwanted Justin Bieber mentions.</dd>
@@ -68,7 +68,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
        <li>
         <dl>
          <dd class="image">
-          <figure><a href="/work/know-your-meme"><img src="" title="Know Your Meme" alt="" /></a></figure>
+          <figure><a href="/work/know-your-meme"><img src="/assets/work/know-your-meme/feature.png" title="Know Your Meme" alt="" /></a></figure>
          </dd>
          <dt><a href="/work/know-your-meme">Know Your Meme</a></dt>
          <dd class="about">Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.</dd>

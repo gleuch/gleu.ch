@@ -49,18 +49,18 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
        <li>
         <dl>
          <dd class="image">
-          <figure><a href="/projects/twitter-fileshare"><img src="" title="Twitter Fileshare" alt="" /></a></figure>
+          <figure><a href="/projects/twitter-fileshare"><img src="/assets/projects/twitter-fileshare/feature.png" title="Twitter Fileshare" alt="" /></a></figure>
          </dd>
          <dt><a href="/projects/twitter-fileshare">Twitter Fileshare</a></dt>
          <dd class="about">If Twitter is today's Usenet and Usenet was used for file sharing years ago, why shouldn't Twitter be used today for file sharing?</dd>
-         <dd>website</dd>
+         <dd>web application</dd>
         </dl>
        </li>
 
        <li>
         <dl>
          <dd class="image">
-          <figure><a href="/projects/shaved-bieber"><img src="" title="Shaved Bieber" alt="" /></a></figure>
+          <figure><a href="/projects/shaved-bieber"><img src="/assets/projects/shaved-bieber/feature.png" title="Shaved Bieber" alt="" /></a></figure>
          </dd>
          <dt><a href="/projects/shaved-bieber">Shaved Bieber</a></dt>
          <dd class="about">An innovative tool to clean up the lower regions of web pages from unwanted Justin Bieber mentions.</dd>
