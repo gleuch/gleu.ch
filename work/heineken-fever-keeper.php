@@ -2,7 +2,10 @@
 
 include_once('../_globals/functions.inc.php');
 
-array_push($_flashes, array('type' => '', 'msg' => 'Images will be posted shortly.'));
+// Heineken Fever Keeper
+// Vidal Partnerships / Heineken
+// 2012
+// browser extensions, web app
 
 
 $nav_section = 'work';
@@ -31,7 +34,8 @@ $page_title = 'Heineken Fever Keeper - Greg Leuch: Creative + User Interaction';
 
      <section class="featured_images rel">
       <div class="carousel">
-       <!-- TODO FIGURE OUT LATER -->
+       <img src="/assets/work/heineken-feverkeeper/item1.png" alt="" title="" border="0" />
+       <img src="/assets/work/heineken-feverkeeper/item2.png" alt="" title="" border="0" />
       </div>
       <div class="carousel_buttons">
        <a href="javascript:;" class="prev"><i class="icon prev">Previous</i></a>

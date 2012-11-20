@@ -1,5 +1,8 @@
 jQuery(document).ready(function() {
 
+  jQuery('.featured_list dd.image img').addClass('photofilter').attr('data-filter', 'Inkwell');
+  $('img.photofilter').filterMe();
+
 
   if (jQuery('.featured_images')) {
     jQuery('.featured_images').on('mouseover', function() {

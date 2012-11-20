@@ -38,7 +38,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
        <li>
         <dl>
          <dd class="image">
-          <figure><a href="/work/heineken-fever-keeper"><img src="" title="Heineken Fever Keeper" alt="" /></a></figure>
+          <figure><a href="/work/heineken-fever-keeper"><img src="/assets/work/heineken-feverkeeper/feature.png" title="Heineken Fever Keeper" alt="" /></a></figure>
          </dd>
          <dt><a href="/work/heineken-fever-keeper">Heineken Fever Keeper</a></dt>
          <dd class="about">Block the spoilers from tape-delayed UEFA soccer matches.</dd>

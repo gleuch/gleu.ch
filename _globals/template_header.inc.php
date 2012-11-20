@@ -3,7 +3,7 @@
 if (!isset($page_title)) $page_title = 'Greg Leuch: Creative + User Interaction';
 if (!isset($javascripts)) $javascripts = array();
 if (!isset($stylesheets)) $stylesheets = array();
-array_unshift($javascripts, array('js' => 'jquery-1.8.3.min.js'), array('js' => 'site.js'));
+array_unshift($javascripts, array('js' => 'jquery-1.8.3.min.js'), array('js' => 'jquery-filterme.js'), array('js' => 'site.js'));
 array_unshift($stylesheets, array('css' => 'site.css', 'media' => 'all'));
 
 if (!isset($canonical_url)) $canonical_url = '';
