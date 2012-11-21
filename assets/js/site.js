@@ -1,6 +1,6 @@
 jQuery(document).ready(function() {
 
-  jQuery('.featured_list dd.image img').addClass('photofilter').attr('data-filter', 'Inkwell');
+  jQuery('.featured_list dd.image img').not('[data-no-filter]').addClass('photofilter').attr('data-filter', 'Inkwell');
   $('img.photofilter').filterMe();
 
 

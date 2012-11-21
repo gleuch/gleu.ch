@@ -2,12 +2,9 @@
 
 include_once('../_globals/functions.inc.php');
 
-array_push($_flashes, array('type' => '', 'msg' => 'Images will be posted shortly.'));
-
-
-// WILL PAINT 4 FOOD
-// 2007
-// installation
+// Dr. Google
+// 2010
+// websote
 
 
 $nav_section = 'projects';
@@ -36,7 +33,12 @@ $page_title = 'Dr. Google - Greg Leuch: Creative + User Interaction';
 
      <section class="featured_images rel">
       <div class="carousel">
-        x
+       <img src="/assets/projects/dr-google/item1.png" alt="" title="" border="0" />
+       <img src="/assets/projects/dr-google/item2.png" alt="" title="" border="0" class="hide" />
+      </div>
+      <div class="carousel_buttons">
+       <a href="javascript:;" class="prev"><i class="icon prev">Previous</i></a>
+       <a href="javascript:;" class="next"><i class="icon next">Next</i></a>
       </div>
      </section>
     </div>

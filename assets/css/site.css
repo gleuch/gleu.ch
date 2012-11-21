@@ -318,7 +318,6 @@ body.contact #content form fieldset .row_items textarea {height: 100px;}
   #content.work_item .carousel_buttons a {display: block; padding: 12px 0;}
   #content.work_item .carousel_buttons a.next {margin: 0 0 0 2px;}
 
-  #content.work_item .featured_images.shifted {padding: 0 0 0 216px;}
   #content.work_item .featured_images iframe {clear: both; display: block; width: 100%; height: 375px !important; margin: 0; padding: 0; border: 0; box-shadow: 0 2px 3px rgba(0,0,0,.24);}
 
   #content.work_item .grouped_list dl {clear: none; float: left; width: 242px; padding: 0 0 8px 12px}
@@ -382,10 +381,19 @@ body.contact #content form fieldset .row_items textarea {height: 100px;}
   #content.work_item .carousel_buttons {padding: 8px 0 4px 0; text-align: center;}
   #content.work_item .carousel_buttons a.next, #content.work_item .carousel_buttons a.prev {position: relative; top: auto; right: auto; padding: 4px; margin: 0 4px;}
 
+  #content.work_item .featured_images iframe {clear: both; display: block; width: 100%; height: 175px !important; margin: 0; padding: 0; border: 0; box-shadow: 0 2px 3px rgba(0,0,0,.24);}
+
   #content.work_item .intro {position: relative; bottom: auto; left: auto; z-index: auto; width: auto; padding: 0 0 15px 0; background: none; border-top: none;}
   #content.work_item .intro h4 {font-size: 1.6em; line-height: 1.0em; padding: 0 0 8px 0;}
   #content.work_item .intro h1 {font-size: 2.8em; padding: 0;}
   #content.work_item .intro p {padding: 3px 0 0 0; font-size: 1.6em; line-height: 1.33em;}
+  #content.work_item .item_intro.lower, #content.work_item .item_intro.lower .intro {opacity: 1 !important; box-shadow: none;}
+
+  #content.work_item .featured_images .carousel {clear: both; height: auto; border-bottom: 1px solid rgba(37,33,34,.12);}
+  #content.work_item .featured_images .carousel > * {position: relative; width: 100%; height: auto;}
+  #content.work_item .featured_images .carousel > *.hide {height: 0; -webkit-transition: opacity .5s ease-out .1s;}
+  #content.work_item .featured_images .carousel_buttons.running {position: relative; width: auto; height: auto; margin: 0; padding: 6px 0 0 0; top: 0; left: 0;}
+  #content.work_item .featured_images .carousel_buttons a {display: inline-block; padding: 0 12px; margin: 0 !important;}
 
   #content figure img {width: 100% !important; height: auto !important; min-height: 0 !important; max-height: auto !important;}
 

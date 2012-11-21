@@ -71,7 +71,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
        <li>
         <dl>
          <dd class="image">
-          <figure><a href="/projects/fuckCAPTCHA"><img src="" title="fuckCAPTCHA" alt="" /></a></figure>
+          <figure><a href="/projects/fuckCAPTCHA"><img src="/assets/projects/fuckCAPTCHA/feature.png" title="fuckCAPTCHA" alt="" data-no-filter="true" /></a></figure>
          </dd>
          <dt><a href="/projects/fuckCAPTCHA">fuckCAPTCHA</a></dt>
          <dd class="about">fuckCAPTCHA, an open-source alternative to the spam prevention and evil humanization of human brain cycles for corporate pet projects.</dd>
@@ -82,7 +82,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
        <li>
         <dl>
          <dd class="image">
-          <figure><a href="/projects/dr-google"><img src="" title="Dr. Google" alt="" /></a></figure>
+          <figure><a href="/projects/dr-google"><img src="/assets/projects/dr-google/feature.png" title="Dr. Google" alt="" /></a></figure>
          </dd>
          <dt><a href="/projects/dr-google">Dr. Google</a></dt>
          <dd class="about">Feeling sick? Not sure what you've come down with? Let Google diagnose you!</dd>
@@ -93,7 +93,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
        <li>
         <dl>
          <dd class="image">
-          <figure><a href="/projects/ctrl-f-d"><img src="" title="Ctrl+F'd" alt="" /></a></figure>
+          <figure><a href="/projects/ctrl-f-d"><img src="/assets/projects/ctrl-f-d/feature.png" title="Ctrl+F'd" alt="" /></a></figure>
          </dd>
          <dt><a href="/projects/ctrl-f-d">Ctrl+F'd</a></dt>
          <dd class="about">Many people believe you cannot keyword search online documents. In other words, they are Ctrl+F'd. A playful experiment in "censoring" a web page by hiding text and images behind blocks.</dd>

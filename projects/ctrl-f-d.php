@@ -2,12 +2,9 @@
 
 include_once('../_globals/functions.inc.php');
 
-array_push($_flashes, array('type' => '', 'msg' => 'Images will be posted shortly.'));
-
-
-// Shaved Bieber
-// 2010
-// browser extensions
+// Ctrl+F'd
+// 2009
+// bookmarklet
 
 
 $nav_section = 'projects';
@@ -36,7 +33,12 @@ $page_title = 'Ctrl+F\'d - Greg Leuch: Creative + User Interaction';
 
      <section class="featured_images rel">
       <div class="carousel">
-       <!-- TODO FIGURE OUT LATER -->
+       <img src="/assets/projects/ctrl-f-d/item1.png" alt="" title="" border="0" />
+       <img src="/assets/projects/ctrl-f-d/item2.png" alt="" title="" border="0" class="hide" />
+       <img src="/assets/projects/ctrl-f-d/item3.png" alt="" title="" border="0" class="hide" />
+       <img src="/assets/projects/ctrl-f-d/item4.png" alt="" title="" border="0" class="hide" />
+       <img src="/assets/projects/ctrl-f-d/item5.png" alt="" title="" border="0" class="hide" />
+       <img src="/assets/projects/ctrl-f-d/item6.png" alt="" title="" border="0" class="hide" />
       </div>
       <div class="carousel_buttons">
        <a href="javascript:;" class="prev"><i class="icon prev">Previous</i></a>
