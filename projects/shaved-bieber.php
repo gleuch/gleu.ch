@@ -21,9 +21,9 @@ $page_title = 'Shaved Bieber - Greg Leuch: Creative + User Interaction';
 <?php include '../_globals/template_header.inc.php'; ?>
 <body class="projects work_item">
  <div id="template_wrapper" class="c">
-  <div class="rel c">
+  <div id="content_area" class="work_item rel c">
 
-   <article id="content" class="work_item">
+   <article id="content">
 
     <?php include_once('../_globals/flash.inc.php') ?>
 
@@ -131,8 +131,6 @@ $page_title = 'Shaved Bieber - Greg Leuch: Creative + User Interaction';
      </dl>
     </section>
 
-    <?php include '../_globals/projects.footer.inc.php'; ?>
-
    </article>
 
    <aside id="sidebar">
@@ -150,6 +148,9 @@ $page_title = 'Shaved Bieber - Greg Leuch: Creative + User Interaction';
      <p>Released under <a href="http://creativecommons.org/licenses/MIT" target="_blank">MIT License</a>.</p>
     </section>
    </aside>
+
+   <?php include '../_globals/projects.footer.inc.php'; ?>
+
   </div>
 
 <?php include '../_globals/header.inc.php'; ?>

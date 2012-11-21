@@ -16,9 +16,9 @@ $page_title = 'Auburn Art & College Football Art - Greg Leuch: Creative + User I
 <?php include '../_globals/template_header.inc.php'; ?>
 <body class="client work_item">
  <div id="template_wrapper" class="c">
-  <div class="rel c">
+  <div id="content_area" class="work_item rel c">
 
-   <article id="content" class="work_item">
+   <article id="content">
 
     <?php include_once('../_globals/flash.inc.php') ?>
 
@@ -60,8 +60,6 @@ $page_title = 'Auburn Art & College Football Art - Greg Leuch: Creative + User I
      <p class="medium serif">The re-designs of AuburnArt.com and CollegeFootballArt.com made a game-changing touchdown and continue to pull in large numbers of customers on a daily basis while managing over 15,000 collegiate products.</p>
     </section>
 
-    <?php include '../_globals/work.footer.inc.php'; ?>
-
    </article>
 
    <aside id="sidebar">
@@ -76,6 +74,9 @@ $page_title = 'Auburn Art & College Football Art - Greg Leuch: Creative + User I
      <p>Sept 2007</p>
     </section>
    </aside>
+
+   <?php include '../_globals/work.footer.inc.php'; ?>
+
   </div>
 
 <?php include '../_globals/header.inc.php'; ?>

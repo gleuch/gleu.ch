@@ -21,9 +21,9 @@ $page_title = 'Projections of Hurtsboro Identity - Greg Leuch: Creative + User I
 <?php include '../_globals/template_header.inc.php'; ?>
 <body class="projects work_item">
  <div id="template_wrapper" class="c">
-  <div class="rel c">
+  <div id="content_area" class="work_item rel c">
 
-   <article id="content" class="work_item">
+   <article id="content">
 
     <?php include_once('../_globals/flash.inc.php') ?>
 
@@ -83,8 +83,6 @@ $page_title = 'Projections of Hurtsboro Identity - Greg Leuch: Creative + User I
      </dl>
     </section>
 
-    <?php include '../_globals/projects.footer.inc.php'; ?>
-
    </article>
 
    <aside id="sidebar">
@@ -99,6 +97,9 @@ $page_title = 'Projections of Hurtsboro Identity - Greg Leuch: Creative + User I
       <li><a href="http://maps.google.com/maps?q=hurtsboro,+al&ie=UTF8&oe=utf-8&ll=32.305706,-85.501099&spn=1.339432,2.790527&z=9" target="_blank">Map of Hurtsboro, Alabama</a></li>
     </section>
    </aside>
+
+   <?php include '../_globals/projects.footer.inc.php'; ?>
+
   </div>
 
 <?php include '../_globals/header.inc.php'; ?>

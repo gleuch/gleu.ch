@@ -19,9 +19,9 @@ $page_title = 'Magma - Greg Leuch: Creative + User Interaction';
 <?php include '../_globals/template_header.inc.php'; ?>
 <body class="client work_item">
  <div id="template_wrapper" class="c">
-  <div class="rel c">
+  <div id="content_area" class="work_item rel c">
 
-   <article id="content" class="work_item">
+   <article id="content">
 
     <?php include_once('../_globals/flash.inc.php') ?>
 
@@ -72,8 +72,6 @@ $page_title = 'Magma - Greg Leuch: Creative + User Interaction';
      </dl>
     </section>
 
-    <?php include '../_globals/work.footer.inc.php'; ?>
-
    </article>
 
    <aside id="sidebar">
@@ -87,6 +85,9 @@ $page_title = 'Magma - Greg Leuch: Creative + User Interaction';
      <p><a target="_blank" href="http://mag.ma">mag.ma</a></p>
     </section>
    </aside>
+
+   <?php include '../_globals/work.footer.inc.php'; ?>
+
   </div>
 
 <?php include '../_globals/header.inc.php'; ?>

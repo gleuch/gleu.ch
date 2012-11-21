@@ -14,7 +14,7 @@ $page_title = 'Client List - Greg Leuch: Creative + User Interaction';
 <?php include '../_globals/template_header.inc.php'; ?>
 <body class="work client_list">
  <div id="template_wrapper" class="c">
-  <div class="rel c">
+  <div id="content_area" class="rel c">
 
    <article id="content">
 
