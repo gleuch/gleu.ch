@@ -9,6 +9,11 @@ AddType application/octet-stream .pdf
   Deny from all
 </Files>
 
+<Files newsletter.txt>
+  Order Deny,Allow
+  Deny from all
+</Files>
+
 Options +FollowSymlinks -Indexes
 RewriteEngine On
 RewriteBase /
