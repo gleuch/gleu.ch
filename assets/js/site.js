@@ -1,7 +1,7 @@
 jQuery(document).ready(function() {
 
-  jQuery('.featured_list dd.image img').not('[data-no-filter]').addClass('photofilter').attr('data-filter', 'Inkwell');
-  $('img.photofilter').filterMe();
+  // jQuery('.featured_list dd.image img').not('[data-no-filter]').addClass('photofilter').attr('data-filter', 'Inkwell');
+  // $('img.photofilter').filterMe();
 
 
   if (jQuery('.featured_images')) {

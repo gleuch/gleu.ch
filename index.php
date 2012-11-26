@@ -32,7 +32,18 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
      <div class="first c">
       <ul>
 
-       <li>
+        <li>
+         <dl>
+          <dd class="image">
+           <figure><a href="/projects/shaved-bieber"><img src="/assets/projects/shaved-bieber/feature.png" title="Shaved Bieber" alt="" /></a></figure>
+          </dd>
+          <dt><a href="/projects/shaved-bieber">Shaved Bieber</a></dt>
+          <dd class="about">An innovative tool to clean up the lower regions of web pages from unwanted Justin Bieber mentions.</dd>
+          <dd>project: browser extensions</dd>
+         </dl>
+        </li>
+
+       <!-- <li>
         <dl>
          <dd class="image">
           <figure><a href="/work/heineken-fever-keeper"><img src="/assets/work/heineken-feverkeeper/feature.png" title="Heineken Fever Keeper" alt="" /></a></figure>
@@ -41,7 +52,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
          <dd class="about">Block the spoilers from tape-delayed UEFA soccer matches.</dd>
          <dd>work: browser extensions</dd>
         </dl>
-       </li>
+       </li> -->
 
        <li>
         <dl>
@@ -57,22 +68,22 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
        <li>
         <dl>
          <dd class="image">
-          <figure><a href="/projects/shaved-bieber"><img src="/assets/projects/shaved-bieber/feature.png" title="Shaved Bieber" alt="" /></a></figure>
+          <figure><a href="/work/know-your-meme"><img src="/assets/work/know-your-meme/feature.png" title="Know Your Meme" alt="" /></a></figure>
          </dd>
-         <dt><a href="/projects/shaved-bieber">Shaved Bieber</a></dt>
-         <dd class="about">An innovative tool to clean up the lower regions of web pages from unwanted Justin Bieber mentions.</dd>
-         <dd>project: browser extensions</dd>
+         <dt><a href="/work/know-your-meme">Know Your Meme</a></dt>
+         <dd class="about">Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.</dd>
+         <dd>web application, design, branding</dd>
         </dl>
        </li>
 
        <li>
         <dl>
          <dd class="image">
-          <figure><a href="/work/know-your-meme"><img src="/assets/work/know-your-meme/feature.png" title="Know Your Meme" alt="" /></a></figure>
+          <figure><a href="/projects/ctrl-f-d"><img src="/assets/projects/ctrl-f-d/feature.png" title="Ctrl+F'd" alt="" /></a></figure>
          </dd>
-         <dt><a href="/work/know-your-meme">Know Your Meme</a></dt>
-         <dd class="about">Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.</dd>
-         <dd>web application, design, branding</dd>
+         <dt><a href="/projects/ctrl-f-d">Ctrl+F'd</a></dt>
+         <dd class="about">Many people believe you cannot keyword search online documents. In other words, they are Ctrl+F'd. A playful experiment in "censoring" a web page by hiding text and images behind blocks.</dd>
+         <dd>bookmarklet</dd>
         </dl>
        </li>
 
