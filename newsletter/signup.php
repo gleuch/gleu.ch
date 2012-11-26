@@ -36,7 +36,7 @@ if (isset($_POST['auth'])) {
 
       if (preg_match('/\A([^@\s]+)@((?:[-a-z0-9]+\.)+[a-z]{2,})\Z/i', $email)) {
         if (!is_file($fname)) @touch($fname);
-        @file_put_contents($fname, $email ."\n");
+        @file_put_contents($fname, $email ."\n", FILE_APPEND);
         @chmod($fname, 0755);
 
         setcookie('newsletter', date("U"), (time()+60*60*24*365), '/');
