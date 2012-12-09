@@ -25,13 +25,31 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
      <p class="large serif">No matter the size, tinkering on new projects keeps one active and sharp, and all deserve a little recognition.</p>
     </section>
 
+    <!-- <div class="group callout_group first c">
+     <h3 class="callout">2013</h3>
+    </div> -->
+
     <div class="group callout_group first c">
      <h3 class="callout">2012</h3>
+
+     <dl>
+      <dt><a href="https://pop-block.com" target="_blank">Pop Block <i class="icon link">Link</i></a></dt>
+      <dd>founder</dd>
+      <dd>design, develop</dd>
+      <dd><em>Rails app, browser extensions</em></dd>
+     </dl>
 
      <dl>
       <dt><a href="http://displaymode.xolator.com" target="_blank">Display Mode <i class="icon link">Link</i></a></dt>
       <dd>XOlator&trade;</dd>
       <dd><em>web app</em></dd>
+     </dl>
+
+     <dl>
+      <dt><a href="http://metafetch.com" target="_blank">Metafetch <i class="icon link">Link</i></a></dt>
+      <dd>co-founder</dd>
+      <dd>design, develop</dd>
+      <dd><em>Rails app, browser extensions</em></dd>
      </dl>
 
      <dl>

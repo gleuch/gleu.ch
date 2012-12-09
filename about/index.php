@@ -65,10 +65,10 @@ $page_title = 'About Greg Leuch: Creative + User Interaction';
 
     <?php include_once('../_globals/newsletter.inc.php'); ?>
 
-    <!-- <section class="box">
+    <section class="box">
      <h4>Résumé</h4>
-     <p><a href="/assets/files/Greg-Leuch-resume.pdf" class="grey dc"><i class="icon pdf">PDF</i> download (131 kB)</a></p>
-    </section> -->
+     <p><a href="/assets/files/Greg-Leuch-resume.pdf" class="grey dc"><i class="icon pdf">PDF</i> download (159 kB)</a></p>
+    </section>
 
     <section class="box">
      <h4>Currently</h4>

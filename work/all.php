@@ -25,29 +25,16 @@ $page_title = 'Client List - Greg Leuch: Creative + User Interaction';
      <p class="large serif">Nothing better explains the skills and expertise of a true professional then by the quality of work they produce and a willingness to show it.</p>
     </section>
 
+    <!-- <div class="group callout_group first c">
+     <h3 class="callout">2013</h3>
+    </div> -->
+
     <div class="group callout_group first c">
      <h3 class="callout">2012</h3>
-
-     <?php if (false): ?>
-      <dl>
-       <dt><a href="https://pop-block.com" target="_blank">Pop Block <i class="icon link">Link</i></a></dt>
-       <dd>co-founder</dd>
-       <dd>design, develop</dd>
-       <dd><em>Rails app, browser extensions</em></dd>
-      </dl>
-     <?php endif; ?>
 
      <dl>
       <dt><a href="http://yourexcusesucks.com" target="_blank">Your Excuse Sucks <i class="icon link">Link</i></a></dt>
       <dd>Cultivated Wit / Ford Foundation</dd>
-      <dd>design, develop</dd>
-      <dd><em>Rails app, browser extensions</em></dd>
-     </dl>
-
-
-     <dl>
-      <dt><a href="http://metafetch.com" target="_blank">Metafetch <i class="icon link">Link</i></a></dt>
-      <dd>co-founder</dd>
       <dd>design, develop</dd>
       <dd><em>Rails app, browser extensions</em></dd>
      </dl>

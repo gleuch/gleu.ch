@@ -104,8 +104,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
 
     <section class="box">
      <h4>Who</h4>
-<?php /* eventually add pop-block */ ?>
-     <p>Maker of <!-- <a href="https://pop-block.com">Pop Block</a>, --> <a href="http://metafetch.com" target="_blank">Metafetch</a> and other products. <a href="http://fffff.at" target="_blank">F.A.T. Lab</a> virtual fellow. Previously at BuzzFeed, Know Your Meme, Rocketboom, and JESS3.</p>
+     <p>Maker of <a href="https://pop-block.com">Pop Block</a>, <a href="http://metafetch.com" target="_blank">Metafetch</a> and other products. <a href="http://fffff.at" target="_blank">F.A.T. Lab</a> virtual fellow. Previously at BuzzFeed, Know Your Meme, Rocketboom, and JESS3.</p>
     </section>
 
     <section class="box">
