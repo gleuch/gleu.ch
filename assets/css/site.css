@@ -129,6 +129,8 @@ p.large.serif.lt_grey {color: rgba(102,101,103,.82);}
 .mfull.inline {display: inline !important;}
 .mmobile, .mmobile.inline {display: none !important;}
 
+ins.new {display: inline-block; font-size: .5em; line-height: 1.0em; margin: -5px 2px 0 2px; padding: 4px 5px; text-transform: uppercase; background: rgba(194,226,226,1); border: 0px solid transparent; border-radius: 3px; color: rgba(8,120,120,.72); vertical-align: middle; box-shadow: 0 1px 1px rgba(106,105,107,.24);}
+
 
 /* --- STRUCTURE STYLES ------------------------------------------------------- */
 
@@ -162,7 +164,8 @@ p.large.serif.lt_grey {color: rgba(102,101,103,.82);}
 #content .featured_list ul {list-style: none; padding: 0; margin: 0;}
 #content .featured_list ul li {margin: 12px 0 0 0; padding: 16px 0 0 0; border-top: 1px solid rgba(69,68,68,.12); font-size: 1.0em;}
 #content .featured_list ul li:first-child {border: none; margin: 0; padding-top: 0;}
-#content .featured_list dl dt {color: rgba(88,87,89,1); font-size: 2.4em; font-family: 'AdriannaDemibold', Helvetica, Arial, sans-serif; font-weight: 600;}
+#content .featured_list dl dt {position: relative; color: rgba(88,87,89,1); font-size: 2.4em; font-family: 'AdriannaDemibold', Helvetica, Arial, sans-serif; font-weight: 600;}
+#content .featured_list dl dt ins.new {position: absolute; z-index: 1000; top: -198px; left: -14px; -webkit-transform: rotate(-35deg); font-size: .67em; padding: 5px 8px;}
 #content .featured_list dl dt a {color: rgba(88,87,89,1);}
 #content .featured_list dl dt a:hover {color: rgba(25,162,162,1);}
 #content .featured_list dl dd {font-size: 1.1em; padding: 0 0 2px 0; color: rgba(102,101,103,.82);}
