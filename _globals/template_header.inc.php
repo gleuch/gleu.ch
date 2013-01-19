@@ -52,7 +52,6 @@ if (!isset($meta_tags)) $meta_tags = array();
  <link rel="stylesheet" href="/assets/css/<?php echo $css['css'] ?>" media="<?php echo (isset($css['media']) ? $css['media'] : 'all') ?>" />
 <?php endforeach; ?>
 
- <script type="text/javascript" src="https://raw.github.com/fatlab/RIP_Aaron/master/RIP_aaron.js"></script>
 
  <script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-2855868-25']);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script>
 

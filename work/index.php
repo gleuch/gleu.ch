@@ -156,6 +156,9 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
      <h4>What</h4>
      <p>User Experience Designer with a background in interface design, interaction design, visual design, e-commerce, and web development.</p>
     </section>
+
+    <?php include_once('../_globals/sidebar.work_avail.inc.php'); ?>
+
    </aside>
 
   </div>

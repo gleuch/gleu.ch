@@ -2,7 +2,7 @@
 
 include_once('./_globals/functions.inc.php');
 
-array_push($_flashes, array('type' => '', 'msg' => 'A work in progress. Stay tuned!'));
+// array_push($_flashes, array('type' => '', 'msg' => 'A work in progress. Stay tuned!'));
 
 
 $page_title = 'Greg Leuch: Creative + User Interaction';
@@ -110,7 +110,6 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
 
    <aside id="sidebar">
 
-    <?php include_once('./_globals/newsletter.inc.php'); ?>
 
     <section class="box">
      <h4>Who</h4>
@@ -121,6 +120,10 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
      <h4>What</h4>
      <p>Creative freelancer with a background in user experience design, interface design, interaction design, visual design, e-commerce, and web development.</p>
     </section>
+
+    <?php include_once('./_globals/sidebar.work_avail.inc.php'); ?>
+
+    <?php include_once('./_globals/newsletter.inc.php'); ?>
 
     <section class="box">
      <h4>Online Activity</h4>

@@ -41,7 +41,7 @@ $page_title = 'About Greg Leuch: Creative + User Interaction';
     <section class="list">
      <dl>
       <dt>Major Exhibitions</dt>
-      <dd>"F.A.T. GOLD: Five Years of Free Art &amp; Technology". Eyebeam, NYC, <s>Nov 2012</s> Mar 2013.</dd>
+      <dd>"F.A.T. GOLD: Five Years of Free Art &amp; Technology". Eyebeam, NYC, <s>Nov 2012</s> Apr 2013.</dd>
       <dd>"C.R.E.A.M.," Art Micro-Patronage. Internet, Apr 2012</dd>
       <dd>"Distributed Collectives," Little Berlin. Philadelphia, Aug 2011</dd>
       <dd>"Futurity Now!," transmediale.10. Berlin, Germany, Feb 2010.</dd>
@@ -63,17 +63,19 @@ $page_title = 'About Greg Leuch: Creative + User Interaction';
 
    <aside id="sidebar">
 
-    <?php include_once('../_globals/newsletter.inc.php'); ?>
+    <section class="box">
+     <h4>Currently</h4>
+     <p>Greg currently lives in Brooklyn, NY, where he is spending some valuable time working on personal projects and researching new ideas &amp; technologies.</p>
+    </section>
+
+    <?php include_once('../_globals/sidebar.work_avail.inc.php'); ?>
 
     <section class="box">
      <h4>Résumé</h4>
      <p><a href="/assets/files/Greg-Leuch-resume.pdf" class="grey dc"><i class="icon pdf">PDF</i> download (159 kB)</a></p>
     </section>
 
-    <section class="box">
-     <h4>Currently</h4>
-     <p>Greg currently lives in Brooklyn, NY, where he is spending some valuable time working on personal projects and researching new ideas &amp; technologies.</p>
-    </section>
+    <?php include_once('../_globals/newsletter.inc.php'); ?>
 
     <section class="box">
      <h4>Online Activity</h4>

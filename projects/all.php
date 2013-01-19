@@ -25,11 +25,17 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
      <p class="large serif">No matter the size, tinkering on new projects keeps one active and sharp, and all deserve a little recognition.</p>
     </section>
 
-    <!-- <div class="group callout_group first c">
-     <h3 class="callout">2013</h3>
-    </div> -->
-
     <div class="group callout_group first c">
+     <h3 class="callout">2013</h3>
+
+     <dl>
+      <dt><a href="http://gleu.ch/fun/technobaby" target="_blank">Technobaby <i class="icon link">Link</i></a></dt>
+      <dd>art prototype</dd>
+      <dd><em>HTML5 / CSS3</em></dd>
+     </dl>
+    </div>
+
+    <div class="group callout_group c">
      <h3 class="callout">2012</h3>
 
      <dl>
@@ -41,7 +47,7 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
 
      <dl>
       <dt><a href="http://displaymode.xolator.com" target="_blank">Display Mode <i class="icon link">Link</i></a></dt>
-      <dd>XOlator&trade;</dd>
+      <dd>XOlator</dd>
       <dd><em>web app</em></dd>
      </dl>
 
@@ -284,6 +290,8 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
    </article>
 
    <aside id="sidebar">
+
+    <?php include_once('../_globals/sidebar.work_avail.inc.php'); ?>
 
    </aside>
 

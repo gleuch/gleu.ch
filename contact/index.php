@@ -127,12 +127,10 @@ $page_title = 'Contact Greg Leuch: Creative + User Interaction';
 
    <aside id="sidebar">
 
+    <?php include_once('../_globals/sidebar.work_avail.inc.php'); ?>
+
     <?php include_once('../_globals/newsletter.inc.php'); ?>
 
-    <section class="box">
-     <h4>Work Availablity</h4>
-     <p>Available for part-time, uniquely creative freelance work.</p>
-    </section>
 
     <section class="box">
      <h4>Other Methods</h4>

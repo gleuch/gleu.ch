@@ -465,6 +465,8 @@ $page_title = 'Client List - Greg Leuch: Creative + User Interaction';
 
    <aside id="sidebar">
 
+    <?php include_once('../_globals/sidebar.work_avail.inc.php'); ?>
+
    </aside>
 
   </div>
