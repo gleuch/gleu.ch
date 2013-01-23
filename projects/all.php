@@ -29,6 +29,12 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
      <h3 class="callout">2013</h3>
 
      <dl>
+      <dt><a href="http://projects.gleu.ch/2013/sometimes-you-see-it/" target="_blank">Sometimes You See It <i class="icon link">Link</i></a></dt>
+      <dd>net art</dd>
+      <dd><em>HTML</em></dd>
+     </dl>
+
+     <dl>
       <dt><a href="http://gleu.ch/fun/technobaby" target="_blank">Technobaby <i class="icon link">Link</i></a></dt>
       <dd>art prototype</dd>
       <dd><em>HTML5 / CSS3</em></dd>
