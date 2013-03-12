@@ -36,7 +36,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
           <dd class="image">
            <figure><a href="/projects/pop-block"><img src="/assets/projects/pop-block/feature.png" title="Pop Block" alt="" /></a></figure>
           </dd>
-          <dt><a href="/projects/pop-block">Pop Block <ins class="new">New!</ins></a></dt>
+          <!-- <dt><a href="/projects/pop-block">Pop Block <ins class="new">New!</ins></a></dt> -->
           <dd class="about">Manage your content bubble by controlling aspects of your online experience.</dd>
           <dd>web application, browser extensions</dd>
          </dl>
@@ -113,7 +113,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
 
     <section class="box">
      <h4>Who</h4>
-     <p>Maker of <a href="https://pop-block.com">Pop Block</a>, <a href="http://metafetch.com" target="_blank">Metafetch</a> and other products. <a href="http://fffff.at" target="_blank">F.A.T. Lab</a> virtual fellow. Previously at BuzzFeed, Know Your Meme, Rocketboom, and JESS3.</p>
+     <p>Co-founder, Tech/R&amp;D at <a href="http://www.xolator.com" target="_blank">XOlator</a>. Maker of <a href="https://pop-block.com">Pop Block</a>, <a href="http://metafetch.com" target="_blank">Metafetch</a> and other products. 2013 Spring/Summer Eyebeam Resident. <a href="http://fffff.at" target="_blank">F.A.T. Lab</a> virtual fellow.</p>
     </section>
 
     <section class="box">

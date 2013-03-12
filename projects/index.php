@@ -194,7 +194,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
     <section class="box">
      <h4>Create &amp; Release</h4>
      <p>Greg works more specifically with design and web technology, with a focus with browser extensions. His multi-faceted skills allows him to experiment with ideas of content, community, commerce, and user interaction.</p>
-     <p>His projects are primarily released through the <a href="http://fffff.at" target="_blank">Free Art &amp; Technology Lab (F.A.T. Lab)</a>, where he is a Virtual Fellow.</p>
+     <p>His projects are primarily released through the <a href="http://fffff.at" target="_blank">Free Art &amp; Technology Lab (F.A.T. Lab)</a> and <a href="http://www.xolator.com" target="_blank">XOlator</a>.</p>
     </section>
 
     <?php include_once('../_globals/sidebar.work_avail.inc.php'); ?>

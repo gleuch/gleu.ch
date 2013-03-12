@@ -149,7 +149,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
    <aside id="sidebar">
     <section class="box">
      <h4>Who</h4>
-     <p>Creative freelancer. Making Metafetch. Former Senior Designer at Buzzfeed. Previously at Know Your Meme/Rocketboom and JESS3. Current F.A.T. Lab virtual fellow. New York City, New York. Design, web, technology, and art.</p>
+     <p>Creative freelancer. Co-founder of <a href="http://www.xolator.com" target="_blank">XOlator</a>. Current Eyebeam Resident and F.A.T. Lab virtual fellow.</p>
     </section>
 
     <section class="box">

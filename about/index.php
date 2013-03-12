@@ -32,8 +32,8 @@ $page_title = 'About Greg Leuch: Creative + User Interaction';
     </figure>
 
     <section class="bio">
-     <p class="large serif">Greg Leuch is a creative &amp; user interaction designer, specializing in user interface design, usability, front-end development, and feature research. He has worked on a variety of projects in the past, large and small, with emphasis on web startups and e-commerce. Greg is presently working as a creative freelancer. He was previously Senior Designer at <a href="http://www.buzzfeed.com" target="_blank">BuzzFeed</a> and Director of Research &amp; Development at <a href="http://www.rocketboom.com" target="_blank">Rocketboom</a>, working on such projects like <a href="http://www.knowyourmeme.com" target="_blank">Know Your Meme</a> and <a href="http://mag.ma" target="_blank">Magma</a>. He was also a freelance creative with <a href="http://jess3.com" target="_blank">JESS3</a>. Greg is currently a virtual research fellow of <a href="http://fffff.at" target="_blank">Free Art and Technology Lab (F.A.T. Lab)</a> and member of <a href="http://artzilla.org" target="_blank">Artzilla.org</a>.</p>
-     <p class="large serif">Presently, Greg is creating <a href="http://metafetch.com" target="_blank" rel="follow">Metafetch</a>, a content organization platform targeted towards group collaboration and research.</p>
+     <p class="large serif">Greg Leuch is a creative &amp; user interaction designer, specializing in user interface design, usability, front-end development, and feature research. He has worked on a variety of projects in the past, large and small, with emphasis on web startups and e-commerce. Greg is presently working as a creative freelancer. He was previously Senior Designer at <a href="http://www.buzzfeed.com" target="_blank">BuzzFeed</a> and Director of Research &amp; Development at <a href="http://www.rocketboom.com" target="_blank">Rocketboom</a>, working on such projects like <a href="http://www.knowyourmeme.com" target="_blank">Know Your Meme</a> and <a href="http://mag.ma" target="_blank">Magma</a>. He was also a freelance creative with <a href="http://jess3.com" target="_blank">JESS3</a>.</p>
+     <p class="large serif">Presently, Greg is co-founder of <a href="http://www.xolator.com" target="_blank">XOlator</a>, a creative engagement team. He is also a 2013 Spring/Summer Eyebeam Resident and a virtual research fellow of <a href="http://fffff.at" target="_blank">Free Art and Technology Lab (F.A.T. Lab)</a>.</p>
      <p class="large serif">He is fluent in XHTML/CSS, Ruby (Rails), JavaScript, and PHP, with extensive experience with browser extension development.</p>
      <p class="large serif">He currently resides in Brooklyn, NY.</p>
     </section>
@@ -41,7 +41,7 @@ $page_title = 'About Greg Leuch: Creative + User Interaction';
     <section class="list">
      <dl>
       <dt>Major Exhibitions</dt>
-      <dd>"F.A.T. GOLD: Five Years of Free Art &amp; Technology". Eyebeam, NYC, <s>Nov 2012</s> Apr 2013.</dd>
+      <dd>"F.A.T. GOLD: Five Years of Free Art &amp; Technology". Eyebeam, NYC, Apr 2013.</dd>
       <dd>"C.R.E.A.M.," Art Micro-Patronage. Internet, Apr 2012</dd>
       <dd>"Distributed Collectives," Little Berlin. Philadelphia, Aug 2011</dd>
       <dd>"Futurity Now!," transmediale.10. Berlin, Germany, Feb 2010.</dd>
@@ -65,15 +65,17 @@ $page_title = 'About Greg Leuch: Creative + User Interaction';
 
     <section class="box">
      <h4>Currently</h4>
-     <p>Greg currently lives in Brooklyn, NY, where he is spending some valuable time working on personal projects and researching new ideas &amp; technologies.</p>
+     <p>Greg currently lives in Brooklyn, NY, where he is spending some valuable time starting a new business.</p>
     </section>
 
     <?php include_once('../_globals/sidebar.work_avail.inc.php'); ?>
 
+    <?php if (false): ?>
     <section class="box">
      <h4>Résumé</h4>
      <p><a href="/assets/files/Greg-Leuch-resume.pdf" class="grey dc"><i class="icon pdf">PDF</i> download (159 kB)</a></p>
     </section>
+    <?php endif; ?>
 
     <?php include_once('../_globals/newsletter.inc.php'); ?>
 
