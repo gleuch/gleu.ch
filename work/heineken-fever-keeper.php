@@ -57,6 +57,16 @@ $page_title = 'Heineken Fever Keeper - Greg Leuch: Creative + User Interaction';
 
     <hr />
 
+    <section class="awards grouped_list c">
+     <h3>Awards</h3>
+
+     <dl>
+      <dt><em>2013 Interactive Award &ndash; Social</em></dt>
+      <dd>Communication Arts</dd>
+     </dl>
+
+    </section>
+
     <section class="press item_list c">
      <h3>Press</h3>
 
