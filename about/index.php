@@ -52,6 +52,7 @@ $page_title = 'About Greg Leuch: Creative + User Interaction';
       <dd>"The Behavior Gap Between Companies and People", RESPECT THE INTERNET. Dec 2010.</dd>
       <dd>"Shaved Bieber", Ignite NYC. Jun 2010. <a href="httphttp://www.youtube.com/watch?v=VhvtAvFBwSk" target="_blank">[Watch]</a></dd>
       <dt>Awards, Highlights, &amp; Distinctions</dt>
+      <dd>Interactive Award &ndash; Social, Communication Arts, 2013. <a href="www.commarts.com/interactive/cai13/heinekenkeepitlegendary.html">[Source]</a></dd>
       <dd>"11 Net Artists You Should Know," Flavorpill, 2012. <a href="http://www.flavorwire.com/324680/10-net-artists-you-should-know#4" target="_blank">[Read]</a></dd>
       <dd>An "all-round viral heavyweight". <a href="http://adissertationblog.tumblr.com/post/16782867534/working-the-buzzfeed-contact-sheet">[Source]</a></dd>
       <dd>"Shaved Bieber," 2010 Urlies Peoples' Choice Award. Urlesque, 2010.</dd>
