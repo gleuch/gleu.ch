@@ -149,7 +149,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
    <aside id="sidebar">
     <section class="box">
      <h4>Who</h4>
-     <p>Creative freelancer. Co-founder of <a href="http://www.xolator.com" target="_blank">XOlator</a>. Current Eyebeam Resident and F.A.T. Lab virtual fellow.</p>
+     <p>Creative freelancer. Co-owner of <a href="http://www.xolator.com" target="_blank">XOlator</a>. F.A.T. Lab virtual fellow.</p>
     </section>
 
     <section class="box">

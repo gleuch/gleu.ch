@@ -39,6 +39,39 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
       <dd>art prototype</dd>
       <dd><em>HTML5 / CSS3</em></dd>
      </dl>
+
+     <dl>
+      <dt><a href="https://rubygems.org/gems/wayback" target="_blank">Wayback Ruby Gem <i class="icon link">Link</i></a></dt>
+      <dd>XOlator</dd>
+      <dd><em>Ruby gem</em></dd>
+     </dl>
+
+     <dl>
+      <dt><a href="https://github.com/XOlator/wayback_proxy_server" target="_blank">Wayback WiFi <i class="icon link">Link</i></a></dt>
+      <dd>XOlator, w/ Jiashan Wu</dd>
+      <dd><em>interactive/environmental net art</em></dd>
+      <dd>support by Eyebeam</dd>
+     </dl>
+
+     <dl>
+      <dt><a href="http://whatcolor.istheinter.net/?" target="_blank">WhatColor.IsTheInter.net/? <i class="icon link">Link</i></a></dt>
+      <dd>w/ Jiashan Wu</dd>
+      <dd><em>net art</em></dd>
+      <dd>support by Eyebeam</dd>
+     </dl>
+
+     <dl>
+      <dt><a href="http://fffffartsy.com" target="_blank">F[ree] Art[sy] <i class="icon link">Link</i></a></dt>
+      <dd>w/ Evan Roth</dd>
+      <dd><em>web site, net art</em></dd>
+     </dl>
+
+     <!-- <dl>
+      <dt><a href="http://themihi.net" target="_blank">Museum of Internet History International <i class="icon link">Link</i></a></dt>
+      <dd>XOlator, w/ Jiashan Wu</dd>
+      <dd><em>web site</em></dd>
+      <dd>support by Eyebeam</dd>
+     </dl> -->
     </div>
 
     <div class="group callout_group c">
@@ -46,7 +79,7 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
 
      <dl>
       <dt><a href="https://pop-block.com" target="_blank">Pop Block <i class="icon link">Link</i></a></dt>
-      <dd>founder</dd>
+      <dd>XOlator</dd>
       <dd>design, develop</dd>
       <dd><em>Rails app, browser extensions</em></dd>
      </dl>
@@ -59,7 +92,7 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
 
      <dl>
       <dt><a href="http://metafetch.com" target="_blank">Metafetch <i class="icon link">Link</i></a></dt>
-      <dd>co-founder</dd>
+      <dd>XOlator</dd>
       <dd>design, develop</dd>
       <dd><em>Rails app, browser extensions</em></dd>
      </dl>
@@ -139,6 +172,11 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
      <dl>
       <dt><a href="http://fffff.at/tinted-sheen/" target="_blank">Tinted Sheen <i class="icon link">Link</i></a></dt>
       <dd><em>browser extensions</em></dd>
+     </dl>
+
+     <dl>
+      <dt><a href="http://fffff.at/fb-disliek/example.html" target="_blank">Facebook Dislike <i class="icon link">Link</i></a></dt>
+      <dd><em>code example</em></dd>
      </dl>
 
      <dl>

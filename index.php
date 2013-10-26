@@ -113,7 +113,9 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
 
     <section class="box">
      <h4>Who</h4>
-     <p>Co-founder, Tech/R&amp;D at <a href="http://www.xolator.com" target="_blank">XOlator</a>. Maker of <a href="https://pop-block.com">Pop Block</a>, <a href="http://metafetch.com" target="_blank">Metafetch</a> and other products. 2013 Spring/Summer Eyebeam Resident. <a href="http://fffff.at" target="_blank">F.A.T. Lab</a> virtual fellow.</p>
+     <p>Co-owner, Tech/R&amp;D at <a href="http://www.xolator.com" target="_blank">XOlator</a>.</p>
+     <p><a href="http://fffff.at" target="_blank">F.A.T. Lab</a> virtual fellow.</p>
+     <p>Maker of <a href="https://pop-block.com">Pop Block</a>, <a href="http://metafetch.com" target="_blank">Metafetch</a> and other products.</p>
     </section>
 
     <section class="box">

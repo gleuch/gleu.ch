@@ -44,6 +44,8 @@ $page_title = 'Dr. Google - Greg Leuch: Creative + User Interaction';
     </div>
 
     <section class="blurb paragraph c">
+     <p class="medium" style="padding-top: 9px;"><strong><u>UPDATE:</u> On October 1st, 2013, The Google Trademark team send FAT Lab a cease and desist letter on use of logo, trademark, and likeness of the site. To comply with the request, the Dr. Google site has been taken down and replaced with the contents of the C&amp;D letter.</strong></p>
+     <hr />
      <p class="medium serif">Feeling sick? Not sure what you've come down with? Let Google diagnose you! Enter your symptoms into the search box, and press "I'm Feeling Icky" to be diagnosed. Don't like your options? Go back and get a "Second Opinion".</p>
      <p class="medium serif tc" style="padding: 15px 0;"><a href="http://fffff.at/dr-google" class="button">Visit Dr. Google!</a></p>
     </section>
