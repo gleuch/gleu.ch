@@ -64,6 +64,16 @@ $page_title = 'Shaved Bieber - Greg Leuch: Creative + User Interaction';
      <h3>Exhibitions</h3>
 
      <dl>
+      <dt><em>FAT GOLD Europe</em></dt>
+      <dd>MU<br />Eindhoven, Netherlands<br />Nov 2013</dd>
+     </dl>
+
+     <dl>
+      <dt><em>FAT GOLD: Five Years of Free Art &amp; Technology</em></dt>
+      <dd>Eyebeam<br />NYC, NY<br />Apr 2013</dd>
+     </dl>
+
+     <dl>
       <dt><em>SPEED SHOW vol.4: 'Super Niche'</em></dt>
       <dd>90 Bowery Internet Cafe<br />NYC, NY<br />Oct 2010</dd>
      </dl>
