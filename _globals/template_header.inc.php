@@ -54,5 +54,18 @@ if (!isset($meta_tags)) $meta_tags = array();
 
 
  <script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-2855868-25']);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script>
-
+ <script type="text/javascript">
+   /* XO Backtrack - an XOlator R&D Project [BETA] - (C) 2014 */
+   (function() {
+     var a   = document.createElement('script');
+     a.setAttribute('data-xobacktrack-id', '1-c0ae63707b');
+     a.setAttribute('data-xobacktrack-version', '1.0');
+     a.async = true;
+     a.id    = 'xobacktrack-js';
+     a.src   = 'http://xobacktrack.xolator.com/v1/xo.js';
+     a.type  = 'text/javascript';
+     var b = document.getElementsByTagName('script')[0];
+     b.parentNode.insertBefore(a, b);
+   })();
+ </script>
 </head>
