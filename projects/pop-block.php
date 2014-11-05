@@ -27,7 +27,7 @@ $page_title = 'Pop Block - Greg Leuch: Creative + User Interaction';
     <div class="item_intro rel">
      <section class="intro">
       <h4>Web Application, Browser Extensions</h4>
-      <h1>Pop Block <ins class="new">New!</ins></h1>
+      <h1>Pop Block</h1>
       <p class="large serif">Manage your content bubble by controlling aspects of your online experience.</p>
      </section>
 

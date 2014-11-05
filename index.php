@@ -47,7 +47,7 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
           <dd class="image">
            <figure><a href="/projects/pop-block"><img src="/assets/projects/pop-block/feature.png" title="Pop Block" alt="" /></a></figure>
           </dd>
-          <dt><a href="/projects/pop-block">Pop Block <ins class="new">New!</ins></a></dt>
+          <dt><a href="/projects/pop-block">Pop Block</a></dt>
           <dd class="about">Manage your content bubble by controlling aspects of your online experience.</dd>
           <dd>web application, browser extensions</dd>
          </dl>

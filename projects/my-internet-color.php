@@ -28,7 +28,7 @@ array_push($_flashes, array('type' => '', 'msg' => 'on-going project - check bac
     <div class="item_intro rel">
      <section class="intro">
       <h4>Applictions &amp; Algorithms, Internet</h4>
-      <h1>My Internet Color <!-- <ins class="new">New!</ins> --></h1>
+      <h1>My Internet Color <ins class="new">New!</ins></h1>
       <p class="large serif">An experiment in quantified self, browsing history, and color data.</p>
      </section>
 
