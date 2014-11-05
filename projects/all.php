@@ -26,6 +26,30 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
     </section>
 
     <div class="group callout_group first c">
+     <h3 class="callout">2014</h3>
+
+     <dl>
+      <dt><a href="/projects/my-internet-color" target="_blank">My Internet Color <i class="icon link">Link</i></a></dt>
+      <dd>net art</dd>
+      <dd><em>algorithms, data, internet</em></dd>
+     </dl>
+
+     <dl>
+      <dt><a href="http://fffff.at/dood-remove/" target="_blank">DOOD Remove <i class="icon link">Link</i></a></dt>
+      <dd>w/ Aram Bartholl</dd>
+      <dd>net art</dd>
+      <dd><em>browser extension, internet</em></dd>
+     </dl>
+
+     <dl>
+      <dt>WhatColor.IsTheInter.net/? - No. 2</dt>
+      <dd>net art</dd>
+      <dd><em>sculpture, electronics, data, internet</em></dd>
+     </dl>
+
+    </div>
+
+    <div class="group callout_group c">
      <h3 class="callout">2013</h3>
 
      <dl>

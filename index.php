@@ -34,6 +34,17 @@ $page_title = 'Greg Leuch: Creative + User Interaction';
         <li>
          <dl>
           <dd class="image">
+           <figure><a href="/projects/my-internet-color"><img src="/assets/projects/myinternetcolor/feature.png" title="My Internet Color" alt="" /></a></figure>
+          </dd>
+          <dt><a href="/projects/my-internet-color">My Internet Color <ins class="new">New!</ins></a></dt>
+          <dd class="about">An experiment in quantified self, browsing history, and color data.</dd>
+          <dd>applictions &amp; algorithms, data, internet</dd>
+         </dl>
+        </li>
+
+        <li>
+         <dl>
+          <dd class="image">
            <figure><a href="/projects/pop-block"><img src="/assets/projects/pop-block/feature.png" title="Pop Block" alt="" /></a></figure>
           </dd>
           <dt><a href="/projects/pop-block">Pop Block <ins class="new">New!</ins></a></dt>

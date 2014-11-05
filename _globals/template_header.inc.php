@@ -21,7 +21,7 @@ if (!isset($meta_tags)) $meta_tags = array();
 ?>
 <head>
   <!--
-    All work is copyrighted 2012 by Greg Leuch and/or its respective owners.
+    All work is copyrighted 2014 by Greg Leuch and/or its respective owners.
     All other non-copyrighted or non-licensed work is licensed under a Creative Commons Attribution-Share Alike 3.0 United States License <http://creativecommons.org/licenses/by-sa/3.0/us>.
     Permissions beyond the scope of this license may be available at: https://gleu.ch/contact.
    -->

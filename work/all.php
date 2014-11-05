@@ -25,11 +25,97 @@ $page_title = 'Client List - Greg Leuch: Creative + User Interaction';
      <p class="large serif">Nothing better explains the skills and expertise of a true professional then by the quality of work they produce and a willingness to show it.</p>
     </section>
 
-    <!-- <div class="group callout_group first c">
-     <h3 class="callout">2013</h3>
-    </div> -->
-
     <div class="group callout_group first c">
+     <h3 class="callout">2014</h3>
+     <dl>
+      <dt>Nike - Digital Sports Team</dt>
+      <dd>XOlator</dd>
+      <dd><em>develop</em></dd>
+      <dd><em>data analytics, interactive presentations</em></dd>
+     </dl>
+     <dl>
+      <dt>Film Presence</dt>
+      <dd>XOlator</dd>
+      <dd><em>design, develop</em></dd>
+     </dl>
+     <dl>
+      <dt>What's Trending</dt>
+      <dd>XOlator</dd>
+      <dd><em>project management, design, develop</em></dd>
+      <dd><em>Rails app</em></dd>
+     </dl>
+     <dl>
+      <dt>Studio Huerta</dt>
+      <dd>XOlator</dd>
+      <dd><em>design, develop</em></dd>
+     </dl>
+     <dl>
+      <dt>Interior Design, 2014 Best of Year Awards</dt>
+      <dd>XOlator</dd>
+      <dd><em>project management, develop</em></dd>
+      <dd><em>Rails app, e-commerce</em></dd>
+     </dl>
+    </div>
+
+    <div class="group callout_group c">
+     <h3 class="callout">2013</h3>
+     <dl>
+      <dt>Listings Project</dt>
+      <dd>XOlator</dd>
+      <dd><em>project management, develop</em></dd>
+      <dd><em>Rails app, e-commerce</em></dd>
+     </dl>
+     <dl>
+      <dt>Nike - Digital Sports Team</dt>
+      <dd>XOlator</dd>
+      <dd><em>develop</em></dd>
+      <dd><em>data analytics, interactive presentations</em></dd>
+     </dl>
+     <dl>
+      <dt>Interior Design, 2013 Best of Year Awards</dt>
+      <dd>XOlator</dd>
+      <dd><em>project management, develop</em></dd>
+      <dd><em>Rails app, e-commerce</em></dd>
+     </dl>
+     <dl>
+      <dt>Cultivated Wit</dt>
+      <dd>XOlator</dd>
+      <dd><em>develop</em></dd>
+     </dl>
+     <dl>
+      <dt>Selectable Media</dt>
+      <dd>XOlator</dd>
+      <dd><em>design, develop</em></dd>
+     </dl>
+     <dl>
+      <dt>Cloud Catering</dt>
+      <dd>XOlator</dd>
+      <dd><em>design, develop</em></dd>
+     </dl>
+     <dl>
+      <dt>Beutler Ink</dt>
+      <dd>XOlator</dd>
+      <dd><em>design, develop</em></dd>
+     </dl>
+     <dl>
+      <dt>Treatings</dt>
+      <dd>XOlator</dd>
+      <dd><em>develop</em></dd>
+      <dd><em>Rails app</em></dd>
+     </dl>
+     <dl>
+      <dt>Knock Twice</dt>
+      <dd>XOlator</dd>
+      <dd><em>develop</em></dd>
+     </dl>
+     <dl>
+      <dt>Little Bird HR</dt>
+      <dd>XOlator &amp; OCD</dd>
+      <dd><em>develop</em></dd>
+     </dl>
+    </div>
+
+    <div class="group callout_group c">
      <h3 class="callout">2012</h3>
 
      <dl>
