@@ -35,7 +35,7 @@ $page_title = 'Projects List - Greg Leuch: Creative + User Interaction';
      </dl>
 
      <dl>
-      <dt><a href="http://gleu.ch/fun/technobaby" target="_blank">Technobaby <i class="icon link">Link</i></a></dt>
+      <dt><a href="https://gleu.ch/fun/technobaby" target="_blank">Technobaby <i class="icon link">Link</i></a></dt>
       <dd>art prototype</dd>
       <dd><em>HTML5 / CSS3</em></dd>
      </dl>

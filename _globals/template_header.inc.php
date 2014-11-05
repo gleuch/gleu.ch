@@ -23,7 +23,7 @@ if (!isset($meta_tags)) $meta_tags = array();
   <!--
     All work is copyrighted 2012 by Greg Leuch and/or its respective owners.
     All other non-copyrighted or non-licensed work is licensed under a Creative Commons Attribution-Share Alike 3.0 United States License <http://creativecommons.org/licenses/by-sa/3.0/us>.
-    Permissions beyond the scope of this license may be available at: http://gleu.ch/contact.
+    Permissions beyond the scope of this license may be available at: https://gleu.ch/contact.
    -->
 
  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
@@ -33,7 +33,7 @@ if (!isset($meta_tags)) $meta_tags = array();
  <link rel="canonical" href="<?php echo $canonical_url; ?>" />
  <meta name="description" content="<?php echo $meta_description; ?>"/>
  <meta name="keywords" content="<?php echo $meta_keywords; ?>"/>
- <meta name="author" content="Greg Leuch at http://gleu.ch/"/>
+ <meta name="author" content="Greg Leuch at https://gleu.ch/"/>
  <meta name="robots" content="<?php echo $meta_robots; ?>" />
  <meta name="googlebot" content="<?php echo $meta_robots; ?>"/>
  <meta name="revisit-after" content="3 days" />
@@ -54,18 +54,4 @@ if (!isset($meta_tags)) $meta_tags = array();
 
 
  <script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-2855868-25']);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script>
- <script type="text/javascript">
-   /* XO Backtrack - an XOlator R&D Project [BETA] - (C) 2014 */
-   (function() {
-     var a   = document.createElement('script');
-     a.setAttribute('data-xobacktrack-id', '1-c0ae63707b');
-     a.setAttribute('data-xobacktrack-version', '1.0');
-     a.async = true;
-     a.id    = 'xobacktrack-js';
-     a.src   = 'http://xobacktrack.xolator.com/v1/xo.js';
-     a.type  = 'text/javascript';
-     var b = document.getElementsByTagName('script')[0];
-     b.parentNode.insertBefore(a, b);
-   })();
- </script>
 </head>
